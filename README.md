@@ -2,6 +2,15 @@ Berlin Code of Conduct
 ======================
 
 
+Add Your User Group/Conference to the List
+------------------------------------------
+
+1. Fork repository.
+2. Open _data/supporters.json_ and add your name, location and link.
+3. Check if site is working locally if possible (see [setup](#setup)).
+4. Open a pull request.
+
+
 Setup
 -----
 

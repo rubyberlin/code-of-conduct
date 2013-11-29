@@ -1,7 +1,19 @@
-<h1 class="code-of-conduct--title">Berlin Code of Conduct</h1>
-<p class="code-of-conduct--sub-title">A Code of Conduct for all User Groups and Conferences</p>
-<section class="code-of-conduct--text">
+<h1 class="layout--title">Berlin Code of Conduct</h1>
+<p class="layout--sub-title">A Code of Conduct for all User Groups and Conferences</p>
+<section class="text">
   <%= partial 'code-of-conduct' %>
 </section>
-
+<section class="supporters">
+  <h2 class="supporters--title">Supporters</h2>
+  <p class="supporters--sub-title">Those user groups and conferences support the Berlin Code of Conduct:</p>
+  <ul class="supporters--list">
+    <% (data.supporters.usergroups + data.supporters.conferences).each do |supporter| %>
+      <li class="supporters--item">
+        <h3 class="supporters--item-name"><%= supporter.name %></h3>
+        <span class="supporters--item-location"><%= supporter.city %>/<%= supporter.country %></span>
+        <a class="supporters--item-link" href="<%= supporter.link %>"><%= supporter.link.sub(%r(https?://), '') %></a>
+      </li>
+    <% end %>
+  </ul>
+</section>
 
