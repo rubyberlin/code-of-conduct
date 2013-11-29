@@ -6,9 +6,17 @@ Add Your User Group/Conference to the List
 ------------------------------------------
 
 1. Fork repository.
-2. Open _data/supporters.json_ and add your name, location and link.
+2. Open *data/supporters.json* and add your name, location and link.
 3. Check if site is working locally if possible (see [setup](#setup)).
 4. Open a pull request.
+
+
+Additions or Changes to the Code of Conduct?
+--------------------------------------------
+
+1. Fork repository.
+2. Open *source/_code-of-conduct.md* and edit it.
+3. Open a pull request and add some lines why you want it to be changed.
 
 
 Setup
