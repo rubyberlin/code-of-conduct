@@ -73,13 +73,15 @@
   color: #888;
   font-size: 2rem;
   margin: 0;
-  text-align: center;
 }
 
 .supporters--sub-title {
   color: #888;
   margin: 0 0 2rem;
-  text-align: center;
+}
+
+.supporters--list {
+  padding-left: 1rem;
 }
 
 .supporters--item {
@@ -99,5 +101,14 @@
 .supporters--item-link {
   color: #333;
   margin-left: 0.5rem;
+}
+
+.supporters--add {
+  color: #888;
+  margin: 2rem 0;
+}
+
+.supporters--add-link {
+  color: #333;
 }
 
