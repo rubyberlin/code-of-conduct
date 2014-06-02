@@ -1,6 +1,28 @@
 {
   "usergroups": [
-    { "name": "RUG-B – Ruby User Group Berlin", "city": "Berlin", "country": "Germany", "link": "http://www.rug-b.de" }
+    {
+      "name": "RUG-B – Ruby User Group Berlin",
+      "city": "Berlin",
+      "country": "Germany",
+      "link": "http://www.rug-b.de",
+      "contacts": [
+        {
+          "name": "Tobias Pfeiffer",
+          "phone": "+49 160 205 0792",
+          "email": "pragtob@gmail.com"
+        },
+        {
+          "name": "Thilo Uttke",
+          "phone": "",
+          "email": "thilo@utke.me"
+        },
+        {
+          "name": "Nico Hagenburger",
+          "phone": "",
+          "email": "nico@hagenburger.net"
+        }
+      ]
+    }
   ],
   "conferences": [
   ]
