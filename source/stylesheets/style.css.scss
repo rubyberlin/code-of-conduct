@@ -1,7 +1,8 @@
 @charset "utf-8";
 
 %headline-font {
-  font-family: "proxima-nova", "helvetica", "arial", sans-serif;
+  font-family: "museo-sans", "helvetica", "arial", sans-serif;
+  font-weight: 100;
   text-transform: uppercase;
 }
 
@@ -9,9 +10,9 @@
 //// LAYOUT ////
 
 .layout {
-  font-family: "ff-enzo-web", "helvetica", "arial", sans-serif;
-  font-family: "chaparral-pro", "times new roman", serif;
-  font-size: 16px;
+  font-family: "ff-meta-serif-web-pro", "times new roman", serif;
+  font-size: 18px;
+  line-height: 1.4;
   margin: 1em auto;
   max-width: 900px;
   width: 90%;
@@ -21,28 +22,33 @@
   @extend %headline-font;
   color: #333;
   font-size: 3rem;
-  font-weight: bold;
-  margin: 3rem 0 0;
+  font-weight: 100;
+  margin: 5rem 0 0;
   text-align: center;
 }
 
 .layout--sub-title {
   @extend %headline-font;
   color: #888;
-  margin: 0 0 1rem;
+  font-size: 1rem;
+  letter-spacing: 1px;
+  margin: 0.25rem 0 1rem;
   text-align: center;
 
   &:before,
   &:after {
     color: #ccc;
     content: "  · · · ·  ";
+    @media all and (max-width: 570px) {
+      display: none;
+    }
   }
 }
 
 //// TEXT ////
 
 .text {
-  border: #ccc double;
+  border: #eee double;
   border-width: 3px 0;
   margin: 3rem 0;
   padding: 2rem 6rem;
@@ -51,11 +57,11 @@
   }
 
   h2 {
-    margin: 2rem 0 0.75rem;
+    margin: 3rem 0 1rem;
   }
 
   p {
-    margin: 0.75rem 0;
+    margin: 1rem 0;
   }
 
   li {
