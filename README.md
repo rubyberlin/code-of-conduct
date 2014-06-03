@@ -1,6 +1,7 @@
 Berlin Code of Conduct
 ======================
 
+This code of conduct is online at: http://rubyberlin.github.io/code-of-conduct/
 
 Add Your User Group/Conference to the List
 ------------------------------------------
