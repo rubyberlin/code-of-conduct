@@ -13,6 +13,7 @@
         <div class="user group">
           <span class="supporters--item-location"><%= supporter.city %>/<%= supporter.country %></span>
           <%= link_to supporter.link.sub(%r(https?://), ''), supporter.link, class: 'supporters--item-link' %>
+          <%= link_to('@' + supporter.twitter, 'https://twitter.com/' + supporter.twitter, class: 'supporters--item-link') unless supporter.twitter.empty? %>
         </div>
         <ul class="supporters--contacts">
           <% supporter.contacts.each do |contact| %>

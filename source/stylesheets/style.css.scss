@@ -114,6 +114,11 @@
 .supporters--item-link {
   color: #333;
   margin-left: 0.5rem;
+  text-decoration: none;
+
+  &:hover {
+    color: #777;
+  }
 }
 
 .supporters--contacts {
