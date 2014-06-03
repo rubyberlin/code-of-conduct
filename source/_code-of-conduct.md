@@ -1,7 +1,7 @@
 Purpose
 -------
 
-A primary goal of all the conferences and user groups that refer to this Code of Conduct is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status and religion (or lack thereof).
+A primary goal of all the conferences, meetups and user groups that refer to this Code of Conduct is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status and religion (or lack thereof).
 
 This Code of Conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
@@ -28,12 +28,18 @@ Expected Behavior
 *	Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
 
 
+Mindfullness
+------------
+
+We should aim at being mindful about others: imagine what would put others at ease, steer clear of what can put them in an uncomfortable situation, imagine what acts, concepts or images makes them feel isolated, alone and what others would help them feel integrated and welcome. Being mindful is a constant exercise: never stop. 
+
+
 Unacceptable Behavior
 ---------------------
 
 Unacceptable behaviors include: intimidating, harassing, abusive, discriminatory, derogatory or demeaning speech or actions by any participant in our community online, at all related events and in one-on-one communications carried out in the context of community business. Community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
 
-Harassment includes: harmful or prejudicial verbal or written comments related to gender, sexual orientation, race, religion, disability; inappropriate use of nudity and/or sexual images in public spaces (including presentation slides); deliberate intimidation, stalking or following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact, and unwelcome sexual attention.
+Harassment includes: harmful or prejudicial verbal or written comments related to gender, sexual orientation, race, religion, disability; inappropriate use of nudity and/or sexual images in public spaces (including presentation slides); use of gender stereotypes in speech or imagery (including presentation slides); deliberate intimidation, stalking or following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact, and unwelcome sexual attention.
 
 
 Consequences of Unacceptable Behavior
