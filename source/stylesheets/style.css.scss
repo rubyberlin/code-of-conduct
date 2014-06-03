@@ -76,6 +76,9 @@
 
 .supporters {
   padding: 2rem 6rem;
+  @media all and (max-width: 570px) {
+    padding: 2rem 0.5rem;
+  }
 }
 
 .supporters--title {
