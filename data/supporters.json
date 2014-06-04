@@ -46,6 +46,25 @@
           "phone": "+49 176 2019 5169",
           "email": "tils@tils.net"
         }
+      ],
+    },
+    {
+      "name": "Elasticsearch UG Berlin",
+      "city": "Berlin",
+      "country": "Germany",
+      "link": "http://www.meetup.com/ElasticSearch-UG-Berlin/",
+      "twitter": "elasticberlin",
+      "contacts": [
+        {
+          "name": "Florian Gilcher",
+          "phone": "+49 172 8122469",
+          "email": "florian.gilcher@asquera.de"
+        },
+        {
+          "name": "Cristina Santamarina",
+          "phone": "+49 151 19446249",
+          "email": "cristina.santamarina@asquera.de"
+        }
       ]
     }
   ],
