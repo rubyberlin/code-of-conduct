@@ -28,9 +28,27 @@
           "email": "dajana@rubyberlin.org"
         }
       ]
+    },
+    {
+      "name": "emacs-berlin",
+      "city": "Berlin",
+      "country": "Germany",
+      "link": "http://emacs-berlin.org",
+      "twitter": "",
+      "contacts": [
+        {
+          "name": "Arne Brasseur",
+          "phone": "+49 176 9746 8014",
+          "email": "arne@arnebrasseur.net"
+        },
+        {
+          "name": "Tilmann Singer",
+          "phone": "+49 176 2019 5169",
+          "email": "tils@tils.net"
+        }
+      ]
     }
   ],
   "conferences": [
   ]
 }
-
