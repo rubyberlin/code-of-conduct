@@ -80,6 +80,25 @@
           "email": "yann.simon.fr@gmail.com"
         }
       ]
+    },
+    {
+      "name": "Django User Group Berlin (djub)",
+      "city": "Berlin",
+      "country": "Germany",
+      "link": "http://www.meetup.com/django-user-group-berlin/",
+      "twitter": "",
+      "contacts": [
+        {
+          "name": "Jannis Leidel",
+          "phone": "+49 151 58560663",
+          "email": "jannis+djub@leidel.info"
+        },
+        {
+          "name": "Stephan Jäkel",
+          "phone": "+49 151 50669468",
+          "email": "mail+web@sjaekel.com"
+        }
+      ]
     }
   ],
   "conferences": [
