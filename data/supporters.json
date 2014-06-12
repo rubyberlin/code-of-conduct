@@ -66,6 +66,20 @@
           "email": "cristina.santamarina@asquera.de"
         }
       ]
+    },
+    {
+      "name": "Play Framework UG Berlin Brandenburg",
+      "city": "Berlin",
+      "country": "Germany",
+      "link": "http://www.meetup.com/Play-Berlin-Brandenburg/",
+      "twitter": "PlayBerlinUG",
+      "contacts": [
+        {
+          "name": "Yann Simon",
+          "phone": "",
+          "email": "yann.simon.fr@gmail.com"
+        }
+      ]
     }
   ],
   "conferences": [
