@@ -99,6 +99,25 @@
           "email": "mail+web@sjaekel.com"
         }
       ]
+    },
+    {
+      "name": "mrgn",
+      "city": "Berlin",
+      "country": "Germany",
+      "link": "http://mrgn.in/berlin/",
+      "twitter": "MrgnBerlin",
+      "contacts": [
+        {
+          "name": "Florian Gilcher",
+          "phone": "+49 172 8122469",
+          "email": "florian.gilcher@asquera.de"
+        },
+        {
+          "name": "Cristina Santamarina",
+          "phone": "+49 151 19446249",
+          "email": "cristina.santamarina@asquera.de"
+        }
+      ]
     }
   ],
   "conferences": [
