@@ -100,6 +100,25 @@
         }
       ]
     },
+     {
+      "name": "Rails Girls Berlin",
+      "city": "Berlin",
+      "country": "Germany",
+      "link": "http://railsgirlsberlin.de",
+      "twitter": "railsgirls_bln",
+      "contacts": [
+        {
+          "name": "Ute Mayer",
+          "phone": "+49 163 2558242",
+          "email": "ute@railsgirlsberlin.de"
+        },
+        {
+          "name": "Laura Laugwitz",
+          "phone": "",
+          "email": "laura@railsgirlsberlin.de"
+        }
+      ]
+    },
     {
       "name": "mrgn",
       "city": "Berlin",
