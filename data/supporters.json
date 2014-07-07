@@ -137,6 +137,30 @@
           "email": "cristina.santamarina@asquera.de"
         }
       ]
+    },
+    {
+      "name": "Cologne.rb",
+      "city": "Cologne",
+      "country": "Germany",
+      "link": "http://www.colognerb.de",
+      "twitter": "colognerb",
+      "contacts": [
+        {
+          "name": "Jakob Hilden",
+          "phone": "",
+          "email": "jakob@railslove.com"
+        },
+        {
+          "name": "Marco Schaden",
+          "phone": "",
+          "email": "hello@donschado.de"
+        },
+        {
+          "name": "Lucas Dohmen",
+          "phone": "",
+          "email": "lucas@dohmen.io"
+        }
+      ]
     }
   ],
   "conferences": [
