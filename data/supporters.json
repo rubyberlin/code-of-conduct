@@ -161,7 +161,7 @@
           "email": "lucas@dohmen.io"
         }
       ]
-    }, 
+    },
     {
       "name": "Ruby Usergroup Hamburg",
       "city": "Hamburg",
@@ -183,6 +183,20 @@
           "name": "Jan Krutisch",
           "phone": "+49 1752935345",
           "email": "jan@krutisch.de"
+        }
+      ]
+    },
+    {
+      "name": "eBay Tech Talk",
+      "city": "Berlin",
+      "country": "Germany",
+      "link": "http://www.meetup.com/eBay-Europe-Technology/",
+      "twitter": "ebaytechtalk",
+      "contacts": [
+        {
+          "name": "Matthias Huttar",
+          "phone": "",
+          "email": "mhuttar@ebay.com"
         }
       ]
     }
