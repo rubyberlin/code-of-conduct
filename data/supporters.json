@@ -161,6 +161,30 @@
           "email": "lucas@dohmen.io"
         }
       ]
+    }, 
+    {
+      "name": "Ruby Usergroup Hamburg",
+      "city": "Hamburg",
+      "country": "Germany",
+      "link": "http://hamburg.onruby.de/",
+      "twitter": "hamburgsync",
+      "contacts": [
+        {
+          "name": "Kerstin Puschke",
+          "phone": "",
+          "email": "rug@kpuschke.eu"
+        },
+        {
+          "name": "Daniel Harrington",
+          "phone": "+49 151 64412736",
+          "email": "me@rubiii.com"
+        },
+        {
+          "name": "Jan Krutisch",
+          "phone": "+49 1752935345",
+          "email": "jan@krutisch.de"
+        }
+      ]
     }
   ],
   "conferences": [
