@@ -199,6 +199,20 @@
           "email": "mhuttar@ebay.com"
         }
       ]
+    },
+    {
+      "name": "Buenos Aires Django Meetup",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "link": "http://www.meetup.com/Buenos-Aires-Django-Meetup/",
+      "twitter": "DjangoMeetups",
+      "contacts": [
+        {
+          "name": "Juan Catalano",
+          "phone": "",
+          "email": "catalanojuan@gmail.com"
+        }
+      ]
     }
   ],
   "conferences": [
