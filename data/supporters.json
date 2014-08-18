@@ -213,6 +213,30 @@
           "email": "catalanojuan@gmail.com"
         }
       ]
+    },
+ {
+      "name": "Rails Girls Hamburg",
+      "city": "Hamburg",
+      "country": "Germany",
+      "link": "http://railsgirls.com/hamburg",
+      "twitter": "railsgirlshh",
+      "contacts": [
+        {
+          "name": "Anne Lamprecht",
+          "phone": "",
+          "email": "anne_lenzen@gmx.de"
+        },
+        {
+          "name": "Lisa Junger",
+          "phone": "",
+          "email": "lisa.junger@posteo.de"
+        },
+        {
+          "name": "Nina Siessegger",
+          "phone": "",
+          "email": "n.siessegger@zeromail.org"
+        },
+      ]
     }
   ],
   "conferences": [
