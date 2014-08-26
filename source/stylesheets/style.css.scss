@@ -47,6 +47,32 @@
   }
 }
 
+
+//// LOCALES ////
+
+.locales {
+  @extend %headline-font;
+  display: block;
+  text-align: center;
+}
+
+.locales--link {
+  color: inherit;
+  margin: 0 0.2em;
+  padding: 0.2em 0.5em;
+  text-decoration: none;
+
+  &:hover {
+    background: #ccc;
+  }
+
+  &.-selected {
+    background: black;
+    color: white;
+  }
+}
+
+
 //// TEXT ////
 
 .text {
