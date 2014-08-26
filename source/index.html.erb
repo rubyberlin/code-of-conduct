@@ -1,11 +1,11 @@
-<h1 class="layout--title">Berlin Code of Conduct</h1>
-<p class="layout--sub-title">A Code of Conduct for all User Groups and Conferences</p>
+<h1 class="layout--title"><%= t('header.title') %></h1>
+<p class="layout--sub-title"><%= t('header.sub-title') %></p>
 <section id="code-of-conduct" class="text">
   <%= partial 'code-of-conduct' %>
 </section>
 <section id="supporters" class="supporters">
-  <h2 class="supporters--title">Supporters</h2>
-  <p class="supporters--sub-title">Those user groups and conferences support the Berlin Code of Conduct:</p>
+  <h2 class="supporters--title"><%= t('supporters.title') %></h2>
+  <p class="supporters--sub-title"><%= t('supporters.sub-title') %></p>
   <ul class="supporters--list">
     <% (data.supporters.usergroups + data.supporters.conferences).each do |supporter| %>
       <li class="supporters--item">
@@ -31,15 +31,13 @@
     <% end %>
   </ul>
   <p class="supporters--add">
-    To list your user group/conference here, just add it in a pull request to <%= link_to 'our repository', 'https://github.com/rubyberlin/code-of-conduct#readme', class: 'supporters--add-link' %>.
+    <%= t('supporters.add', link: link_to('%', 'https://github.com/rubyberlin/code-of-conduct#readme', class: 'supporters--add-link')) %>
   </p>
 </section>
 
 <footer id="footer" class="text">
   <p>
-    This code of conduct is adapted from the
-    <a href="http://pdxruby.org/codeofconduct" class="original-link">pdx.rb code of
-      conduct</a>.
+    <%= t('footer.attribution', link: link_to('%', 'http://pdxruby.org/codeofconduct')) %>
   </p>
 </footer>
 
