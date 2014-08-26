@@ -1,7 +1,5 @@
 @charset "utf-8";
 
-@import "compass";
-
 %headline-font {
   font-family: "museo-sans", "helvetica", "arial", sans-serif;
   font-weight: 100;
@@ -157,12 +155,12 @@
 }
 
 .supporters--contacts-item {
+  box-sizing: border-box;
   float: left;
   list-style: none;
   margin: 1rem 0 0 0;
   padding: 0 5% 0 0;
   width: 25%;
-  @include box-sizing(border-box);
   @media all and (max-width: 1000px) {
     width: 50%;
   }
