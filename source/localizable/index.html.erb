@@ -1,3 +1,10 @@
+<nav class="locales">
+  <% [:en, :es].each do |locale| %>
+    <% url = locale == :en ? '/' : "/#{locale}" %>
+    <% css_class = "locales--link#{' -selected' if locale == I18n.locale}" %>
+    <%= link_to locale.to_s.upcase, url, class: css_class %>
+  <% end %>
+</nav>
 <h1 class="layout--title"><%= t('header.title') %></h1>
 <p class="layout--sub-title"><%= t('header.sub-title') %></p>
 <section id="code-of-conduct" class="text">

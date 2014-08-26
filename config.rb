@@ -45,7 +45,7 @@
 #   end
 # end
 
-activate :i18n
+activate :i18n, path: '/:locale'
 
 helpers do
 
