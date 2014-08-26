@@ -45,6 +45,20 @@
 #   end
 # end
 
+activate :i18n
+
+helpers do
+
+  def t(id, replacements = {})
+    text = I18n.t(id)
+    replacements.each do |key, value|
+      text.gsub!(/%\{#{key}(:(.+?))?\}/) { value.gsub('%', $2 || '%') }
+    end
+    text
+  end
+
+end
+
 set :css_dir, 'stylesheets'
 
 set :js_dir, 'javascripts'
