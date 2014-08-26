@@ -13,32 +13,53 @@
   font-family: "ff-meta-serif-web-pro", "times new roman", serif;
   font-size: 18px;
   line-height: 1.4;
-  margin: 1em auto;
-  max-width: 900px;
-  width: 90%;
+  margin: 0;
+  overflow-x: hidden;
+  overflow-y: auto;
+  position: relative;
+}
+
+.layout--header {
+  background: black;
+  color: white;
+  padding: 1em 1em 0;
+  position: relative;
+  z-index: 2;
+  &:after {
+    background: inherit;
+    content: "";
+    display: block;
+    margin: -5% -10% 5%;
+    padding-top: 6%;
+    position: relative;
+    -webkit-transform: rotate(-3deg) translateY(50%);
+    transform: rotate(-3deg) translateY(50%);
+    z-index: -1;
+  }
 }
 
 .layout--title {
   @extend %headline-font;
-  color: #333;
-  font-size: 3rem;
+  background: inline-image("logo.svg") center top no-repeat;
+  background-size: 9rem;
+  font-size: 2rem;
   font-weight: 100;
-  margin: 5rem 0 0;
+  margin: 3rem 0 0;
+  padding-top: 11rem;
   text-align: center;
 }
 
 .layout--sub-title {
   @extend %headline-font;
-  color: #888;
-  font-size: 1rem;
+  font-size: 0.75rem;
   letter-spacing: 1px;
-  margin: 0.25rem 0 1rem;
+  margin: 0.25rem 0 0;
   text-align: center;
 
   &:before,
   &:after {
     color: #ccc;
-    content: "  · · · ·  ";
+    content: "  · · ·  ";
     @media all and (max-width: 570px) {
       display: none;
     }
@@ -65,8 +86,8 @@
   }
 
   &.-selected {
-    background: black;
-    color: white;
+    background: white;
+    color: black;
   }
 }
 
@@ -74,10 +95,10 @@
 //// TEXT ////
 
 .text {
-  border: #eee double;
-  border-width: 3px 0;
-  margin: 3rem 0;
+  margin: auto;
+  max-width: 900px;
   padding: 2rem 6rem;
+  width: 90%;
   @media all and (max-width: 570px) {
     padding: 2rem 0.5rem;
   }
