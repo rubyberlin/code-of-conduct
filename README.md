@@ -17,7 +17,7 @@ Additions or Changes to the Code of Conduct?
 --------------------------------------------
 
 1. Fork repository.
-2. Open *source/_code-of-conduct.md* and edit it.
+2. Open *source/localizable/_code-of-conduct.<locale>.md* and edit it.
 3. Open a pull request and add some lines why you want it to be changed.
 
 
