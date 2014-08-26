@@ -19,7 +19,7 @@ set :images_dir, 'images'
 configure :build do
   activate :minify_css
   activate :asset_hash
-  # activate :relative_assets
+  activate :relative_assets
 end
 
 activate :deploy do |deploy|
