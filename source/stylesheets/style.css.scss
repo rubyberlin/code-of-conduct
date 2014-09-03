@@ -19,6 +19,10 @@
   position: relative;
 }
 
+.layout--container {
+  overflow: hidden;
+}
+
 .layout--header {
   background: black;
   color: white;
