@@ -128,7 +128,7 @@
   background: black;
   color: white;
   margin-top: 6em;
-  padding: 1em;
+  padding: 1em 1rem 8rem;
   position: relative;
   z-index: 2;
   &:before {
@@ -237,7 +237,43 @@
   }
 }
 
+
 //// FOOTER ////
-.original-link {
-  color: #888;
+
+.footer {
+  background: #444;
+  margin-top: -2rem;
+  padding: 1rem;
+  position: relative;
+  z-index: 2;
+
+  &:before {
+    background: inherit;
+    content: "";
+    display: block;
+    margin: -9% -10% -5%;
+    padding-top: 8%;
+    position: relative;
+    -webkit-transform: rotate(-3deg) translateY(50%);
+    transform: rotate(-3deg) translateY(50%);
+    z-index: -1;
+  }
 }
+
+.footer--text {
+  @extend %headline-font;
+  font-size: 0.9rem;
+  margin: 4rem auto 0;
+  max-width: 900px;
+  text-align: center;
+  text-transform: none;
+}
+
+.footer--link {
+  color: #000;
+
+  &:hover {
+    color: #666;
+  }
+}
+
