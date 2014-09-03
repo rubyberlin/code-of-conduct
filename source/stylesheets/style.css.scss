@@ -120,10 +120,11 @@
 //// SUPPORTERS ////
 
 .supporters {
+  @extend %headline-font;
   background: black;
   color: white;
   margin-top: 6em;
-  padding: 1em 1em 0;
+  padding: 1em;
   position: relative;
   z-index: 2;
   &:before {
@@ -143,25 +144,29 @@
 }
 
 .supporters--title {
-  @extend %headline-font;
   color: #888;
   font-size: 2rem;
-  margin: 0;
+  margin: 3em auto 0;
+  max-width: 900px;
 }
 
 .supporters--sub-title {
   color: #888;
-  margin: 0 0 2rem;
+  margin: 0 auto 2rem;
+  max-width: 900px;
 }
 
 .supporters--list {
+  margin: auto;
+  max-width: 900px;
   padding: 0;
+  text-transform: none;
 }
 
 .supporters--item {
-  border: 1px #eee solid;
+  border: 1px #444 solid;
   list-style: none;
-  margin: 1rem 0;
+  margin: 0 0 -1px;
   padding: 1rem 1.4rem;
 }
 
@@ -176,12 +181,12 @@
 }
 
 .supporters--item-link {
-  color: #333;
+  color: #666;
   margin-left: 0.5rem;
   text-decoration: none;
 
   &:hover {
-    color: #777;
+    color: #aaa;
   }
 }
 
@@ -193,6 +198,7 @@
 
 .supporters--contacts-item {
   box-sizing: border-box;
+  color: #bbb;
   float: left;
   list-style: none;
   margin: 1rem 0 0 0;
@@ -214,11 +220,17 @@
 
 .supporters--add {
   color: #888;
-  margin: 2rem 0;
+  margin: 2rem auto;
+  max-width: 900px;
 }
 
 .supporters--add-link {
-  color: #333;
+  color: #ddd;
+  text-decoration: none;
+
+  &:hover {
+    color: #fff;
+  }
 }
 
 //// FOOTER ////
