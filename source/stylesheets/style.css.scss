@@ -1,7 +1,5 @@
 @charset "utf-8";
 
-@import "compass";
-
 %headline-font {
   font-family: "museo-sans", "helvetica", "arial", sans-serif;
   font-weight: 100;
@@ -15,44 +13,94 @@
   font-family: "ff-meta-serif-web-pro", "times new roman", serif;
   font-size: 18px;
   line-height: 1.4;
-  margin: 1em auto;
-  max-width: 900px;
-  width: 90%;
+  margin: 0;
+  overflow-x: hidden;
+  overflow-y: auto;
+  position: relative;
+}
+
+.layout--container {
+  overflow: hidden;
+}
+
+.layout--header {
+  background: black;
+  color: white;
+  padding: 1em 1em 0;
+  position: relative;
+  z-index: 2;
+  &:after {
+    background: inherit;
+    content: "";
+    display: block;
+    margin: -5% -10% 5%;
+    padding-top: 6%;
+    position: relative;
+    -webkit-transform: rotate(-3deg) translateY(50%);
+    transform: rotate(-3deg) translateY(50%);
+    z-index: -1;
+  }
 }
 
 .layout--title {
   @extend %headline-font;
-  color: #333;
-  font-size: 3rem;
+  background: inline-image("logo.svg") center top no-repeat;
+  background-size: 9rem;
+  font-size: 2rem;
   font-weight: 100;
-  margin: 5rem 0 0;
+  margin: 3rem 0 0;
+  padding-top: 11rem;
   text-align: center;
 }
 
 .layout--sub-title {
   @extend %headline-font;
-  color: #888;
-  font-size: 1rem;
+  font-size: 0.75rem;
   letter-spacing: 1px;
-  margin: 0.25rem 0 1rem;
+  margin: 0.25rem 0 0;
   text-align: center;
 
   &:before,
   &:after {
     color: #ccc;
-    content: "  · · · ·  ";
+    content: "  · · ·  ";
     @media all and (max-width: 570px) {
       display: none;
     }
   }
 }
 
+
+//// LOCALES ////
+
+.locales {
+  @extend %headline-font;
+  display: block;
+  text-align: center;
+}
+
+.locales--link {
+  color: inherit;
+  margin: 0 0.2em;
+  padding: 0.2em 0.5em;
+  text-decoration: none;
+
+  &:hover {
+    background: #ccc;
+  }
+
+  &.-selected {
+    background: white;
+    color: black;
+  }
+}
+
+
 //// TEXT ////
 
 .text {
-  border: #eee double;
-  border-width: 3px 0;
-  margin: 3rem 0;
+  margin: auto;
+  max-width: 900px;
   padding: 2rem 6rem;
   @media all and (max-width: 570px) {
     padding: 2rem 0.5rem;
@@ -75,32 +123,55 @@
 //// SUPPORTERS ////
 
 .supporters {
-  padding: 2rem 6rem;
+  @extend %headline-font;
+  background: black;
+  color: white;
+  margin-top: 6em;
+  padding: 1em 1rem 8rem;
+  position: relative;
+  z-index: 2;
+  &:before {
+    background: inherit;
+    content: "";
+    display: block;
+    margin: -9% -10% -5%;
+    padding-top: 8%;
+    position: relative;
+    -webkit-transform: rotate(3deg) translateY(50%);
+    transform: rotate(3deg) translateY(50%);
+    z-index: -1;
+  }
   @media all and (max-width: 570px) {
     padding: 2rem 0.5rem;
   }
 }
 
 .supporters--title {
-  @extend %headline-font;
   color: #888;
   font-size: 2rem;
-  margin: 0;
+  margin: 5em auto 0;
+  max-width: 900px;
+  text-align: center;
 }
 
 .supporters--sub-title {
   color: #888;
-  margin: 0 0 2rem;
+  margin: 0 auto 2rem;
+  max-width: 900px;
+  text-align: center;
 }
 
 .supporters--list {
+  margin: auto;
+  max-width: 900px;
   padding: 0;
+  text-transform: none;
 }
 
 .supporters--item {
-  border: 1px #eee solid;
+  border: 1px #444 solid;
   list-style: none;
-  margin: 1rem 0;
+  margin: 0 0 -1px;
   padding: 1rem 1.4rem;
 }
 
@@ -115,12 +186,12 @@
 }
 
 .supporters--item-link {
-  color: #333;
+  color: #666;
   margin-left: 0.5rem;
   text-decoration: none;
 
   &:hover {
-    color: #777;
+    color: #aaa;
   }
 }
 
@@ -131,12 +202,13 @@
 }
 
 .supporters--contacts-item {
+  box-sizing: border-box;
+  color: #bbb;
   float: left;
   list-style: none;
   margin: 1rem 0 0 0;
   padding: 0 5% 0 0;
   width: 25%;
-  @include box-sizing(border-box);
   @media all and (max-width: 1000px) {
     width: 50%;
   }
@@ -153,14 +225,57 @@
 
 .supporters--add {
   color: #888;
-  margin: 2rem 0;
+  margin: 2rem auto;
+  max-width: 900px;
+  text-align: center;
 }
 
 .supporters--add-link {
-  color: #333;
+  color: #ddd;
+  text-decoration: none;
+
+  &:hover {
+    color: #fff;
+  }
 }
 
+
 //// FOOTER ////
-.original-link {
-  color: #888;
+
+.footer {
+  background: #444;
+  margin-top: -2rem;
+  padding: 1rem;
+  position: relative;
+  z-index: 2;
+
+  &:before {
+    background: inherit;
+    content: "";
+    display: block;
+    margin: -9% -10% -5%;
+    padding-top: 8%;
+    position: relative;
+    -webkit-transform: rotate(-3deg) translateY(50%);
+    transform: rotate(-3deg) translateY(50%);
+    z-index: -1;
+  }
 }
+
+.footer--text {
+  @extend %headline-font;
+  font-size: 0.9rem;
+  margin: 4rem auto 0;
+  max-width: 900px;
+  text-align: center;
+  text-transform: none;
+}
+
+.footer--link {
+  color: #000;
+
+  &:hover {
+    color: #666;
+  }
+}
+
