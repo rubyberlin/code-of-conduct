@@ -21,6 +21,18 @@ Additions or Changes to the Code of Conduct?
 3. Open a pull request and add some lines why you want it to be changed.
 
 
+Translations
+------------
+
+Do you want to translate to another language? Great! If you want to translate from English (en) to Latin (la):
+
+1. Fork repository.
+2. Copy [*source/localizable/_code-of-conduct.en.md*](https://github.com/rubyberlin/code-of-conduct/blob/master/source/localizable/_code-of-conduct.en.md) to *source/localizable/_code-of-conduct.la.md* and edit it.
+2. Copy [*locales/en.md*](https://github.com/rubyberlin/code-of-conduct/blob/master/locales/en.yml) to *locales/la.md* and edit it.
+3. Open a pull request. We will try to find other native speakers and disscuss it there. The discussion may look like [the one for the Spanish translation](https://github.com/rubyberlin/code-of-conduct/pull/23).
+
+
+
 Setup
 -----
 
