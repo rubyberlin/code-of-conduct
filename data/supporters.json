@@ -237,6 +237,25 @@
           "email": "n.siessegger@zeromail.org"
         }
       ]
+    },
+    {
+      "name": "Rust Berlin",
+      "city": "Berlin",
+      "country": "Germany",
+      "link": "http://www.meetup.com/Rust-Berlin/",
+      "twitter": "RustBerlin",
+      "contacts": [
+        {
+          "name": "Johann Hofmann",
+          "phone": "+49 1622359650",
+          "email": "mail@johann-hofmann.com"
+        },
+        {
+          "name": "Florian Gilcher",
+          "phone": "+49 172 8122469",
+          "email": "florian.gilcher@asquera.de"
+        }
+      ]
     }
   ],
   "conferences": [
