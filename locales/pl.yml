@@ -5,7 +5,7 @@ en:
     sub-title: "Kodeks postępowania dla wszelkich grup użytkowników i konferencji"
   supporters:
     title: "Popierający"
-    sub-title: "Poniższe grupy użytkowników i konferencje wspierają Beliński kodeks postępowania:"
-    add: "By dodać tu swoją grupę użytkowników/konferencję dopisz ją w pull requeście do %{link:our repository}."
+    sub-title: "Poniższe grupy użytkowników i konferencje wspierają beliński kodeks postępowania:"
+    add: "By dodać swoją grupę użytkowników/konferencję dopisz ją w pull requeście do %{link:our repository}."
   footer:
     attribution: "Ten kodeks postępowania jest adaptacją %{link:pdx.rb code of conduct}."

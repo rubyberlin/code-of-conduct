@@ -1,19 +1,19 @@
 Cel
 ---
 
-Podstawowym celem wszelkich konferencji i grup użytkowników wspominających ten Kodeks postępowania jest otwartość na jak największą liczbę osób o jak najbardziej urozmaiconych i różnorodnych korzeniach. Z tego powodu jesteśmy zobowiązani zapewnić życzliwą, bezpieczną i przyjazną atmosferę wszystkim, bez względu na płeć, orientację seksualną, sprawność, pochodzenie etniczne, status społeczno-ekonomiczny i religię (lub jej brak).
+Podstawowym celem wszelkich konferencji i grup użytkowników powołujących się na ten Kodeks postępowania jest otwartość na jak największą liczbę osób o jak najbardziej urozmaiconych i różnorodnych korzeniach. Z tego powodu zobowiązujemy się do zapewnienia życzliwej, bezpiecznej i przyjaznej atmosfery wszystkim, bez względu na płeć, orientację seksualną, sprawność, pochodzenie etniczne, status społeczno-ekonomiczny i religię (lub jej brak).
 
 Ten Kodeks postępowania nakreśla zarówno nasze oczekiwania wobec wszystkich, którzy uczestniczą w naszej społeczności, jak i konsekwencje niedopuszczalnych zachowań.
 
-Zapraszamy wszystkich uczestników naszych wydarzeń do pomocy w tworzeniu przeżyć bezpiecznych i pozytywnych dla każdego.
+Zapraszamy wszystkich uczestników i uczestniczki naszych wydarzeń do pomocy w tworzeniu przeżyć, które będą bezpieczne i pozytywne dla każdego.
 
 
 Poczucie otwarto-[źródłowego/kulturowego/technicznego] obywatelstwa
 -------------------------------------------------------------------
 
-Dodatkowym celem tego Kodeksu postępowania jest zwiększenie poczucia otwarto-[źródłowego/kulturowego/technicznego] obywatelstwa poprzez zachęcanie uczestników do rozpoznawania i wzmacniania związków między naszymi zachowaniami a ich efektem w społeczności.
+Dodatkowym celem tego Kodeksu postępowania jest zwiększenie poczucia otwarto-[źródłowego/kulturowego/technicznego] obywatelstwa poprzez zachęcanie uczestników i uczestniczek do rozpoznawania i wzmacniania związków między naszymi zachowaniami a ich efektem w społeczności.
 
-Społeczności odzwierciedlają społeczeństwa w ramach których istnieją i pozytywne oddziaływanie jest kluczowe dla przeciwdziałania wielu formom nierówności i nadużyć władzy istniejących w społeczeństwie.
+Społeczności odzwierciedlają społeczeństwa w ramach których istnieją, dlatego też pozytywne oddziaływanie jest kluczowe dla przeciwdziałania wielu formom nierówności i nadużyć władzy istniejących w społeczeństwie.
 
 Jeśli widzisz kogoś wkładającego dodatkowy wysiłek by zapewnić, że nasza społeczność jest przyjazna, życzliwa i zachęcająca wszystkich uczestników do wnoszenia w nią jak największego wkładu – chcielibyśmy o tym wiedzieć.
 
@@ -25,15 +25,15 @@ Zachowania oczekiwane
 *	Zachowuj rozwagę i szacunek w swoich słowach i czynach.
 *	Spróbuj współpracy przed konfliktem.
 *	Powstrzymuj się przed poniżającymi, dyskryminującymi lub niepokojącymi zachowaniami i słowami.
-*	Zwracaj uwagę na swoje otoczenie i innych uczestników. Ostrzeż społeczność jeśli zauważysz niebezpieczną sytuację, kogoś potrzebującego pomocy lub naruszenia tego Kodeksu postępowania, nawet jeśli wydają się nieistotne.
+*	Zwracaj uwagę na swoje otoczenie i innych uczestników. Ostrzeż społeczność jeśli zauważysz niebezpieczną sytuację, kogoś potrzebującego pomocy lub naruszenie tego Kodeksu postępowania, nawet jeśli wydają się nieistotne.
 
 
 Zachowania niedopuszczalne
 --------------------------
 
-Zachowania niedopuszczalne to między innymi: zastraszające, niepokojące, obraźliwe, dyskryminujące, uwłaczające i poniżające słowa lub czyny dowolnego uczestnika naszej społeczności online, na wszelkich powiązanych wydarzeniach oraz w komunikacji prywatnej dotyczącej spraw społeczności. Miejsca spotkań społeczności mogą być współdzielone z członkami społeczeństwa; szanuj wszystkich obecnych w danym miejscu.
+Zachowania niedopuszczalne to między innymi: zastraszające, nękające, obraźliwe, dyskryminujące, uwłaczające i poniżające słowa lub czyny dowolnego uczestnika naszej społeczności online, na wszelkich powiązanych wydarzeniach oraz w komunikacji prywatnej dotyczącej spraw społeczności. Miejsca spotkań społeczności mogą być współdzielone z członkami społeczeństwa; szanuj wszystkich obecnych w danym miejscu.
 
-Niepokojenie to między innymi: szkodliwe lub krzywdzące słowne lub pisemne komentarze dotyczące płci, orientacji seksualnej, pochodzenia, religii, niepełnosprawności; niewłaściwe użycie nagości i/lub ilustracji o podtekście seksualnym w przestrzeni publicznej (w tym w prezentacjach); celowe zastraszanie, stalking lub śledzenie; niepokojące fotografowanie lub nagrywanie; trwałe zaburzanie wystąpień i innych wydarzeń; niewłaściwy kontakt fizyczny i niepożądane poświęcanie uwagi o podtekście seksualnym.
+Nękanie to między innymi: szkodliwe lub krzywdzące słowne lub pisemne komentarze dotyczące płci, orientacji seksualnej, pochodzenia, religii, niepełnosprawności; niewłaściwe użycie nagości i/lub ilustracji o podtekście seksualnym w przestrzeni publicznej (w tym w prezentacjach); celowe zastraszanie, prześladowanie (tzw. stalking) lub śledzenie; niepokojące fotografowanie lub nagrywanie; trwałe zaburzanie wystąpień i innych wydarzeń; niewłaściwy kontakt fizyczny i niepożądane poświęcanie uwagi o podtekście seksualnym.
 
 
 Konsekwencje niedopuszczalnych zachowań
