@@ -47,13 +47,13 @@ Jeśli uczestnik społeczności zachowuje się niedopuszczalnie, organizatorzy m
 Jeśli jesteś świadkiem lub podmiotem niedopuszczalnego zachowania
 -----------------------------------------------------------------
 
-Jeśli jesteś podmiotem lub świadkiem niedopuszczalnego zachowania – lub masz inne uwagi – jak najszybciej powiadom o tym organizatora. Listę organizatorów każdej społeczności wspierającej ten kodeks postępowania znajdziesz na dole tej strony. Organizatorzy są także dostępni by wspomóc uczestników w kontaktach z lokalnymi organami egzekwowania prawa i by wspierać poczucie bezpieczeństwa osób doświadczających niedopuszczalnych zachowań. W przypadku wydarzeń w świecie rzeczywistym organizatorzy także zapewnią asystę według życzenia osoby doświadczającej niepokoju.
+Jeśli jesteś podmiotem lub świadkiem niedopuszczalnego zachowania – lub masz inne uwagi – jak najszybciej powiadom o tym organizatora. Listę organizatorów każdej społeczności wspierającej ten kodeks postępowania znajdziesz na dole tej strony. Organizatorzy są także dostępni by wspomóc uczestników w kontaktach z lokalnymi organami egzekwowania prawa i by wspierać poczucie bezpieczeństwa osób doświadczających niedopuszczalnych zachowań. Jeśli osoba poszkodowana wyrazi zapotrzebowanie, organizatorzy zapewnią też odpowiednią eskortę.
 
 
 Skargi
 ------
 
-Jeśli masz poczucie fałszywego lub niesprawiedliwego oskarżenia o naruszenie tego Kodeksu postępowania zawiadom organizatorów wraz ze zwięzłym opisem swojej skargi. Twoja skarga zostanie rozpatrzona zgodnie z istniejącymi zasadami.
+Jeśli uważasz, że informacja o naruszeniu przez ciebie tego Kodeksu jest fałszywa lub niesprawiedliwa, zawiadom organizatorów wraz ze zwięzłym opisem swojej skargi. Twoja skarga zostanie rozpatrzona zgodnie z istniejącymi zasadami.
 
 
 Zakres
