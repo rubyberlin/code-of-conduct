@@ -16,6 +16,8 @@ set :css_dir, 'stylesheets'
 set :js_dir, 'javascripts'
 set :images_dir, 'images'
 
+set :displayed_languages, %i(en de)
+
 configure :build do
   activate :minify_css
   activate :asset_hash
@@ -26,4 +28,3 @@ activate :deploy do |deploy|
   deploy.method = :git
   deploy.build_before = true # default: false
 end
-
