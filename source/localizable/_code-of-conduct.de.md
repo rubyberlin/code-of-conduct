@@ -3,7 +3,7 @@ Zielsetzung
 
 Alle Konferenzen und Usergruppen, die sich auf diesen Verhaltenskodex beziehen, haben es sich als ein wichtiges Ziel gesetzt, die größtmögliche Anzahl an Beitragenden mit den vielfältigsten und unterschiedlichsten Hintergründen einzubeziehen. Wir sehen es als unsere Aufgabe, eine freundliche, sichere und einladende Umgebung zu schaffen, unabhängig von Geschlecht, sexueller Orientierung, Befähigung, Abstammung, Religion (oder deren Nichtvorhandensein) sowie gesellschaftlichem und wirtschaftlichem Status.
 
-Dieser Verhaltenskodex umreißt unsere Erwartungen an all diejenigen, die sich in unserer Community beteiligen, sowie die Konsequenzen für inakzeptables Verhalten.
+Dieser Verhaltenskodex umreißt unsere Erwartungen an alle Beteiligten unserer Community, sowie die Konsequenzen für inakzeptables Verhalten.
 
 Wir laden alle Teilnehmer unserer Veranstaltungen ein, sichere und positive Erfahrungen für jeden mitzugestalten.
 
@@ -25,7 +25,7 @@ Erwartetes Verhalten
 
 * Verhalte dich rücksichts- und respektvoll in Wort und Tat.
 
-* Bemühe dich um Zusammenarbeit, um so Konflikte von Anfang an zu vermeiden.
+* Bemühe dich um Zusammenarbeit, damit du Konflikte von Anfang an vermeiden kannst.
 
 * Nimm Abstand von erniedrigender, diskriminierender oder belästigender Sprache und Verhalten.
 
