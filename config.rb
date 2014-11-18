@@ -16,7 +16,7 @@ set :css_dir, 'stylesheets'
 set :js_dir, 'javascripts'
 set :images_dir, 'images'
 
-set :displayed_languages, %i(en es pl)
+set :displayed_languages, %i(en de es pl)
 
 configure :build do
   activate :minify_css
