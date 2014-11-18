@@ -1,7 +1,7 @@
 <header class="layout--header">
   <nav class="locales">
     <% settings.displayed_languages.each do |locale| %>
-      <% url = locale == :en ? './' : "#{locale}" %>
+      <% url = locale == :en ? '/code-of-conduct/' : "/code-of-conduct/#{locale}" %>
       <% css_class = "locales--link#{' -selected' if locale == I18n.locale}" %>
       <%= link_to locale.to_s.upcase, url, class: css_class %>
     <% end %>
