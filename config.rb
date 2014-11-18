@@ -1,4 +1,4 @@
-activate :i18n, path: '/:locale'
+activate :i18n, path: '/:locale', mount_at_root: :en
 
 helpers do
 
