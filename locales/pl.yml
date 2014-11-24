@@ -6,6 +6,6 @@ pl:
   supporters:
     title: "Popierający"
     sub-title: "Poniższe grupy użytkowników i konferencje wspierają berliński kodeks postępowania:"
-    add: "By dodać swoją grupę użytkowników/konferencję dopisz ją w pull requeście do %{link:our repository}."
+    add: "By dodać swoją grupę użytkowników/konferencję dopisz ją w pull requeście do %{link:naszego repozytorium}."
   footer:
-    attribution: "Ten kodeks postępowania jest adaptacją %{link:pdx.rb code of conduct}."
+    attribution: "Ten kodeks postępowania jest adaptacją %{link:kodeksu postępowania pdx.rb}."
