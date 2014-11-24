@@ -44,10 +44,10 @@ Niedopuszczalne zachowanie ze strony dowolnego uczestnika społeczności – w t
 Jeśli uczestnik społeczności zachowuje się niedopuszczalnie, organizatorzy mogą podjąć dowolne działania, które uznają za właście, włącznie z tymczasowym lub stałym wyrzuceniem ze społeczności bez ostrzeżenia (i bez zwrotu pieniędzy w przypadku wydarzeń płatnych).
 
 
-Jeśli jesteś świadkiem lub podmiotem niedopuszczalnego zachowania
------------------------------------------------------------------
+Jeśli doświadczasz lub widzisz niedopuszczalne zachowanie
+---------------------------------------------------------
 
-Jeśli jesteś podmiotem lub świadkiem niedopuszczalnego zachowania – lub masz inne uwagi – jak najszybciej powiadom o tym organizatora. Listę organizatorów każdej społeczności wspierającej ten kodeks postępowania znajdziesz na dole tej strony. Organizatorzy są także dostępni by wspomóc uczestników w kontaktach z lokalnymi organami egzekwowania prawa i by wspierać poczucie bezpieczeństwa osób doświadczających niedopuszczalnych zachowań. Jeśli osoba poszkodowana wyrazi zapotrzebowanie, organizatorzy zapewnią też odpowiednią eskortę.
+Jeśli doświadczas lub widzisz niedopuszczalne zachowanie – lub masz inne uwagi – jak najszybciej powiadom o tym organizatora. Listę organizatorów każdej społeczności wspierającej ten kodeks postępowania znajdziesz na dole tej strony. Organizatorzy są także dostępni by wspomóc uczestników w kontaktach z lokalnymi organami egzekwowania prawa i by wspierać poczucie bezpieczeństwa osób doświadczających niedopuszczalnych zachowań. Jeśli osoba poszkodowana wyrazi zapotrzebowanie, organizatorzy zapewnią też odpowiednią eskortę.
 
 
 Skargi
