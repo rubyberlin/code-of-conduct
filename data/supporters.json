@@ -275,6 +275,48 @@
           "email": "t.stachewicz@gmail.com"
         }
       ]
+    },
+    {
+      "name": "ArtBlend",
+      "city": "Berlin",
+      "country": "Germany",
+      "link": "http://www.meetup.com/de/ArtBlend/",
+      "contacts": [
+        {
+          "name": "Bastian Gruber",
+          "phone": "+49 171 695 058 7",
+          "email": "gruberbastian@me.com",
+          "twitter": "bastiangruber"
+        }
+      ]
+    },
+    {
+      "name": "Web Development for artists",
+      "city": "Berlin",
+      "country": "Germany",
+      "link": "http://www.meetup.com/Web-Development-for-designers-and-artists/",
+      "contacts": [
+        {
+          "name": "Bastian Gruber",
+          "phone": "+49 171 695 058 7",
+          "email": "gruberbastian@me.com",
+          "twitter": "bastiangruber"
+        }
+      ]
+    },
+    {
+      "name": "Writers Lounge",
+      "city": "Berlin",
+      "country": "Germany",
+      "link": "http://www.meetup.com/letswrite/",
+      "contacts": [
+        {
+          "name": "Bastian Gruber",
+          "phone": "+49 171 695 058 7",
+          "email": "gruberbastian@me.com",
+          "twitter": "bastiangruber"
+        }
+      ]
     }
   ],
   "conferences": [
