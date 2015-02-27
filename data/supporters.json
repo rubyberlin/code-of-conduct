@@ -317,13 +317,8 @@
           "twitter": "bastiangruber"
         }
       ]
-    }
-  ],
-  "conferences": [
-  ]
-}
-
- {
+    },
+    {
       "name": "School of Machines, Making & Make-Believe",
       "city": "Berlin",
       "country": "Germany",
@@ -335,6 +330,10 @@
           "phone": "+49 151 7537 4602",
           "email": "rachel@schoolofma.org",
           "twitter": "onna_no_hito"
-        },
+        }
       ]
-    },
+    }
+  ],
+  "conferences": [
+  ]
+}
