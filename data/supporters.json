@@ -343,8 +343,23 @@
         {
           "name": "Rachel Uwa",
           "phone": "+49 151 7537 4602",
-          "email": "rachel@schoolofma.org",
+          "email": "rachel.uwa@gmail.com",
           "twitter": "onna_no_hito"
+        },
+        {
+          "name": "Abe Pazos",
+          "email": "abe@hamoid.com",
+          "twitter": "hamoid"
+        },
+        {
+          "name": "Ramin Soleymani",
+          "email": "diskordier@gmail.com",
+          "twitter": "ramin__"
+        },
+        {
+          "name": "Raphael de Courville",
+          "email": "raphael.de.courville@gmail.com",
+          "twitter": "sableRaph"
         }
       ]
     }
