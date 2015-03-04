@@ -31,7 +31,7 @@
             <li class="supporters--contacts-item">
               <%= contact.name %>
               <% %w(email phone).each do |medium| %>
-                <% unless contact.send(medium).empty? %>
+                <% unless contact.send(medium).blank? %>
                   <span class="supporters--contacts-item-<%= medium %>"><%= contact.send(medium) %></span>
                 <% end %>
               <% end %>
