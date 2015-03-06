@@ -35,7 +35,7 @@ contribuerez à rendre la communauté saine et durable.
 * Faites montre de considération et de respect dans vos paroles et
  actes.
 * Préférez la coopération au conflit.
-* Ne pratiquez pas le harcélemenent, la méchanceté et la discrimination
+* Ne pratiquez pas le harcèlement, la méchanceté et la discrimination
  dans votre comportement et dans vos paroles.
 * Soyez attentif à votre environnement et aux autres participants.
  Alertez les organisateur si vous êtes témoin d'une situation
@@ -53,7 +53,7 @@ ou dans une communication personnelle conduite dans le contexte de la
 communauté. Les événements concernant la communauté peuvent être
 partagés avec des membres extérieurs ; veillez à respecter chacun.
 
-Sont considérés comme du harcèlement : les commentaires blessants ou malveillants (écrits ou verbaux) sur le genre, l'orientation sexuelle, la race, la religion, le handicap ; l'usage inapproprié de la nudité et/ou d'images à connotation sexuelle dans un espace public (y compris des diaporamas de présentations); l'intimidation volontaire; la traque ou harcèlement par les faits (*stalking*); le harcèlement photographique ou vidéo; l'interruption et la perturbation volontaire de présentations ou d'autres évènements; le contact physique inapproprié et les attentions sexuelles non désirées. 
+Sont considérés comme du harcèlement : les commentaires blessants ou malveillants (écrits ou verbaux) sur le genre, l'orientation sexuelle, la race, la religion, le handicap ; l'usage inapproprié de la nudité et/ou d'images à connotation sexuelle dans un espace public (y compris des diaporamas de présentations); l'intimidation volontaire; la traque ou harcèlement par les faits (*stalking*); le harcèlement photographique ou vidéo; l'interruption et la perturbation volontaire de présentations ou d'autres évènements; le contact physique inapproprié et les attentions sexuelles non désirées.
 
 
 
@@ -66,7 +66,7 @@ Il est demandé à chacun de respecter toute demande faite de cesser un
 comportement dérangeant.
 
 Les organisateurs se donnent la possibilité d'engager sans prévis toute mesure
-necessaire lorqu'un membre de la communauté se comporte de façon
+nécessaire lorsqu'un membre de la communauté se comporte de façon
 inacceptable. Cela peut aller jusqu'à une mise au ban temporaire,
 voire une expulsion sine die de la communauté (sans
 remboursement dans le cas d'un événement payant).
@@ -82,9 +82,9 @@ Dans le cas d'évènements avec rencontres en face à face, les organisateurs pe
 Faire part de doléances
 ---------------------
 
-Si vous estimez avoir été accusé injustement de violation du code de conduite, nous vous demandons de prendre contact avec l'un des organisateurs et de fournir une brève description de votre doléance. Cette dernière sera traitée conformément aux règles d'organisation du groupe. 
+Si vous estimez avoir été accusé injustement de violation du code de conduite, nous vous demandons de prendre contact avec l'un des organisateurs et de fournir une brève description de votre doléance. Cette dernière sera traitée conformément aux règles d'organisation du groupe.
 
 Application du code de conduite
 -----
 
-Nous attendons de la part de tous les membres de la communauté (contributeurs payés ou non, sponsors et autres invités) qu'ils respectent et agissent conformément à ce code de conduite lors d'événements, qu'il s'agisse de discussions en ligne ou de rencontres de visu ainsi que pour toutes les communications relatives à la communauté. 
+Nous attendons de la part de tous les membres de la communauté (contributeurs payés ou non, sponsors et autres invités) qu'ils respectent et agissent conformément à ce code de conduite lors d'événements, qu'il s'agisse de discussions en ligne ou de rencontres de visu ainsi que pour toutes les communications relatives à la communauté.
