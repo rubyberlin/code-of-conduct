@@ -19,7 +19,7 @@
   <p class="supporters--sub-title"><%= t('supporters.sub-title') %></p>
   <ul class="supporters--list">
     <% (data.supporters.usergroups + data.supporters.conferences).each do |supporter| %>
-      <li class="supporters--item">
+      <li id="supporters--<%= supporter.name.downcase.gsub(/\W/, '_') %>" class="supporters--item">
         <h3 class="supporters--item-name"><%= supporter.name %></h3>
         <div class="user group">
           <span class="supporters--item-location"><%= supporter.city %>/<%= supporter.country %></span>
