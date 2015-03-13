@@ -35,6 +35,7 @@
                   <span class="supporters--contacts-item-<%= medium %>"><%= contact.send(medium) %></span>
                 <% end %>
               <% end %>
+              <%= link_to('@' + contact.twitter, 'https://twitter.com/' + contact.twitter, class: 'supporters--contacts-item-twitter') unless contact.twitter.blank? %>
             </li>
           <% end %>
         </ul>
