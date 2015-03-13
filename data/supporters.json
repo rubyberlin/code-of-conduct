@@ -362,6 +362,31 @@
           "twitter": "sableRaph"
         }
       ]
+    },
+    {
+      "name": "Cologne.js",
+      "city": "Cologne",
+      "country": "Germany",
+      "link": "http://colognejs.de/",
+      "twitter": "cgnjs",
+      "contacts": [
+        {
+          "name": "Michael Hackstein",
+          "twitter": "mchacki"
+        },
+        {
+          "name": "Sebastian Tilch",
+          "twitter": "sebtilch"
+        },
+        {
+          "name": "Yunus Uyargil",
+          "twitter": "YunusUyargil"
+        },
+        {
+          "name": "Frederic Hemberger",
+          "twitter": "fhemberger"
+        }
+      ]
     }
   ],
   "conferences": [
