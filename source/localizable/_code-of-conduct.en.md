@@ -69,4 +69,4 @@ We expect all community participants (contributors, paid or otherwise; sponsors;
 License‭ ‬and‭ ‬attribution
 -----------------------
 
-Berlin ‬Code‭ ‬of‭ ‬Conduct‭ ‬by http://rubyberlin.github.io/code-of-conduct/ is‭ ‬distributed‭ ‬under‭ ‬a‭ ‬Creative‭ ‬Commons‭ ‬Attribution-ShareAlike‭ ‬license.
+Berlin Code of Conduct is distributed under a Creative Commons Attribution-ShareAlike license. It is based on the [pdx.rb code of conduct](http://pdxruby.org/codeofconduct), which is distributed under the same license.
