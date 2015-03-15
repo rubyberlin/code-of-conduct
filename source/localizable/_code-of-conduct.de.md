@@ -68,6 +68,7 @@ Geltungsbereich
 Wir erwarten, dass sich alle Teilnehmer der Community (bezahlte oder unbezahlte Beitragende, Sponsoren sowie andere Gäste) an jedweden Veranstaltungsorten der Community - online und offline - sowie in allen persönlichen Gesprächen im Rahmen der Community an diesen Verhaltenskodex halten.
 
 
+Lizenz und Namensnennung
+------------------------
 
-
-
+Der Berlin Code of Conduct steht unter der Creative Commons Attribution-ShareAlike Lizenz. Er basiert auf dem [pdx.rb code of conduct](http://pdxruby.org/codeofconduct), der unter der selben Lizenz steht.
