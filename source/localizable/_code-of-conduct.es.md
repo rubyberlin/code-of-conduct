@@ -63,3 +63,9 @@ Alcance
 -------
 
 Se espera que todos los participantes de la comunidad (colaboradores/as —pagos o no—, patrocinadores y otros/as invitados/as) se atengan a este Código de Conducta en todos los lugares de encuentro de la comunidad –online o en persona– así como en todas las comunicaciones uno-a-uno relacionadas con actividades de la comunidad.
+
+
+Licencia y atribución
+---------------------
+
+El Berlin Code of Conduct por http://rubyberlin.github.io/code-of-conduct/ se encuentra distribuido bajo una licencia Creative‭ ‬Commons‭ ‬Attribution-ShareAlike‭.
