@@ -55,7 +55,9 @@ Faire part de doléances
 
 Si vous estimez avoir été accusé injustement de violation du code de conduite, nous vous demandons de prendre contact avec l'un des organisateurs et de fournir une brève description de votre doléance. Cette dernière sera traitée conformément aux règles d'organisation du groupe.
 
+
 Application du code de conduite
 -----
 
 Nous attendons de la part de tous les membres de la communauté (contributeurs payés ou non, sponsors et autres invités) qu'ils respectent et agissent conformément à ce code de conduite lors d'événements, qu'il s'agisse de discussions en ligne ou de rencontres de visu ainsi que pour toutes les communications relatives à la communauté.
+
