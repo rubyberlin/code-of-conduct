@@ -22,7 +22,7 @@ Comportement attendu
 -----------------
 
 * Participez activement et avec authenticité. Ce faisant, vous contribuerez à rendre la communauté saine et durable.
-* Faites montre de considération et de respect dans vos paroles et actes.
+* Faites preuve de considération et de respect dans vos paroles et actes.
 * Préférez la coopération au conflit.
 * Ne pratiquez pas le harcèlement, la méchanceté et la discrimination dans votre comportement et dans vos paroles.
 * Soyez attentif à votre environnement et aux autres participants. Alertez les organisateurs si vous êtes témoin d'une situation dangereuse, d'une personne en situation de détresse ou d'une violation de ce code de conduite, même si cela vous semble sans conséquence.
