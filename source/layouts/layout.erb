@@ -9,6 +9,11 @@
     <link href="<%= asset_url('stylesheets/style.css') %>" rel="stylesheet">
     <script src="//use.typekit.net/vvs3qav.js"></script>
     <script>try{Typekit.load();}catch(e){}</script>
+    <script>
+      if (location.host != "berlincodeofconduct.org" && location.host != "localhost") {
+        location.href = "http://berlincodeofconduct.org/<%= "#{I18n.locale}/" unless I18n.locale == :en %>";
+      }
+    </script>
   </head>
   <body class="layout">
     <div class="layout--container">
