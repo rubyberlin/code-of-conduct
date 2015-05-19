@@ -29,7 +29,7 @@ Erwartetes Verhalten
 
 * Nimm Abstand von erniedrigender, diskriminierender oder belästigender Sprache und Verhalten.
 
-* Achte auf deine Umgebung und die anderen Teilnehmende. Mache die Veranstaltenden oder andere Anwesende darauf aufmerksam, wenn du eine gefährliche Situation, jemanden in Bedrängnis oder Verletzungen dieses Verhaltenskodexes bemerkst, selbst wenn sie zunächst belanglos erscheinen.
+* Achte auf deine Umgebung und die anderen Teilnehmenden. Mache die Veranstaltenden oder andere Anwesende darauf aufmerksam, wenn du eine gefährliche Situation, jemanden in Bedrängnis oder Verletzungen dieses Verhaltenskodexes bemerkst, selbst wenn sie zunächst belanglos erscheinen.
 
 
 Inakzeptables Verhalten
