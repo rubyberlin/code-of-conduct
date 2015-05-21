@@ -413,6 +413,20 @@
           "email": "ute@eurucamp.org"
         }
       ]
+    },
+    {
+      "name": "EuRuKo",
+      "city": "Salzburg",
+      "country": "Austria",
+      "link": "http://euruko2015.org",
+      "twitter": "euruko",
+      "contacts": [
+        {
+          "name": "Vlad Gorodetsky",
+          "twitter": "_beai",
+          "email": "v@gor.io"
+        }
+      ]
     }
   ]
 }
