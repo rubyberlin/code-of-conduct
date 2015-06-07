@@ -65,6 +65,7 @@ Nous attendons de la part de tous les membres de la communauté (contributeurs p
 Licence et attribution
 ----------------------
 
-Le code de conduite Berlin se trouve sous licence Creative Commons Attribution
-- Partage dans les Mêmes Conditions. Il est basé sur le [pdx.rb code of
-conduct](http://pdxruby.org/codeofconduct) partagé sous cette même licence.
+Le code de conduite Berlin est distribué sous licence Creative Commons
+Attribution - Partage dans les Mêmes Conditions. Il est basé sur le [pdx.rb
+code of conduct](http://pdxruby.org/codeofconduct) partagé sous cette même
+licence.
