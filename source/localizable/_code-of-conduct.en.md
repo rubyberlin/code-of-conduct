@@ -35,6 +35,7 @@ Unacceptable behaviors include: intimidating, harassing, abusive, discriminatory
 
 Harassment includes: harmful or prejudicial verbal or written comments related to gender, sexual orientation, race, religion, disability; inappropriate use of nudity and/or sexual images in public spaces (including presentation slides); deliberate intimidation, stalking or following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact, and unwelcome sexual attention.
 
+Furthermore participants, especially speakers, are expected to be mindful of potentially triggering content, such as imagery, they expose other community members to. This especially concerns slides, videos and other presentation material as well as clothing. Potentially triggering content includes, but is not limited to, the display of violence  and suicide references. Should this content be essential to the topic of a talk, it may be displayed but only with an explicit trigger warning. In any case, if you are unsure about the appropriateness of content please contact the organizers of the event to work with them.
 
 Consequences of Unacceptable Behavior
 -------------------------------------
