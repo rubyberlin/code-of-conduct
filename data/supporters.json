@@ -390,5 +390,43 @@
     }
   ],
   "conferences": [
+    {
+      "name": "eurucamp",
+      "city": "Berlin",
+      "country": "Germany",
+      "link": "http://eurucamp.org",
+      "twitter": "eurucamp",
+      "contacts": [
+        {
+          "name": "Bodo Tasche",
+          "twitter": "bitboxer",
+          "email": "bodo@eurucamp.org"
+        },
+        {
+          "name": "Fanny Krebs",
+          "twitter": "fannivuniconnu",
+          "email": "fanny@eurucamp.org"
+        },
+        {
+          "name": "Ute Mayer",
+          "twitter": "nerdbabe",
+          "email": "ute@eurucamp.org"
+        }
+      ]
+    },
+    {
+      "name": "EuRuKo",
+      "city": "Salzburg",
+      "country": "Austria",
+      "link": "http://euruko2015.org",
+      "twitter": "euruko",
+      "contacts": [
+        {
+          "name": "Vlad Gorodetsky",
+          "twitter": "_beai",
+          "email": "v@gor.io"
+        }
+      ]
+    }
   ]
 }
