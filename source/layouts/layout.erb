@@ -10,7 +10,7 @@
     <script src="//use.typekit.net/vvs3qav.js"></script>
     <script>try{Typekit.load();}catch(e){}</script>
     <script>
-      if (location.host != "berlincodeofconduct.org" && location.host != "localhost") {
+      if (location.host != "berlincodeofconduct.org" && location.hostname != "localhost") {
         location.href = "http://berlincodeofconduct.org/<%= "#{I18n.locale}/" unless I18n.locale == :en %>";
       }
     </script>
