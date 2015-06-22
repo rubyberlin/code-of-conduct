@@ -427,6 +427,30 @@
           "email": "v@gor.io"
         }
       ]
+    },
+    {
+      "name": "Wizard Amigos Institute",
+      "city": "Berlin",
+      "country": "Germany",
+      "link": "http://wizard.amigos.institute",
+      "twitter": "wizardamigos",
+      "contacts": [
+        {
+          "name": "Wizard Amigo",
+          "twitter": "wizardamigos",
+          "email": "wizard@amigos.institute"
+        },
+        {
+          "name": "Alexander Praetorius",
+          "twitter": "serapath",
+          "email": "a.praetorius@serapath.de"
+        },
+        {
+          "name": "Nina Breznik",
+          "twitter": "ninabreznik",
+          "email": "ninabreznik@gmail.com"
+        }
+      ]
     }
   ]
 }
