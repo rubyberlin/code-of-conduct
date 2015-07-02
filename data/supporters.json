@@ -451,6 +451,21 @@
           "email": "ninabreznik@gmail.com"
         }
       ]
+    },
+    {
+      "name": "Web Audio Berlin",
+      "city": "Berlin",
+      "country": "Germany",
+      "link": "http://webaudio.berlin",
+      "twitter": "webaudioberlin",
+      "contacts": [
+        {
+          "name": "Jan Monschke",
+          "twitter": "thedeftone",
+          "phone": "+49 157 789 021 18",
+          "email": "jan@janmonschke.com"
+        }
+      ]
     }
   ]
 }
