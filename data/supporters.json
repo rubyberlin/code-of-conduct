@@ -466,6 +466,25 @@
           "email": "jan@janmonschke.com"
         }
       ]
+    },
+    {
+      "name": "Berlin Mobile .NET",
+      "city": "Berlin",
+      "country": "Germany",
+      "link": "http://www.meetup.com/Berlin-Mobile-DotNet-Meetup/",
+      "twitter": "BerlinDotNet",
+      "contacts": [
+        {
+          "name": "Nathan Guerin",
+          "twitter": "Gusennan",
+          "email": "nathan.guerin@riseup.net"
+        },
+        {
+          "name": "Daniel Münch",
+          "twitter": "ddotmunch",
+          "email": "dani.munch@gmail.com"
+        }
+      ]
     }
   ]
 }
