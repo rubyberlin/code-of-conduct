@@ -60,3 +60,9 @@ Zakres
 ------
 
 Oczekujemy, że wszyscy uczestnicy społeczności (organizatorzy, zarówno opłacani jak i wolontariusze; sponsorzy; pozostali goście) będą przestrzegać tego Kodeksu postępowania we wszelkich miejscach spotkań społeczności – online i w świecie rzeczywistym – jak i w komunikacji prywatnej dotyczącej spraw społeczności.
+
+
+Licencja i uznanie autorstwa
+----------------------------
+
+Berliński kodeks postępowania jest rozpowszechniany na warunkach licencji Creative Commons Uznanie autorstwa-Na tych samych warunkach. Kodeks został stworzony na podstawie [pdx.rb code of conduct](http://pdxruby.org/codeofconduct), rozpowszechnianego na warunkach tej samej licencji.
