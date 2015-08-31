@@ -485,6 +485,27 @@
           "email": "dani.munch@gmail.com"
         }
       ]
+    },
+    {
+      "name": "Málaga Scala Meetup",
+      "city": "Málaga",
+      "country": "Spain",
+      "link": "http://www.meetup.com/Malaga-Scala",
+      "twitter": "MalagaScala",
+      "contacts": [
+        {
+          "name": "Nando Sola",
+          "twitter": "mr_solo"
+        },
+        {
+          "name": "Sergio Tudela",
+          "twitter": "sergiotudela"
+        },
+        {
+          "name": "Carmel Hassan",
+          "twitter": "karmel"
+        }
+      ]
     }
   ]
 }
