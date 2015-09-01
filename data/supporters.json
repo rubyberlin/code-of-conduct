@@ -506,6 +506,27 @@
           "twitter": "karmel"
         }
       ]
+    },
+    {
+      "name": "Lambda World Cádiz 2015",
+      "city": "Cádiz",
+      "country": "Spain",
+      "link": "http://www.lambda.world",
+      "twitter": "Lambda_World",
+      "contacts": [
+        {
+          "name": "Jorge Galindo",
+          "twitter": "jorge__galindo"
+        },
+        {
+          "name": "Susana Marló",
+          "twitter": "carabuu_u"
+        },
+        {
+          "name": "Inés Arroyo",
+          "twitter": "toda1dama"
+        }
+      ]
     }
   ]
 }
