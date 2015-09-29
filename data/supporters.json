@@ -527,6 +527,21 @@
           "twitter": "toda1dama"
         }
       ]
+    },
+    {
+      "name": "Data Science for Social Good Berlin",
+      "city": "Berlin",
+      "country": "Germany",
+      "link": "http://dssg-berlin.org",
+      "twitter": "dssgber",
+      "contacts": [
+        {
+          "name": "Daniel Kirsch",
+          "twitter": "kirel",
+          "phone": "+49 151 15729370",
+          "email": "daniel@dssg-berlin.org"
+        }
+      ]
     }
   ]
 }
