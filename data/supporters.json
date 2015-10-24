@@ -542,6 +542,25 @@
           "email": "daniel@dssg-berlin.org"
         }
       ]
+    },
+    {
+      "name": "More Micro Modules",
+      "city": "Berlin",
+      "country": "Germany",
+      "link": "http://moremicromodules.org",
+      "twitter": "micromodules",
+      "contacts": [
+        {
+          "name": "Jan Lelis",
+          "twitter": "JanLelis",
+          "email": "mail@janlelis.de"
+        },
+        {
+          "name": "Christoph Grabo",
+          "twitter": "asaaki",
+          "email": "christoph@grabo.berlin"
+        }
+      ]
     }
   ]
 }
