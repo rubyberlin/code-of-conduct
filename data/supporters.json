@@ -561,6 +561,19 @@
           "email": "christoph@grabo.berlin"
         }
       ]
+    },
+    {
+      "name": "J On The Beach",
+      "city": "Málaga",
+      "country": "Spain",
+      "link": "http://www.jonthebeach.com/",
+      "twitter": "J_OnTheBeach",
+      "contacts": [
+        {
+          "name": "Johanna Forssell",
+          "email": "info@jonthebeach.com"
+        }
+      ]
     }
   ]
 }
