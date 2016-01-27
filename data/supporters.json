@@ -575,6 +575,20 @@
           "email": "info@jonthebeach.com"
         }
       ]
+    },
+    {
+      "name": "Silesian Ruby Users Group",
+      "city": "Gliwice",
+      "country": "Poland",
+      "link": "https://srug.pl/",
+      "twitter": "srugpl",
+      "contacts": [
+        {
+          "name": "Kuba Kuźma",
+          "twitter": "qoobaa",
+          "email": "kuba@jah.pl"
+        }
+      ]
     }
   ]
 }
