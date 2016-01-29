@@ -589,6 +589,20 @@
           "email": "kuba@jah.pl"
         }
       ]
+    },
+    {
+      "name": "unKonf 2016",
+      "city": "Mannheim",
+      "country": "Germany",
+      "link": "https://www.unkonf.de/",
+      "twitter": "unkonf",
+      "contacts": [
+        {
+          "name": "Stephan Hochdörfer",
+          "twitter": "shochdoerfer",
+          "email": "info@unKonf.de"
+        }
+      ]
     }
   ]
 }
