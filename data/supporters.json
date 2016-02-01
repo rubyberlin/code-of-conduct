@@ -603,6 +603,20 @@
           "email": "info@unKonf.de"
         }
       ]
+    },
+    {
+      "name": "PySilesia / Silesian Python Users Group",
+      "city": "Katowice",
+      "country": "Poland",
+      "link": "http://pysilesia.org/",
+      "twitter": "pysilesia",
+      "contacts": [
+        {
+          "name": "Filip Kłębczyk",
+          "twitter": "fk_lx",
+          "email": "fklebczyk@gmail.com"
+        }
+      ]
     }
   ]
 }
