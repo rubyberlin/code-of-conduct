@@ -617,6 +617,19 @@
           "email": "fklebczyk@gmail.com"
         }
       ]
+    },
+    {
+      "name": "dber - diaspora* Berlin",
+      "city": "Berlin",
+      "country": "Germany",
+      "link": "https://dber.org",
+      "contacts": [
+        {
+          "name": "Lisa Passing",
+          "email": "mail@lislis.de",
+          "diaspora": "lis@wk3.org"
+        }
+      ]
     }
   ]
 }
