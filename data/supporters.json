@@ -8,9 +8,10 @@
       "twitter": "rug_b",
       "contacts": [
         {
-          "name": "Tobias Pfeiffer",
-          "phone": "+49 160 205 0792",
-          "email": "pragtob@gmail.com"
+          "name":    "Tobias Pfeiffer",
+          "phone":   "+49 160 205 0792",
+          "email":   "pragtob@gmail.com",
+          "twitter": "PragTob"
         },
         {
           "name": "Thilo Utke",
