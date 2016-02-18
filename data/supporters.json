@@ -630,6 +630,32 @@
           "diaspora": "lis@wk3.org"
         }
       ]
+    },
+    {
+      "name": "React Berlin",
+      "city": "Berlin",
+      "country": "Germany",
+      "link": "http://reactjs.berlin/",
+      "twitter": "reactberlin",
+      "contacts": [
+        {
+          "name":    "Tobias Pfeiffer",
+          "phone":   "+49 160 205 0792",
+          "email":   "pragtob@gmail.com",
+          "twitter": "PragTob"
+        },
+        {
+          "name":    "Bodo Tasche",
+          "phone":   "+49 1512 7533048",
+          "email":   "bodo@tasche.me",
+          "twitter": "bitboxer"
+        },
+        {
+          "name":    "Christoph Beck",
+          "email":   "aqualung@crapmap.de",
+          "twitter": "chris_bitcrowd"
+        }
+      ]
     }
   ]
 }
