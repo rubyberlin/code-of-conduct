@@ -657,6 +657,23 @@
           "twitter": "chris_bitcrowd"
         }
       ]
+    },
+    {
+      "name": "JavaScript and the Internet of Things",
+      "city": "Portland, OR",
+      "country": "USA",
+      "link": "http://www.meetup.com/JavaScript-and-the-Internet-of-Things/",
+      "contacts": [
+        {
+          "name":    "Andrew Chalkley",
+          "email":   "andrew@chalkley.org",
+          "twitter": "chalkers"
+        },
+        {
+          "name":    "Craig Dennis",
+          "twitter": "craigsdennis"
+        }
+      ]
     }
   ]
 }
