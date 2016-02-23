@@ -674,6 +674,32 @@
           "twitter": "craigsdennis"
         }
       ]
+    }, 
+    {
+      "name": "EuRuKo 2016",
+      "city": "Sofia",
+      "country": "Bulgaria",
+      "link": "http://euruko2016.org",
+      "twitter": "euruko",
+      "contacts": [
+        {
+          "name": "Svetlozar Todorov",
+          "email": "svetlik@gmail.com"
+        },
+        {
+          "name": "Genadi Samokovarov",
+          "email": "gsamokovarov@gmail.com"
+        },
+        {
+          "name": "Vestimir Markov",
+          "email": "me@vestimir.com"
+        },
+        {
+          "name": "Svetlozar Mihaylov",
+          "email": "svetliomihailov@gmail.com",
+          "phone": "+359 883 33 20 91"
+        }
+      ]
     }
   ]
 }
