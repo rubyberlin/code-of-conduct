@@ -700,6 +700,30 @@
           "phone": "+359 883 33 20 91"
         }
       ]
+    }, 
+    {
+      "name": "Raspberry Pi Hackers MeetUp",
+      "city": "Sevilla",
+      "country": "Spain",
+      "link": "http://www.meetup.com/es-ES/RaspberryPi-Hackers-en-Sevilla/",
+      "twitter": "RaspberryHack",
+      "contacts": [
+        {
+          "name": "Bernardo Ronquillo",
+          "email": "brjapon@psykia.com",
+          "link": "https://es.linkedin.com/in/brjapon",
+          "twitter": "brjapon",
+          "phone": "+34 678 590 171"
+        },
+        {
+          "name": "Víctor Murillo",
+          "email": "victor@psykia.com"
+        },
+        {
+          "name": "Rubén Rodríguez",
+          "email": "ruben@pyskia.com"
+        }
+      ]
     }
   ]
 }
