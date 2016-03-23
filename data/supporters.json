@@ -674,7 +674,7 @@
           "twitter": "craigsdennis"
         }
       ]
-    }, 
+    },
     {
       "name": "EuRuKo 2016",
       "city": "Sofia",
@@ -700,7 +700,7 @@
           "phone": "+359 883 33 20 91"
         }
       ]
-    }, 
+    },
     {
       "name": "Raspberry Pi Hackers MeetUp",
       "city": "Sevilla",
@@ -724,7 +724,7 @@
           "email": "ruben@pyskia.com"
         }
       ]
-    }, 
+    },
     {
       "name": "Sonic Code Sessions",
       "city": "Berlin",
@@ -736,7 +736,7 @@
           "name": "Abe Pazos",
           "email": "hamoid@gmail.com",
           "link": "http://hamoid.com",
-          "twitter": "hamoid",
+          "twitter": "hamoid"
         }
       ]
     }
