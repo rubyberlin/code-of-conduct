@@ -739,6 +739,19 @@
           "twitter": "hamoid"
         }
       ]
+    },
+    {
+      "name": "Berlin Node.js Community Meetup",
+      "city": "Berlin",
+      "country": "Germany",
+      "link": "https://ti.to/travisci/berlin-node-js-community-meetup",
+      "contacts": [
+        {
+          "name": "Jenifer Duke",
+          "email": "duke@travis-ci.com",
+          "phone": "+49 170 7986487"
+        }
+      ]
     }
   ]
 }
