@@ -757,6 +757,25 @@
           "phone": "+45 28 49 16 32"
         }
       ]
+    },
+    {
+      "name": "Berlin.JS – Berlin JavaScript usergroup",
+      "city": "Berlin",
+      "country": "Germany",
+      "link": "http://www.berlinjs.org",
+      "twitter": "berlinjs",
+      "contacts": [
+        {
+          "name":    "Michele Guido",
+          "twitter": "sheley"
+        },
+        {
+          "name": "Robin Mehner",
+          "twitter": "rmehner",
+          "phone": "+49 160 906 59729",
+          "email": "robin@coding-robin.de"
+        }
+      ]
     }
   ]
 }
