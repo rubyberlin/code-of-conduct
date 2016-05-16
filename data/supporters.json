@@ -771,6 +771,25 @@
           "email": "robin@coding-robin.de"
         }
       ]
+    },
+    {
+      "name": "Macoun - Mac OS X and iOS Developer Conference",
+      "city": "Frankfurt",
+      "country": "Germany",
+      "link": "https://macoun.de",
+      "twitter": "MacounFFM",
+      "contacts": [
+        {
+          "name": "Christian Hauser",
+          "phone": "+49 69 981 912 06",
+          "email": "contact@macoun.de"
+        },
+        {
+          "name": "Thomas Biedorf",
+          "phone": "+49 69 981 912 06",
+          "email": "contact@macoun.de"
+        }
+      ]
     }
   ]
 }
