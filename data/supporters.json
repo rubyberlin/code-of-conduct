@@ -795,6 +795,20 @@
           "email": "contact@macoun.de"
         }
       ]
+    },
+    {
+      "name": "Rustfest",
+      "city": "Berlin",
+      "country": "Germany",
+      "link": "http://rustfest.eu",
+      "twitter": "rustfest",
+      "contacts": [
+        {
+          "name": "Florian Gilcher",
+          "phone": "+49 172 8122469",
+          "email": "florian.gilcher@asquera.de"
+        }
+      ]
     }
   ]
 }
