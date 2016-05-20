@@ -835,6 +835,21 @@
             "twitter": "LeonardKoch_"
           }
         ]
+    },
+    {
+        "name": "node.HH",
+        "city": "Hamburg",
+        "country": "Germany",
+        "link": "http://www.meetup.com/de-DE/node-HH/",
+        "twitter": "NodeHamburg",
+        "contacts": [
+          {
+            "name": "Gregor Elke",
+            "phone": "+49 174 2100996",
+            "email": "greelgorke@gmail.com",
+            "twitter": "greelgorke"
+          }
+        ]
     }
   ]
 }
