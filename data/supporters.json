@@ -845,6 +845,26 @@
             "twitter": "greelgorke"
           }
         ]
+    },
+    {
+      "name": "decode hamburg",
+      "city": "Hamburg",
+      "country": "Germany",
+      "link": "https://www.meetup.com/decode-hh/",
+      "twitter": "decodehh",
+      "contacts": [
+        {
+          "name": "Martin Schuhfuss",
+          "phone": "+49 172 5188 662",
+          "email": "m.schuhfuss@gmail.com",
+          "twitter": "usefulthink"
+        },
+        {
+          "name": "Felicitas Kugland",
+          "email": "felicitas.kugland@gmail.com",
+          "twitter": "kotzendekrabbe"
+        }
+      ]
     }
   ]
 }
