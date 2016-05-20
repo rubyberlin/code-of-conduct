@@ -804,6 +804,32 @@
           "email": "florian.gilcher@asquera.de"
         }
       ]
+    },
+    {
+        "name": "React.HH",
+        "city": "Hamburg",
+        "country": "Germany",
+        "link": "http://www.meetup.com/de-DE/Hamburg-React-js-Meetup/",
+        "twitter": "reacthh",
+        "contacts": [
+          {
+            "name": "Dave Brotherstone",
+            "phone": "+49 177 5548569",
+            "email": "davegb@pobox.com",
+            "twitter": "bruderstein"
+          },
+          {
+            "name": "Rebecca Spindler",
+            "phone": "+49 170 9322635",
+            "email": "spindler.rebecca@gmail.com",
+            "twitter": "beccspin"
+          },
+          {
+            "name": "Leonard Koch",
+            "email": "leonard@leonardkoch.com",
+            "twitter": "LeonardKoch_"
+          }
+        ]
     }
   ]
 }
