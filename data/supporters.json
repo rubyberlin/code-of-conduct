@@ -870,6 +870,21 @@
           "twitter": "kotzendekrabbe"
         }
       ]
+    },
+    {
+      "name": "HH.JS",
+      "city": "Hamburg",
+      "country": "Germany",
+      "link": "http://www.meetup.com/hamburg-js/",
+      "twitter": "hhjs",
+      "contacts": [
+        {
+          "name": "Martin Kleppe",
+          "phone": "+49 178 236 53 40",
+          "email": "kleppe@gmail.com",
+          "twitter": "aemkei"
+        }
+      ]
     }
   ]
 }
