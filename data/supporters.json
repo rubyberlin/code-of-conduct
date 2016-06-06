@@ -880,6 +880,21 @@
           "twitter": "aemkei"
         }
       ]
+    },
+    {
+      "name": "CouchDB Meetup Hamburg",
+      "city": "Hamburg",
+      "country": "Germany",
+      "link": "http://www.meetup.com/CouchDB-Meetup-Hamburg/",
+      "twitter": "HamburgCouchDB",
+      "contacts": [
+        {
+          "name": "Klaus Trainer",
+          "phone": "+49 1577 7855886",
+          "email": "klaus_trainer@apache.org",
+          "twitter": "KlausTrainer"
+        }
+      ]
     }
   ]
 }
