@@ -809,6 +809,114 @@
           "email": "florian.gilcher@asquera.de"
         }
       ]
+    },
+    {
+        "name": "React.HH",
+        "city": "Hamburg",
+        "country": "Germany",
+        "link": "http://www.meetup.com/de-DE/Hamburg-React-js-Meetup/",
+        "twitter": "reacthh",
+        "contacts": [
+          {
+            "name": "Dave Brotherstone",
+            "phone": "+49 177 5548569",
+            "email": "davegb@pobox.com",
+            "twitter": "bruderstein"
+          },
+          {
+            "name": "Rebecca Spindler",
+            "phone": "+49 170 9322635",
+            "email": "spindler.rebecca@gmail.com",
+            "twitter": "beccspin"
+          },
+          {
+            "name": "Leonard Koch",
+            "email": "leonard@leonardkoch.com",
+            "twitter": "LeonardKoch_"
+          }
+        ]
+    },
+    {
+        "name": "node.HH",
+        "city": "Hamburg",
+        "country": "Germany",
+        "link": "http://www.meetup.com/de-DE/node-HH/",
+        "twitter": "NodeHamburg",
+        "contacts": [
+          {
+            "name": "Gregor Elke",
+            "phone": "+49 174 2100996",
+            "email": "greelgorke@gmail.com",
+            "twitter": "greelgorke"
+          }
+        ]
+    },
+    {
+      "name": "decode hamburg",
+      "city": "Hamburg",
+      "country": "Germany",
+      "link": "https://www.meetup.com/decode-hh/",
+      "twitter": "decodehh",
+      "contacts": [
+        {
+          "name": "Martin Schuhfuss",
+          "phone": "+49 172 5188 662",
+          "email": "m.schuhfuss@gmail.com",
+          "twitter": "usefulthink"
+        },
+        {
+          "name": "Felicitas Kugland",
+          "email": "felicitas.kugland@gmail.com",
+          "twitter": "kotzendekrabbe"
+        }
+      ]
+    },
+    {
+      "name": "HH.JS",
+      "city": "Hamburg",
+      "country": "Germany",
+      "link": "http://www.meetup.com/hamburg-js/",
+      "twitter": "hhjs",
+      "contacts": [
+        {
+          "name": "Martin Kleppe",
+          "phone": "+49 178 236 53 40",
+          "email": "kleppe@gmail.com",
+          "twitter": "aemkei"
+        },
+        {
+          "name": "Felicitas Kugland",
+          "email": "felicitas.kugland@gmail.com",
+          "twitter": "kotzendekrabbe"
+        },
+        {
+          "name": "Rebecca Spindler",
+          "phone": "+49 170 9322635",
+          "email": "spindler.rebecca@gmail.com",
+          "twitter": "beccspin"
+        },
+        {
+          "name": "Daniel Dembach",
+          "phone": "+49 151 22962186",
+          "email": "daniel@dmbch.net",
+          "twitter": "dmbch"
+        }
+      ]
+    },
+    {
+      "name": "CouchDB Meetup Hamburg",
+      "city": "Hamburg",
+      "country": "Germany",
+      "link": "http://www.meetup.com/CouchDB-Meetup-Hamburg/",
+      "twitter": "HamburgCouchDB",
+      "contacts": [
+        {
+          "name": "Klaus Trainer",
+          "phone": "+49 1577 7855886",
+          "email": "klaus_trainer@apache.org",
+          "twitter": "KlausTrainer"
+        }
+      ]
     }
   ]
 }
