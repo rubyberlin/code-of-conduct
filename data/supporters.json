@@ -917,6 +917,20 @@
           "twitter": "KlausTrainer"
         }
       ]
+    },
+    {
+      "name": "DO!Hack 2016",
+      "city": "Dortmund",
+      "country": "Germany",
+      "link": "https://www.dohack.io",
+      "twitter": "dohack_io",
+      "contacts": [
+        {
+          "name":    "Christoph Weinzierl",
+          "email":   "team@dohack.io",
+          "twitter": "wir3bug"
+        }
+      ]
     }
   ]
 }
