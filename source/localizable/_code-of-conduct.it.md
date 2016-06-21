@@ -1,7 +1,7 @@
 Scopo
 -------
 
-Lo scopo principale di tutte le conferenze e gli user group che aderiscono a questo Codice di Condotta è di essere il più inclusivi possibile rispetto al maggior numero di partecipanti, provenienti dai piu' eterogenei e variegati backgrounds possibili. Per questo, ci impegniamo a fornire un ambiente amichevole, sicuro e accogliente, indipendentemente dal sesso, orientamento sessuale, disabilità fisiche e/o mentali, etnia, stato socio-economico e preferenze religiose (o mancanza di tali).
+Lo scopo principale di tutte le conferenze e gli user group che aderiscono a questo Codice di Condotta è di essere il più inclusivi possibile rispetto al maggior numero di partecipanti, provenienti dai più eterogenei e variegati backgrounds possibili. Per questo, ci impegniamo a fornire un ambiente amichevole, sicuro e accogliente, indipendentemente dal sesso, orientamento sessuale, disabilità fisiche e/o mentali, etnia, stato socio-economico e preferenze religiose (o mancanza di tali).
 
 Questo Codice di Condotta delinea cosa ci aspettiamo da tutti/e i/le partecipanti delle nostre comunità, cosí come le conseguenze per eventuali comportamenti inaccettabili.
 
@@ -16,7 +16,7 @@ Uno degli scopi addizionali di questo Codice di Condotta è di favorire una citt
 Le comunità sono lo specchio delle società nelle quali esse esistono ed agire in maniera positiva è essenziale per contrastare tutte le forme di diseguaglianza e abusi di potere che esistono nella società in cui viviamo.
 
 
-Se vieni a conoscenza di qualcuno/a il/la che in maniera esemplare si assicura che la nostra comunità sia accogliente, amichevole e che attivamente incoraggia tutti/e i/le partecipanti nel contribuire al massimo, faccelo sapere!
+Se vieni a conoscenza di qualcuno/a che in maniera esemplare si assicura che la nostra comunità sia accogliente, amichevole e che attivamente incoraggia tutti/e i/le partecipanti nel contribuire al massimo, faccelo sapere!
 
 
 Il comportamento che ci aspettiamo
@@ -32,15 +32,15 @@ Il comportamento che ci aspettiamo
 Comportamento inaccettabile
 ---------------------
 
-I comportamenti che riteniamo inaccettabili includono: comportamenti intimidatori, molesti, abusanti, discriminatori, linguaggio o azioni che siano dispregiativi e avvilenti perpetuati da qualsiasi partecipante nella nostra comunità online, in tutti gli eventi collegati e nelle conversazioni tra singoli pertinenti agli interessi della comunità. Alcuni eventi della Community potrebbero aver luogo in spazi condivisi con un pubblico esterno alla comunità stessa; per favore, sii rispettoso/a con tutti/e i/le promotori/promotrici dei suddetti spazi.
+I comportamenti che riteniamo inaccettabili includono: comportamenti intimidatori, molesti, abusanti, discriminatori, linguaggio o azioni che siano dispregiativi e avvilenti perpetrati da qualsiasi partecipante nella nostra comunità online, in tutti gli eventi collegati e nelle conversazioni tra singoli pertinenti agli interessi della comunità. Alcuni eventi della Community potrebbero aver luogo in spazi condivisi con un pubblico esterno alla comunità stessa; per favore, sii rispettoso/a con tutti/e i/le promotori/promotrici dei suddetti spazi.
 
-Comportamenti molesti includono: commenti scritti o verbali dannosi o pregiudizievoli in relazione al sesso, orientamento sessuale, razza, religione, disabilità fisiche e/o mentali; uso inappropriato di immagini di nudi e/o immagini a sfondo sessuale utilizzate in spazi pubblici (comprese le slides per le presentazioni); intimidazioni, il seguire fisicamente o stalking; molestie sotto forma di fotografie e video non autorizzati; interruzione sostenuta di presentazioni o altri eventi; contatto fisico inappropriato e attenzione sessuale sgradita.
+Comportamenti molesti includono: commenti scritti o verbali dannosi o pregiudizievoli in relazione al sesso, orientamento sessuale, razza, religione, disabilità fisiche e/o mentali; uso inappropriato di immagini di nudi e/o immagini a sfondo sessuale utilizzate in spazi pubblici (comprese le slide per le presentazioni); intimidazioni, il seguire fisicamente o stalking; molestie sotto forma di fotografie e video non autorizzati; interruzione sostenuta di presentazioni o altri eventi; contatto fisico inappropriato e attenzione sessuale sgradita.
 
 
 Conseguenze per i comportamenti inaccettabili
 -------------------------------------
 
-Qualsiasi comportamento ritenuto inaccettabile perpetuato da qualsiasi membro della comunità, compresi Sponsors e coloro che si trovano in una posizione di potere decisionale, non sarà tollerato.
+Qualsiasi comportamento ritenuto inaccettabile perpetrato da qualsiasi membro della comunità, compresi Sponsors e coloro che si trovano in una posizione di potere decisionale, non sarà tollerato.
 Ci aspettiamo che chiunque venga ripreso mentre agisce in maniera molesta interrompa le suddette azioni immediatamente.
 
 Se un membro della comunità agisce in maniera non consona al Codice di Condotta, gli/le organizzatori/organizzatrici della comunità possono reagire di conseguenza nel modo che più ritengono appropriato, incluso escludere temporaneamente o permanentemente il membro dalla comunità, senza preavviso alcuno (e senza rimborso in caso di evento a pagamento).
