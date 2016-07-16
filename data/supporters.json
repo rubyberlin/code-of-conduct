@@ -926,6 +926,23 @@
           "twitter": "wir3bug"
         }
       ]
+    },
+    {
+      "name": "Berlin C++ User Group",
+      "city": "Berlin",
+      "country": "Germany",
+      "link": "http://www.meetup.com/berlincplusplus/",
+      "contacts": [
+        {
+          "name":    "Fabio Fracassi",
+          "phone":   "+49 172 97 28 955",
+          "email":   "f.fracassi@gmx.net"
+        },
+        {
+          "name": "Celine Dedaj",
+          "email": "celine.dedaj@ableton.com"
+        },
+      ]
     }
   ]
 }
