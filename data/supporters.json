@@ -430,16 +430,16 @@
       ]
     },
     {
-      "name": "Wizard Amigos Institute",
+      "name": "WizardAmigos",
       "city": "Berlin",
       "country": "Germany",
-      "link": "http://wizard.amigos.institute",
+      "link": "http://wizardamigos.com",
       "twitter": "wizardamigos",
       "contacts": [
         {
-          "name": "Wizard Amigo",
+          "name": "Wizard Amigos",
           "twitter": "wizardamigos",
-          "email": "wizard@amigos.institute"
+          "email": "we@wizardamigos.com"
         },
         {
           "name": "Alexander Praetorius",
@@ -946,6 +946,44 @@
         {
           "name": "Celine Dedaj",
           "email": "celine.dedaj@ableton.com"
+        }
+      ]
+    },
+    {
+      "name": "CodingAmigos - freelance collectve of freelance developers",
+      "city": "Berlin",
+      "country": "Germany",
+      "link": "http://codingamigos.com",
+      "twitter": "codingamigos",
+      "contacts": [
+        {
+          "name": "Coding Amigos",
+          "twitter": "codingamigos",
+          "email": "we@codingamigos.com"
+        },
+        {
+          "name": "Nina Breznik",
+          "twitter": "ninabreznik",
+          "email": "ninabreznik@gmail.com"
+        },
+        {
+          "name": "Alexander Praetorius",
+          "twitter": "serapath",
+          "email": "a.praetorius@serapath.de"
+        }
+      ]
+    },
+    {
+      "name": "RefugeesWork",
+      "city": "Berlin",
+      "country": "Germany",
+      "link": "http://refugeeswork.com",
+      "twitter": "refugeeswork",
+      "contacts": [
+        {
+          "name": "RefugeesWork",
+          "twitter": "refugeeswork",
+          "email": "we@refugeeswork.com"
         }
       ]
     }
