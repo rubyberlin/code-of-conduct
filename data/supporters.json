@@ -986,6 +986,19 @@
           "email": "we@refugeeswork.com"
         }
       ]
+    },
+    {
+      "name": "Serverless Usergroup Hamburg",
+      "city": "Hamburg",
+      "country": "Germany",
+      "link": "http://www.meetup.com/Serverless-Hamburg",
+      "contacts": [
+        {
+          "name": "Soenke Ruempler",
+          "twitter": "s0enke",
+          "email": "soenke@ruempler.eu"
+        }
+      ]
     }
   ]
 }
