@@ -999,6 +999,24 @@
           "email": "soenke@ruempler.eu"
         }
       ]
+    },
+    {
+      "name": "Hamburg AngularJS Meetup",
+      "city": "Hamburg",
+      "country": "Germany",
+      "link": "http://www.meetup.com/Hamburg-AngularJS-Meetup/",
+      "twitter": "angular_hamburg",
+      "contacts": [
+        {
+          "name": "David Müllerchen",
+          "email": "dave@webdave.de",
+          "twitter": "webdave_de"
+        },
+        {
+          "name": "John Behrens",
+          "twitter": "WebConsultsEu"
+        }
+      ]
     }
   ]
 }
