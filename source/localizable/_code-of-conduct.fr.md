@@ -35,6 +35,8 @@ Sont considérés comme inacceptables : l'intimidation, le harcèlement, la mal
 
 Sont considérés comme du harcèlement : les commentaires blessants ou malveillants (écrits ou verbaux) sur le genre, l'orientation sexuelle, la race, la religion, le handicap ; l'usage inapproprié de la nudité et/ou d'images à connotation sexuelle dans un espace public (y compris des diaporamas de présentations) ; l'intimidation volontaire ; la traque ou harcèlement par les faits (*stalking*) ; le harcèlement photo ou vidéo ; l'interruption ou la perturbation volontaire de présentations ou d'autres événements ; le contact physique inapproprié ou les attentions sexuelles non désirées.
 
+L'examen critique des opinions, passant notamment par des commentaires critiques des points de vue d'une autre personne, ne constitue pas en soi une attitude hostile ni quelconque harcèlement. Une des raisons sous-jacentes de ce code de conduite est de promouvoir le libre échange d'idées et non de l'inhiber.
+
 
 Conséquences d'un comportement inacceptable
 -------------------------------------

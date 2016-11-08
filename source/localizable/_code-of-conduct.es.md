@@ -36,6 +36,8 @@ Comportamientos inaceptables incluyen: discursos o acciones intimidantes, acosad
 
 Acoso incluye: daño o perjurio verbal o escrito relacionado con género, orientación sexual, raza, religión, incapacidad; uso inapropiado de imágenes de desnudez en espacios públicos (incluyendo presentaciones digitales); intimidación deliberada, acecho o persecución; fotografías o grabaciones abusivas; interrupción sostenida de presentaciones u de otros eventos; contacto físico inapropiado y atención sexual no deseada.
 
+El análisis crítico de las opiniones, incuyendo el comentario crítico de las opiniones de las otras personas, no se puede considerar como una conducta hostil o un hostigamiento. Uno de los fundamentos de este Código de Conducta es promover el libre intercambio de ideas, y no inhibir dichos intercambios.
+
 
 Consecuencias del comportamiento inaceptable
 --------------------------------------------
