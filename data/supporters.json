@@ -1012,6 +1012,19 @@
           "twitter": "WebConsultsEu"
         }
       ]
+    },
+    {
+      "name": "Hackerstolz e.V.",
+      "city": "Berlin",
+      "country": "Germany",
+      "link": "http://www.hackerstolz.de",
+      "twitter": "hackerstolz",
+      "contacts": [
+        {
+          "name": "Sebastian Waschnick",
+          "twitter": "waschnick"
+        }
+      ]
     }
   ]
 }
