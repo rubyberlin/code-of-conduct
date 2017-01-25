@@ -1025,6 +1025,19 @@
           "twitter": "waschnick"
         }
       ]
+    },
+    {
+      "name": "Lemmings I/O",
+      "city": "Vienna",
+      "country": "Austria",
+      "link": "https://lemmings.io",
+      "contacts": [
+        {
+          "name": "Thomas Schranz",
+          "email": "thomas+lemmings@blossom.io",
+          "twitter": "__tosh"
+        }
+      ]
     }
   ]
 }
