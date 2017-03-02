@@ -1,6 +1,28 @@
 {
   "usergroups": [
     {
+      "name": "EuRuKo 2017",
+      "city": "Budapest",
+      "country": "Hungary",
+      "link": "http://euruko2017.org",
+      "twitter": "euruko",
+      "contacts": [
+        {
+          "name": "Amr Abdelwahab",
+          "twitter": "amrabdelwahab",
+          "email": "amr@digitalnatives.hu"
+        },
+        {
+          "name": "Ádám Madácsi",
+          "email": "adam@digitalnatives.hu"
+        },
+        {
+          "name": "Daniella Varga",
+          "email": "daniella@digitalnatives.hu"
+        }
+      ]
+    },
+    {
       "name": "RUG-B – Ruby User Group Berlin",
       "city": "Berlin",
       "country": "Germany",
