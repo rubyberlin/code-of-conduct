@@ -1060,6 +1060,36 @@
           "twitter": "__tosh"
         }
       ]
+    },
+    {
+      "name": "BotsHub Vienna",
+      "city": "Vienna",
+      "country": "Austria",
+      "link": "http://botshub.org",
+      "contacts": [
+        {
+          "name": "David Pichsenmeister",
+          "email": "thomas+lemmings@blossom.io",
+          "twitter": "3x14159265"
+        },
+        {
+          "name": "Thomas Schranz",
+          "email": "thomas+lemmings@blossom.io",
+          "twitter": "__tosh"
+        },
+        {
+          "name": "Jakob Reiter",
+          "twitter": "reiter_jakob"
+        },
+        {
+          "name": "Natalie Korotaeva",
+          "twitter": "siberiancyborg"
+        },
+        {
+          "name": "Barbara Ondrisek",
+          "twitter": "electrobabe"
+        }
+      ]
     }
   ]
 }
