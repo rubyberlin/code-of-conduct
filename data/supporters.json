@@ -1065,6 +1065,19 @@
           "twitter": "__tosh"
         }
       ]
+    },
+    {
+      "name": "OpenGnsys Project",
+      "city": "Zaragoza",
+      "country": "Spain",
+      "link": "http://opengnsys.es",
+      "twitter": "opengnsys",
+      "contacts": [
+        {
+          "name": "OpenGnsys Project",
+          "email": "opengnsys@gmail.com"
+        }
+      ]
     }
   ]
 }
