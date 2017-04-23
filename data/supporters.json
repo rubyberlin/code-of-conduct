@@ -1079,5 +1079,18 @@
         }
       ]
     }
+    {
+      "name": "Magdeburger Developer Days",
+      "city": "Magdeburg",
+      "country": "Germany",
+      "link": "http://md-devdays.de/",
+      "twitter": "MiB_MD_DevDays",
+      "contacts": [
+        {
+          "name": "Michael Blume",
+          "email": "info@md-devdays.de"
+        }
+      ]
+    }
   ]
 }
