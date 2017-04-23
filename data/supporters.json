@@ -1078,6 +1078,35 @@
           "email": "opengnsys@gmail.com"
         }
       ]
+    },
+    {
+      "name": "partial :: Conf",
+      "city": "Sofia",
+      "country": "Bulgaria",
+      "link": "http://partialconf.com",
+      "twitter": "partialconf",
+      "contacts": [
+        {
+          "name": "Genadi Samokovarov",
+          "twitter": "gsamokovarov",
+          "email": "gsamokovarov@gmail.com"
+        },
+        {
+          "name": "Svetlozar Mihailov",
+          "twitter": "svetliomihailov",
+          "email": "svetliomihailov@gmail.com"
+        },
+        {
+          "name": "Svetlozar Todorov",
+          "twitter": "svetlozaurus",
+          "email": "svetlik@gmail.com"
+        },
+        {
+          "name": "Vestimir Markov",
+          "twitter": "vestimir",
+          "email": "me@vestimir.com"
+        }
+      ]
     }
   ]
 }
