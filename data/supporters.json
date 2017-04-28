@@ -1144,6 +1144,20 @@
           "email": "alex@isleofruby.org"
         }
       ]
+    },
+    {
+      "name": "Azure Meetup Hamburg",
+      "city": "Hamburg",
+      "country": "Germany",
+      "link": "https://www.meetup.com/de-DE/Azure-Meetup-Hamburg/",
+      "twitter": "AzureMeetupHH",
+      "contacts": [
+        {
+          "name": "Bjoern Peters",
+          "email": "bjoern@sql-aus-hamburg.de",
+          "twitter": "sql_aus_hh"
+        }
+      ]
     }
   ]
 }
