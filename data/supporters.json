@@ -1120,6 +1120,30 @@
           "email": "info@md-devdays.de"
         }
       ]
+    },
+    {
+      "name": "Isle of Ruby",
+      "city": "Exeter",
+      "country": "United Kingdom",
+      "link": "http://isleofruby.org",
+      "twitter": "isleofruby",
+      "contacts": [
+        {
+          "name": "Bruno Antunes",
+          "twitter": "b_antunes",
+          "email": "bruno@isleofruby.org"
+        },
+        {
+          "name": "Fanny Krebs",
+          "twitter": "fannivuniconnu",
+          "email": "fanny@isleofruby.org"
+        },
+        {
+          "name": "Alex Coles",
+          "twitter": "myabc",
+          "email": "alex@isleofruby.org"
+        }
+      ]
     }
   ]
 }
