@@ -1158,6 +1158,20 @@
           "twitter": "sql_aus_hh"
         }
       ]
+    },
+    {
+      "name": "Hardware Hack Lab",
+      "city": "New York",
+      "country": "United States of America",
+      "link": "https://hardwarehacklab.io/",
+      "twitter": "hardwarehacklab",
+      "contacts": [
+        {
+          "name": "Julien Deswaef",
+          "twitter": "xuv",
+          "email": "julien.deswaef@thoughworks.com"
+        }
+      ]
     }
   ]
 }
