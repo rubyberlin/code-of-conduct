@@ -1153,6 +1153,36 @@
           "twitter": "sql_aus_hh"
         }
       ]
+    },
+    {
+      "name": "Hardware Hack Lab",
+      "city": "New York",
+      "country": "United States of America",
+      "link": "https://hardwarehacklab.io/",
+      "twitter": "hardwarehacklab",
+      "contacts": [
+        {
+          "name": "Julien Deswaef",
+          "twitter": "xuv",
+          "email": "julien.deswaef@thoughtworks.com",
+          "phone":   "+1 646 427 4897"
+        },
+        {
+          "name": "Greg Dutcher",
+          "twitter": "greg_dutcher",
+          "email": "gdutcher@thoughtworks.com"
+        },
+        {
+          "name": "Andrew McWilliams",
+          "twitter": "jahyadotnet",
+          "email": "andy@hardwarehacklab.io"
+        },
+        {
+          "name": "Kent Rahman",
+          "email": "krahman@thoughtworks.com",
+          "phone":   "+1 917 734 7635"
+        }
+      ]
     }
   ]
 }
