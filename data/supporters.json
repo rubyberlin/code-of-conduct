@@ -1181,6 +1181,19 @@
           "name": "Kent Rahman",
           "email": "krahman@thoughtworks.com",
           "phone":   "+1 917 734 7635"
+        },
+    {
+      "name": "C++::London",
+      "city": "London",
+      "country": "United Kingdom",
+      "link": "https://www.meetup.com/CppLondon/",
+      "twitter": "cpplondon",
+      "contacts": [
+        {
+          "name": "Phil Nash",
+          "twitter": "phil_nash",
+          "email": "cpplondon@philnash.me",
+          "phone":   "+44 7793 515336"
         }
       ]
     }
