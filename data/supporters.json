@@ -1181,7 +1181,9 @@
           "name": "Kent Rahman",
           "email": "krahman@thoughtworks.com",
           "phone":   "+1 917 734 7635"
-        },
+        }
+      ]
+    },
     {
       "name": "C++::London",
       "city": "London",
@@ -1194,6 +1196,20 @@
           "twitter": "phil_nash",
           "email": "cpplondon@philnash.me",
           "phone":   "+44 7793 515336"
+        }
+      ]
+    },
+    {
+      "name": "Auckland C++ Meetup",
+      "city": "Auckland",
+      "country": "New Zealand",
+      "link": "https://www.meetup.com/Auckland-C-Meetup/",
+      "contacts": [
+        {
+          "name": "Toby Allsopp",
+          "twitter": "toby_allsopp",
+          "email": "toby@mi6.gen.nz",
+          "phone":   "+64 21 0233 3914"
         }
       ]
     }
