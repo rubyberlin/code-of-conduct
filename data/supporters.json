@@ -776,7 +776,7 @@
       ]
     },
     {
-      "name": "Berlin.JS – Berlin JavaScript usergroup",
+      "name": "Berlin.JS – Berlin JavaScript usergroup",
       "city": "Berlin",
       "country": "Germany",
       "link": "http://www.berlinjs.org",
@@ -1210,6 +1210,21 @@
           "twitter": "toby_allsopp",
           "email": "toby@mi6.gen.nz",
           "phone":   "+64 21 0233 3914"
+        }
+      ]
+    },
+    {
+      "name": "Scala Swarm Conference",
+      "city": "Porto",
+      "country": "Portugal",
+      "link": "https://scala-swarm.org",
+      "twitter": "ScalaSwarmConf",
+      "contacts": [
+        {
+          "name": "Gorazd Kozmus",
+          "twitter": "c05m1x",
+          "email": "gorazd@scala-swarm.org",
+          "phone":   "+386 41 676 697"
         }
       ]
     }
