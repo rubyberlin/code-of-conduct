@@ -1232,6 +1232,42 @@
           "phone":   "+386 41 676 697"
         }
       ]
+    },
+    {
+      "name": "Azure Meetup Hannover",
+      "city": "Hanover",
+      "country": "Germany",
+      "link": "http://azure-hannover.de",
+      "twitter": "AzureHAJ",
+      "contacts": [
+        {
+          "name": "Benjamin Huepeden",
+          "twitter": "bhuepeden",
+          "email": "orga@azure-hannover.de"
+        },
+        {
+          "name": "Martin Steiner",
+          "email": "orga@azure-hannover.de"
+        }
+      ]
+    },
+    {
+      "name": "Azure Meetup Berlin",
+      "city": "Berlin",
+      "country": "Germany",
+      "link": "http://azure-berlin.de",
+      "twitter": "Azure_Berlin",
+      "contacts": [
+        {
+          "name": "Tyrone Guiamo",
+          "email": "orga@azure-berlin.de"
+        },
+        {
+          "name": "Benjamin Huepeden",
+          "twitter": "bhuepeden",
+          "email": "orga@azure-berlin.de"
+        }
+      ]
     }
   ]
 }
