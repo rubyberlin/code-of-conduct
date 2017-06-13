@@ -123,7 +123,7 @@
         }
       ]
     },
-     {
+    {
       "name": "Rails Girls Berlin",
       "city": "Berlin",
       "country": "Germany",
@@ -237,7 +237,7 @@
         }
       ]
     },
- {
+    {
       "name": "Rails Girls Hamburg",
       "city": "Hamburg",
       "country": "Germany",
@@ -1066,7 +1066,7 @@
         }
       ]
     },
-    {     
+    {
       "name": "OpenGnsys Project",
       "city": "Zaragoza",
       "country": "Spain",
@@ -1305,10 +1305,12 @@
         },
         {
           "name": "Barbara Ondrisek",
-          "twitter": "electrobabe" 
+          "twitter": "electrobabe"
+        }
+      ]
     },
     {
-       "name": "Apache Flink Meetup Berlin",
+      "name": "Apache Flink Meetup Berlin",
       "city": "Berlin",
       "country": "Germany",
       "link": "http://www.meetup.com/de-DE/Apache-Flink-Meetup/",
