@@ -1,6 +1,28 @@
 {
   "usergroups": [
     {
+      "name": "EuRuKo 2017",
+      "city": "Budapest",
+      "country": "Hungary",
+      "link": "http://euruko2017.org",
+      "twitter": "euruko",
+      "contacts": [
+        {
+          "name": "Amr Abdelwahab",
+          "twitter": "amrabdelwahab",
+          "email": "amr@digitalnatives.hu"
+        },
+        {
+          "name": "Ádám Madácsi",
+          "email": "adam@digitalnatives.hu"
+        },
+        {
+          "name": "Daniella Varga",
+          "email": "daniella@digitalnatives.hu"
+        }
+      ]
+    },
+    {
       "name": "RUG-B – Ruby User Group Berlin",
       "city": "Berlin",
       "country": "Germany",
@@ -267,7 +289,7 @@
       "contacts": [
         {
           "name": "Piotr Szotkowski",
-          "phone": "+48 533 950 455",
+          "phone": "+48 501 28 30 20",
           "email": "chastell@chastell.net"
         },
         {
@@ -754,7 +776,7 @@
       ]
     },
     {
-      "name": "Berlin.JS – Berlin JavaScript usergroup",
+      "name": "Berlin.JS – Berlin JavaScript usergroup",
       "city": "Berlin",
       "country": "Germany",
       "link": "http://www.berlinjs.org",
@@ -1023,6 +1045,275 @@
           "name": "Daniela Bentrup",
           "twitter": "danibentrup",
           "email": "daniela@data-artisans.com"
+        }
+      ]
+    },
+    {
+      "name": "Hackerstolz e.V.",
+      "city": "Berlin",
+      "country": "Germany",
+      "link": "http://www.hackerstolz.de",
+      "twitter": "hackerstolz",
+      "contacts": [
+        {
+          "name": "Sebastian Waschnick",
+          "twitter": "waschnick"
+        }
+      ]
+    },
+    {
+      "name": "Lemmings I/O",
+      "city": "Vienna",
+      "country": "Austria",
+      "link": "https://lemmings.io",
+      "contacts": [
+        {
+          "name": "Thomas Schranz",
+          "email": "thomas+lemmings@blossom.io",
+          "twitter": "__tosh"
+        }
+      ]
+    },
+    {
+      "name": "BotsHub Vienna",
+      "city": "Vienna",
+      "country": "Austria",
+      "link": "http://botshub.org",
+      "contacts": [
+        {
+          "name": "David Pichsenmeister",
+          "twitter": "3x14159265"
+        },
+        {
+          "name": "Thomas Schranz",
+          "twitter": "__tosh"
+        },
+        {
+          "name": "Jakob Reiter",
+          "twitter": "reiter_jakob"
+        },
+        {
+          "name": "Natalie Korotaeva",
+          "twitter": "siberiancyborg"
+        },
+        {
+          "name": "Barbara Ondrisek",
+          "twitter": "electrobabe"
+        }
+      ]
+    },
+    {
+      "name": "OpenGnsys Project",
+      "city": "Zaragoza",
+      "country": "Spain",
+      "link": "http://opengnsys.es",
+      "twitter": "opengnsys",
+      "contacts": [
+        {
+          "name": "OpenGnsys Project",
+          "email": "opengnsys@gmail.com"
+        }
+      ]
+    },
+    {
+      "name": "partial :: Conf",
+      "city": "Sofia",
+      "country": "Bulgaria",
+      "link": "http://partialconf.com",
+      "twitter": "partialconf",
+      "contacts": [
+        {
+          "name": "Genadi Samokovarov",
+          "twitter": "gsamokovarov",
+          "email": "gsamokovarov@gmail.com"
+        },
+        {
+          "name": "Svetlozar Mihailov",
+          "twitter": "svetliomihailov",
+          "email": "svetliomihailov@gmail.com"
+        },
+        {
+          "name": "Svetlozar Todorov",
+          "twitter": "svetlozaurus",
+          "email": "svetlik@gmail.com"
+        },
+        {
+          "name": "Vestimir Markov",
+          "twitter": "vestimir",
+          "email": "me@vestimir.com"
+        }
+      ]
+    },
+    {
+      "name": "Magdeburger Developer Days",
+      "city": "Magdeburg",
+      "country": "Germany",
+      "link": "http://md-devdays.de/",
+      "twitter": "MiB_MD_DevDays",
+      "contacts": [
+        {
+          "name": "Michael Blume",
+          "email": "info@md-devdays.de"
+        }
+      ]
+    },
+    {
+      "name": "Isle of Ruby",
+      "city": "Exeter",
+      "country": "United Kingdom",
+      "link": "http://isleofruby.org",
+      "twitter": "isleofruby",
+      "contacts": [
+        {
+          "name": "Bruno Antunes",
+          "twitter": "b_antunes",
+          "email": "bruno@isleofruby.org"
+        },
+        {
+          "name": "Fanny Krebs",
+          "twitter": "fannivuniconnu",
+          "email": "fanny@isleofruby.org"
+        },
+        {
+          "name": "Alex Coles",
+          "twitter": "myabc",
+          "email": "alex@isleofruby.org"
+        }
+      ]
+    },
+    {
+      "name": "Azure Meetup Hamburg",
+      "city": "Hamburg",
+      "country": "Germany",
+      "link": "https://www.meetup.com/de-DE/Azure-Meetup-Hamburg/",
+      "twitter": "AzureMeetupHH",
+      "contacts": [
+        {
+          "name": "Bjoern Peters",
+          "email": "bjoern@sql-aus-hamburg.de",
+          "twitter": "sql_aus_hh"
+        }
+      ]
+    },
+    {
+      "name": "Hardware Hack Lab",
+      "city": "New York",
+      "country": "United States of America",
+      "link": "https://hardwarehacklab.io/",
+      "twitter": "hardwarehacklab",
+      "contacts": [
+        {
+          "name": "Julien Deswaef",
+          "twitter": "xuv",
+          "email": "julien.deswaef@thoughtworks.com",
+          "phone":   "+1 646 427 4897"
+        },
+        {
+          "name": "Greg Dutcher",
+          "twitter": "greg_dutcher",
+          "email": "gdutcher@thoughtworks.com"
+        },
+        {
+          "name": "Andrew McWilliams",
+          "twitter": "jahyadotnet",
+          "email": "andy@hardwarehacklab.io"
+        },
+        {
+          "name": "Kent Rahman",
+          "email": "krahman@thoughtworks.com",
+          "phone":   "+1 917 734 7635"
+        }
+      ]
+    },
+    {
+      "name": "C++::London",
+      "city": "London",
+      "country": "United Kingdom",
+      "link": "https://www.meetup.com/CppLondon/",
+      "twitter": "cpplondon",
+      "contacts": [
+        {
+          "name": "Phil Nash",
+          "twitter": "phil_nash",
+          "email": "cpplondon@philnash.me",
+          "phone":   "+44 7793 515336"
+        }
+      ]
+    },
+    {
+      "name": "Auckland C++ Meetup",
+      "city": "Auckland",
+      "country": "New Zealand",
+      "link": "https://www.meetup.com/Auckland-C-Meetup/",
+      "contacts": [
+        {
+          "name": "Toby Allsopp",
+          "twitter": "toby_allsopp",
+          "email": "toby@mi6.gen.nz",
+          "phone":   "+64 21 0233 3914"
+        }
+      ]
+    },
+    {
+      "name": "Scala Swarm Conference",
+      "city": "Porto",
+      "country": "Portugal",
+      "link": "https://scala-swarm.org",
+      "twitter": "ScalaSwarmConf",
+      "contacts": [
+        {
+          "name": "Gorazd Kozmus",
+          "twitter": "c05m1x",
+          "email": "gorazd@scala-swarm.org",
+          "phone":   "+386 41 676 697"
+        }
+      ]
+    },
+    {
+      "name": "Azure Meetup Hannover",
+      "city": "Hanover",
+      "country": "Germany",
+      "link": "http://azure-hannover.de",
+      "twitter": "AzureHAJ",
+      "contacts": [
+        {
+          "name": "Benjamin Huepeden",
+          "twitter": "bhuepeden",
+          "email": "orga@azure-hannover.de"
+        },
+        {
+          "name": "Martin Steiner",
+          "email": "orga@azure-hannover.de"
+        }
+      ]
+    },
+    {
+      "name": "Azure Meetup Berlin",
+      "city": "Berlin",
+      "country": "Germany",
+      "link": "http://azure-berlin.de",
+      "twitter": "Azure_Berlin",
+      "contacts": [
+        {
+          "name": "Tyrone Guiamo",
+          "email": "orga@azure-berlin.de"
+        },
+        {
+          "name": "Benjamin Huepeden",
+          "twitter": "bhuepeden",
+          "email": "orga@azure-berlin.de"
+        }
+      ]
+    },
+    {
+      "name": "eTextile SummerCamp",
+      "city": "Poncé sur le Loir",
+      "country": "France",
+      "link": "http://etextile-summercamp.org/",
+      "contacts": [
+        {
+          "name": "Mika Satomi",
+          "email": "info@etextile-summercamp.org"
         }
       ]
     }
