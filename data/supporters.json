@@ -1306,6 +1306,19 @@
         {
           "name": "Barbara Ondrisek",
           "twitter": "electrobabe" 
+    },
+    {
+       "name": "Apache Flink Meetup Berlin",
+      "city": "Berlin",
+      "country": "Germany",
+      "link": "http://www.meetup.com/de-DE/Apache-Flink-Meetup/",
+      "contacts": [
+        {
+          "name": "Daniela Bentrup",
+          "twitter": "danibentrup",
+          "email": "daniela@data-artisans.com"
+        }
+      ]
     }
   ]
 }
