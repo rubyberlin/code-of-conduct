@@ -123,7 +123,7 @@
         }
       ]
     },
-     {
+    {
       "name": "Rails Girls Berlin",
       "city": "Berlin",
       "country": "Germany",
@@ -237,7 +237,7 @@
         }
       ]
     },
- {
+    {
       "name": "Rails Girls Hamburg",
       "city": "Hamburg",
       "country": "Germany",
@@ -1036,19 +1036,6 @@
       ]
     },
     {
-      "name": "Apache Flink Meetup Berlin",
-      "city": "Berlin",
-      "country": "Germany",
-      "link": "http://www.meetup.com/de-DE/Apache-Flink-Meetup/",
-      "contacts": [
-        {
-          "name": "Daniela Bentrup",
-          "twitter": "danibentrup",
-          "email": "daniela@data-artisans.com"
-        }
-      ]
-    },
-    {
       "name": "Hackerstolz e.V.",
       "city": "Berlin",
       "country": "Germany",
@@ -1071,34 +1058,6 @@
           "name": "Thomas Schranz",
           "email": "thomas+lemmings@blossom.io",
           "twitter": "__tosh"
-        }
-      ]
-    },
-    {
-      "name": "BotsHub Vienna",
-      "city": "Vienna",
-      "country": "Austria",
-      "link": "http://botshub.org",
-      "contacts": [
-        {
-          "name": "David Pichsenmeister",
-          "twitter": "3x14159265"
-        },
-        {
-          "name": "Thomas Schranz",
-          "twitter": "__tosh"
-        },
-        {
-          "name": "Jakob Reiter",
-          "twitter": "reiter_jakob"
-        },
-        {
-          "name": "Natalie Korotaeva",
-          "twitter": "siberiancyborg"
-        },
-        {
-          "name": "Barbara Ondrisek",
-          "twitter": "electrobabe"
         }
       ]
     },
@@ -1314,6 +1273,47 @@
         {
           "name": "Mika Satomi",
           "email": "info@etextile-summercamp.org"
+        }
+      ]
+    },
+    {
+      "name": "BotsHub Vienna",
+      "city": "Vienna",
+      "country": "Austria",
+      "link": "http://botshub.org",
+      "contacts": [
+        {
+          "name": "David Pichsenmeister",
+          "twitter": "3x14159265"
+        },
+        {
+          "name": "Thomas Schranz",
+          "twitter": "__tosh"
+        },
+        {
+          "name": "Jakob Reiter",
+          "twitter": "reiter_jakob"
+        },
+        {
+          "name": "Natalie Korotaeva",
+          "twitter": "siberiancyborg"
+        },
+        {
+          "name": "Barbara Ondrisek",
+          "twitter": "electrobabe"
+        }
+      ]
+    },
+    {
+      "name": "Apache Flink Meetup Berlin",
+      "city": "Berlin",
+      "country": "Germany",
+      "link": "http://www.meetup.com/de-DE/Apache-Flink-Meetup/",
+      "contacts": [
+        {
+          "name": "Daniela Bentrup",
+          "twitter": "danibentrup",
+          "email": "daniela@data-artisans.com"
         }
       ]
     }
