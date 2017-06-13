@@ -1066,7 +1066,7 @@
         }
       ]
     },
-    {
+    {     
       "name": "OpenGnsys Project",
       "city": "Zaragoza",
       "country": "Spain",
@@ -1280,6 +1280,32 @@
           "email": "info@etextile-summercamp.org"
         }
       ]
+    },
+    {
+      "name": "BotsHub Vienna",
+      "city": "Vienna",
+      "country": "Austria",
+      "link": "http://botshub.org",
+      "contacts": [
+        {
+          "name": "David Pichsenmeister",
+          "twitter": "3x14159265"
+        },
+        {
+          "name": "Thomas Schranz",
+          "twitter": "__tosh"
+        },
+        {
+          "name": "Jakob Reiter",
+          "twitter": "reiter_jakob"
+        },
+        {
+          "name": "Natalie Korotaeva",
+          "twitter": "siberiancyborg"
+        },
+        {
+          "name": "Barbara Ondrisek",
+          "twitter": "electrobabe" 
     }
   ]
 }
