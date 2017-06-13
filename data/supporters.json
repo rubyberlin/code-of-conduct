@@ -1263,6 +1263,18 @@
           "email": "orga@azure-berlin.de"
         }
       ]
+    },
+    {
+      "name": "eTextile SummerCamp",
+      "city": "Poncé sur le Loir",
+      "country": "France",
+      "link": "http://etextile-summercamp.org/",
+      "contacts": [
+        {
+          "name": "Mika Satomi",
+          "email": "info@etextile-summercamp.org"
+        }
+      ]
     }
   ]
 }
