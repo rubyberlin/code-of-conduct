@@ -1326,6 +1326,32 @@
           "email": "daniela@data-artisans.com"
         }
       ]
+    },
+    {
+      "name": "Flink Forward Berlin",
+      "city": "Berlin",
+      "country": "Germany",
+      "link": "http://berlin.flink-forward.org/",
+      "contacts": [
+        {
+          "name": "Daniela Bentrup",
+          "twitter": "danibentrup",
+          "email": "daniela@data-artisans.com"
+        }
+      ]
+    },
+    {
+      "name": "Flink Forward San Francisco",
+      "city": "San Francisco",
+      "country": "USA",
+      "link": "http://sf.flink-forward.org/",
+      "contacts": [
+        {
+          "name": "Daniela Bentrup",
+          "twitter": "danibentrup",
+          "email": "daniela@data-artisans.com"
+        }
+      ]
     }
   ]
 }
