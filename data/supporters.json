@@ -1357,6 +1357,18 @@
           "email": "daniela@data-artisans.com"
         }
       ]
+    },
+    {
+      "name": "React Day Berlin",
+      "city": "Berlin",
+      "country": "Germany",
+      "link": "https://reactday.berlin",
+      "contacts": [
+        {
+          "name": "Robert Haritonov",
+          "twitter": "operatino"
+        }
+      ]
     }
   ]
 }
