@@ -1376,6 +1376,18 @@
           "twitter": "IonicBerlin"
         }
       ]
+    },
+    {
+      "name": "Qt World Summit 2017",
+      "city": "Berlin",
+      "country": "Germany",
+      "link": "https://www.qtworldsummit.com/",
+      "contacts": [
+        {
+          "name": "Qt Project",
+          "twitter": "QtProject"
+        }
+      ]
     }
   ]
 }
