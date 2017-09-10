@@ -42,8 +42,7 @@ Do you want to translate to another language? Great! If you want to translate fr
 Setup
 -----
 
-Ruby 2.x.y (1.9.x still OK) must be [installed](http://www.ruby-lang
-.org/de/downloads/).
+Ruby 2.x.y (1.9.x still OK) must be [installed](http://www.ruby-lang.org/de/downloads/).
 
     git clone git@github.com:rubyberlin/code-of-conduct.git
     cd code-of-conduct
