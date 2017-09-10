@@ -18,16 +18,6 @@ Les communautés reflètent les sociétés dans lesquelles elle existent. Les ac
 Si vous observez quelqu'un qui prend un soin particulier à s'assurer que notre communauté est accueillante, amicale et encourageante pour tous ses participants, faites le nous savoir.
 
 
-Comportement attendu
------------------
-
-* Participez activement et avec authenticité. Ce faisant, vous contribuerez à rendre la communauté saine et durable.
-* Faites preuve de considération et de respect dans vos paroles et actes.
-* Préférez la coopération au conflit.
-* Ne pratiquez pas le harcèlement, la méchanceté et la discrimination dans votre comportement et dans vos paroles.
-* Soyez attentif à votre environnement et aux autres participants. Alertez les organisateurs si vous êtes témoin d'une situation dangereuse, d'une personne en situation de détresse ou d'une violation de ce code de conduite, même si cela vous semble sans conséquence.
-
-
 Comportements inacceptables
 ---------------------
 

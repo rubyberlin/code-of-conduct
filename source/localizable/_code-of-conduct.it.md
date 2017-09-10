@@ -19,16 +19,6 @@ Le comunità sono lo specchio delle società nelle quali esse esistono ed agire 
 Se vieni a conoscenza di qualcuno/a che in maniera esemplare si assicura che la nostra comunità sia accogliente, amichevole e che attivamente incoraggia tutti/e i/le partecipanti nel contribuire al massimo, faccelo sapere!
 
 
-Il comportamento che ci aspettiamo
------------------
-
-* Partecipa in maniera autentica e attiva. Così facendo, dai il tuo contributo per una comunità sana e longeva.
-* Sii attento e rispettoso riguardo a cosa dici e a come agisci.
-* Cerca di collaborare prima di entrare in conflitto.
-* Astieniti da commenti, discussioni o comportamenti avvilenti, discriminatori o molesti.
-* Sii conscio/a dell'ambiente e dei/delle suoi/sue partecipanti. Se noti una situazione pericolosa, qualcuno che non si sente a suo agio o una violazione di questo Codice di Condotta, avvisa immediatamente i leaders della comunità, anche se la situazione non sembra poter avere conseguenze particolarmente dannose.
-
-
 Comportamento inaccettabile
 ---------------------
 

@@ -18,17 +18,6 @@ Las comunidades son espejo de las sociedades en las cuales existen y las accione
 Si Ud. ve a alguien haciendo un esfuerzo extra por asegurarse que nuestra comunidad es acogedora, amistosa e incentiva a todos los que participan en ella a contribuir de manera completa, nos gustaría saberlo.
 
 
-Comportamiento esperado
------------------------
-
-*   Participe de un modo auténtico y activo. Al hacerlo contribuye a la salud y longevidad de esta comunidad.
-*   Ejercite la consideración y el respeto en su discurso y en sus acciones.
-*   Intente colaborar para evitar conflictos.
-*   Absténgase de discursos o comportamientos despectivos, discriminatorios o abusivos.
-*   Sea consciente de su entorno y de los/as otros/as participantes. Alerte a los líderes de la comunidad si nota alguna situación peligrosa, alguien sufriendo una situación comprometedora o violaciones de este Código de Conducta, incluso si parecieran poco importantes.
-
-
-
 Comportamiento inaceptable
 --------------------------
 
