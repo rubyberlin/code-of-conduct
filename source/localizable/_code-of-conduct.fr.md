@@ -33,7 +33,7 @@ Comportements inacceptables
 
 Sont considérés comme inacceptables : l'intimidation, le harcèlement, la maltraitance, la discrimination, ainsi que les remarques et actes dégradants ou désobligeants de la part de quelque participant de la communauté qu'il soit, que cela se passe en ligne, lors d'un événement ou dans une communication personnelle conduite dans le contexte de la communauté. Les événements concernant la communauté peuvent être partagés avec des membres extérieurs ; veillez à respecter chacun.
 
-Sont considérés comme du harcèlement : les commentaires blessants ou malveillants (écrits ou verbaux) sur le genre, l'orientation sexuelle, la race, la religion, le handicap ; l'usage inapproprié de la nudité et/ou d'images à connotation sexuelle dans un espace public (y compris des diaporamas de présentations) ; l'intimidation volontaire ; la traque ou harcèlement par les faits (*stalking*) ; le harcèlement photo ou vidéo ; l'interruption ou la perturbation volontaire de présentations ou d'autres événements ; le contact physique inapproprié ou les attentions sexuelles non désirées.
+Sont considérés comme du harcèlement : les commentaires blessants ou malveillants (écrits ou verbaux) sur le genre, l'orientation sexuelle, la race, la religion, le handicap ; l'usage inapproprié de la nudité et/ou d'images à connotation sexuelle (y compris des diaporamas de présentations) ; l'intimidation volontaire ; la traque ou harcèlement par les faits (*stalking*) ; le harcèlement photo ou vidéo ; l'interruption ou la perturbation volontaire de présentations ou d'autres événements ; le contact physique inapproprié ou les attentions sexuelles non désirées.
 
 
 Conséquences d'un comportement inacceptable
