@@ -61,3 +61,9 @@ Application du code de conduite
 
 Nous attendons de la part de tous les membres de la communauté (contributeurs payés ou non, sponsors et autres invités) qu'ils respectent et agissent conformément à ce code de conduite lors d'événements, qu'il s'agisse de discussions en ligne ou de rencontres de visu ainsi que pour toutes les communications relatives à la communauté.
 
+
+Licence et attribution
+-----
+
+Le Code de conduite de Berlin est distribué sous la licence [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.fr)). Elle est basée sur le [code de conduite pdx.rb](http://pdxruby.org/codeofconduct).
+
