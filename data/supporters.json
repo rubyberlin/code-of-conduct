@@ -1394,7 +1394,7 @@
         }
       ]
     },
-        {
+    {
       "name": "Science Hack Day Berlin",
       "city": "Berlin",
       "country": "Germany",
@@ -1414,6 +1414,19 @@
           "name": "Giulia Paparo",
           "twitter": "giu_pap",
           "email": "giulia.shd@opentechschool.org"
+        }
+      ]
+    },
+    {
+      "name": "Málaga Python Meetup",
+      "city": "Málaga",
+      "country": "Spain",
+      "link": "https://www.meetup.com/malaga-python/",
+      "twitter": "malaga_python",
+      "contacts": [
+        {
+          "name": "Adrián Matellanes",
+          "twitter": "_amatellanes"
         }
       ]
     }
