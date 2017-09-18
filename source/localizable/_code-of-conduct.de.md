@@ -37,7 +37,7 @@ Inakzeptables Verhalten
 
 Inakzeptable Verhaltensweisen beinhalten: Einschüchterung, Belästigung, beleidigende, diskriminierende, abwertende oder erniedrigende Sprache und Verhalten durch jegliche Teilnehmenden in unserer Community. Dies gilt online, auf allen zugehörigen Veranstaltungen und in persönlichen Gesprächen im Rahmen unserer Community.
 
-Belästigung beinhaltet: Verletzende oder abwertende mündliche oder schriftliche Kommentare in Bezug auf Geschlecht, sexuelle Orientierung, Abstammung, Religion, Behinderung; unangemessene Verwendung von Nacktheit und/oder sexuellem Bildmaterial an öffentlichen Orten (inklusive Präsentationsslides); absichtliche Einschüchterung, Stalking oder Nachlaufen; belästigendes Fotografieren oder Filmen; ständige Unterbrechung von Vorträgen oder anderen Events; unangemessener Körperkontakt und unerwünschte sexuelle Zuwendung.
+Belästigung beinhaltet: Verletzende oder abwertende mündliche oder schriftliche Kommentare in Bezug auf Geschlecht, sexuelle Orientierung, Abstammung, Religion, Behinderung; unangemessene Verwendung von Nacktheit und/oder sexuellem Bildmaterial (inklusive Präsentationsslides); absichtliche Einschüchterung, Stalking oder Nachlaufen; belästigendes Fotografieren oder Filmen; ständige Unterbrechung von Vorträgen oder anderen Events; unangemessener Körperkontakt und unerwünschte sexuelle Zuwendung.
 
 
 Folgen von inakzeptablem Verhalten
