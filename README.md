@@ -2,12 +2,13 @@ Berlin Code of Conduct
 ======================
 
 This code of conduct is online at: http://rubyberlin.github.io/code-of-conduct/
+Our Waffle board (Project Management) is available at: https://waffle.io/rubyberlin/code-of-conduct
 
 Add Your User Group/Conference to the List
 ------------------------------------------
 
 1. Fork repository.
-2. Open *data/supporters.json* and add your name, location, 
+2. Open *data/supporters.json* and add your name, location,
 link and contact data.
   - Note that contact data is optional and public, but we recommend adding some.
 3. Check if site is working locally if possible (see [setup](#setup)).
