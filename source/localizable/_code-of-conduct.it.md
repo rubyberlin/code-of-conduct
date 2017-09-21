@@ -65,3 +65,9 @@ Area di applicazione
 
 Ci aspettiamo che tutti/e i/le partecipanti alla comunità (contributori/contributrici stipendiati o meno, sponsor e tutti/e gli/le ospiti) aderiscano a questo Codice di Condotta in tutti gli spazi appartenenti alla comunità, online, di persona ed in tutti i casi di comunicazione tra singoli pertinenti agli interessi della comunità.
 
+
+Licenza e attribuzione
+-----------------------
+
+Berlin Code of Conduct è distribuito sotto licenza [Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.it) e basato originariamente sul [pdx.rb code of conduct](http://pdxruby.org/codeofconduct).
+
