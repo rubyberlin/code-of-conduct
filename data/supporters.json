@@ -428,16 +428,18 @@
       "link": "https://www.meetup.com/ThoughtWorks-Tech-Talks-NYC/",
       "contacts": [
         {
-          "name": "Duncan Walls",
+          "name": "Duncan Wall",
           "email": "duncan.wall@thoughtworks.com"
         },
         {
           "name": "Cassie Shum",
-          "twitter": "cassiend"
+          "twitter": "cassiend",
+          "email": "cshum@thoughtworks.com"
         },
         {
-          "name": "Duncan Walls",
-          "twitter": "timcochran"
+          "name": "Timothy Cochran",
+          "twitter": "timcochran",
+          "email": "tcochran@thoughtworks.com"
         }
       ]
     }
