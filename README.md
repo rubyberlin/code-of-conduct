@@ -1,3 +1,5 @@
+[![Stories in Next](https://badge.waffle.io/rubyberlin/code-of-conduct.svg?label=NEXT&title=NEXT)](http://waffle.io/rubyberlin/code-of-conduct) [![Stories in WIP](https://badge.waffle.io/rubyberlin/code-of-conduct.svg?label=WIP&title=WIP)](http://waffle.io/rubyberlin/code-of-conduct) [![Stories in ONHOLD](https://badge.waffle.io/rubyberlin/code-of-conduct.svg?label=ONHOLD&title=ONHOLD)](http://waffle.io/rubyberlin/code-of-conduct) [![Stories in REVIEW](https://badge.waffle.io/rubyberlin/code-of-conduct.svg?label=REVIEW&title=REVIEW)](http://waffle.io/rubyberlin/code-of-conduct)
+
 Berlin Code of Conduct
 ======================
 
