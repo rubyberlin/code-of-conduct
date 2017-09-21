@@ -1,8 +1,8 @@
 Berlin Code of Conduct
 ======================
 
-This code of conduct is online at: http://rubyberlin.github.io/code-of-conduct/
-Our Waffle board (Project Management) is available at: https://waffle.io/rubyberlin/code-of-conduct
+This code of conduct is online at: http://rubyberlin.github.io/code-of-conduct/ \
+The Waffle Board for an overview of tasks is available at: https://waffle.io/rubyberlin/code-of-conduct
 
 Add Your User Group/Conference to the List
 ------------------------------------------
