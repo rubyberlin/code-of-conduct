@@ -1429,6 +1429,27 @@
           "twitter": "_amatellanes"
         }
       ]
+    },
+    {
+      "name": "ThoughtWorks Tech Talks NYC Meetup",
+      "city": "New York",
+      "country": "USA",
+      "link": "https://www.meetup.com/ThoughtWorks-Tech-Talks-NYC/",
+      "twitter": "hashtag/ThoughtWorksNYC",
+      "contacts": [
+        {
+          "name": "Duncan Walls",
+          "email": "duncan.wall@thoughtworks.com"
+        },
+        {
+          "name": "Cassie Shum",
+          "twitter": "cassiend"
+        },
+        {
+          "name": "Duncan Walls",
+          "twitter": "timcochran"
+        }
+      ]
     }
   ]
 }
