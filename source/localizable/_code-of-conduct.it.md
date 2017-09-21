@@ -34,7 +34,7 @@ Comportamento inaccettabile
 
 I comportamenti che riteniamo inaccettabili includono: comportamenti intimidatori, molesti, abusanti, discriminatori, linguaggio o azioni che siano dispregiativi e avvilenti perpetrati da qualsiasi partecipante nella nostra comunità online, in tutti gli eventi collegati e nelle conversazioni tra singoli pertinenti agli interessi della comunità. Alcuni eventi della Community potrebbero aver luogo in spazi condivisi con un pubblico esterno alla comunità stessa; per favore, sii rispettoso/a con tutti/e i/le promotori/promotrici dei suddetti spazi.
 
-Comportamenti molesti includono: commenti scritti o verbali dannosi o pregiudizievoli in relazione al sesso, orientamento sessuale, razza, religione, disabilità fisiche e/o mentali; uso inappropriato di immagini di nudi e/o immagini a sfondo sessuale utilizzate in spazi pubblici (comprese le slide per le presentazioni); intimidazioni, il seguire fisicamente o stalking; molestie sotto forma di fotografie e video non autorizzati; interruzione sostenuta di presentazioni o altri eventi; contatto fisico inappropriato e attenzione sessuale sgradita.
+Comportamenti molesti includono: commenti scritti o verbali dannosi o pregiudizievoli in relazione al sesso, orientamento sessuale, razza, religione, disabilità fisiche e/o mentali; uso inappropriato di immagini di nudi e/o immagini a sfondo sessuale (comprese le slide per le presentazioni); intimidazioni, il seguire fisicamente o stalking; molestie sotto forma di fotografie e video non autorizzati; interruzione sostenuta di presentazioni o altri eventi; contatto fisico inappropriato e attenzione sessuale sgradita.
 
 
 Conseguenze per i comportamenti inaccettabili
