@@ -1,7 +1,7 @@
 Propósito
 ---------
 
-Un objetivo principal de todas las conferencias y grupos de usuarios que se refieran a este Código de Conducta es ser inclusivos para la mayor cantidad de personas, con la mayor variedad de orígenes y conocimientos posibles. Como tal, nos comprometemos a ofrecer un ambiente amigable, seguro y acogedor para todos, sin importar género, orientación sexual, capacidad, etnia, estado socio-económico, religión o creencia.
+Un objetivo principal de todas las conferencias y grupos de usuarios que se refieran a este Código de Conducta es ser inclusivos para la mayor cantidad de personas, con la mayor variedad de orígenes y conocimientos posibles. Como tal, nos comprometemos a ofrecer un ambiente amigable, seguro y acogedor para todos, sin importar género, orientación sexual, discapacidad, etnia, estado socio-económico, religión o creencia.
 
 Este Código de Conducta expresa nuestras expectativas con respecto a quienes participan de nuestra comunidad, así como también las consecuencias de comportamientos inaceptables.
 
