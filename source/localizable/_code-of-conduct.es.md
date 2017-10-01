@@ -34,7 +34,7 @@ Comportamiento inaceptable
 
 Comportamientos inaceptables incluyen: discursos o acciones intimidantes, acosadores, abusivos, discriminatorios, despectivos o degradantes. El alcance incluye a todos/as los/as participantes de nuestra comunidad online en todos los eventos y comunicaciones personales llevadas a cabo en el contexto de las actividades de nuestra comunidad. Los lugares en donde se lleven a cabo eventos de la comunidad pueden ser compartidos con gente ajena a la misma, por favor sea respetuoso hacia las autoridades de dichos lugares.
 
-Acoso incluye: daño o perjurio verbal o escrito relacionado con género, orientación sexual, raza, religión, incapacidad; uso inapropiado de imágenes de desnudez en espacios públicos (incluyendo presentaciones digitales); intimidación deliberada, acecho o persecución; fotografías o grabaciones abusivas; interrupción sostenida de presentaciones u de otros eventos; contacto físico inapropiado y atención sexual no deseada.
+Acoso incluye: daño o perjurio verbal o escrito relacionado con género, orientación sexual, raza, religión, incapacidad; uso inapropiado de imágenes de desnudez (incluyendo presentaciones digitales); intimidación deliberada, acecho o persecución; fotografías o grabaciones abusivas; interrupción sostenida de presentaciones u de otros eventos; contacto físico inapropiado y atención sexual no deseada.
 
 
 Consecuencias del comportamiento inaceptable
