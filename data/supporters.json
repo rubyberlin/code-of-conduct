@@ -1446,6 +1446,27 @@
           "twitter": "_amatellanes"
         }
       ]
-    }
+    },
+    {
+      "name": "Edinburgh C++ Meetup",
+      "city": "Edinburgh",
+      "country": "Scotland",
+      "link": "http://cppedinburgh.uk/",
+      "twitter": "cppedinburgh",
+      "contacts": [
+        {
+          "name": "Simon Brand",
+          "twitter": "TartanLlama"
+        },
+        {
+          "name": "Gordon Brown",
+          "twitter": "AerialMantis"
+        },          
+        {
+          "name": "Joseph Mansfield",
+          "twitter": "sftrabbit"
+        }
+      ]
+    }      
   ]
 }
