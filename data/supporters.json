@@ -1472,6 +1472,26 @@
           "twitter": "sftrabbit"
         }
       ]
+    },
+    {
+      "name": "MUC++ - C++ User Group Munich",
+      "city": "München",
+      "country": "Germany",
+      "link": "https://www.meetup.com/MUCplusplus/",
+      "contacts": [
+        {
+          "name": "Andreas Weis",
+          "email": "mucplusplus@andreas-weis.net"
+        },
+        {
+          "name": "Klaus Iglberger",
+          "email": "klaus.iglberger@web.de"
+        },
+        {
+          "name": "Lukas Bergdoll",
+          "email": "lukas.bergdoll@gmail.com"
+        }
+      ]
     }      
   ]
 }
