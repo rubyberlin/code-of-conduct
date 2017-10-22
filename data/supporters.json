@@ -1487,6 +1487,21 @@
           "email": "lukas.bergdoll@gmail.com"
         }
       ]
+    },
+    {
+      "name": "BeeScala Conference",
+      "city": "Ljubljana",
+      "country": "Slovenia",
+      "link": "https://bee-scala.org",
+      "twitter": "BeeScalaConf",
+      "contacts": [
+        {
+          "name": "Gorazd Kozmus",
+          "twitter": "c05m1x",
+          "email": "gorazd@bee-scala.org",
+          "phone":   "+386 41 676 697"
+        }
+      ]
     }      
   ]
 }
