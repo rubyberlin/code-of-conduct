@@ -1382,8 +1382,14 @@
       "link": "https://reactday.berlin",
       "contacts": [
         {
+          "name": "ReactDay.berlin",
+          "twitter": "reactdayberlin",
+          "email": "hi@reactday.berlin"
+        },
+        {
           "name": "Robert Haritonov",
-          "twitter": "operatino"
+          "twitter": "operatino",
+          "email": "r@rhr.me"
         }
       ]
     },
