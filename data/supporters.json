@@ -1533,6 +1533,25 @@
           "email": "holger.blank@sinnerschrader.com"
         }
       ]
-    }      
+    }
+    {
+      "name": "PyLight Meetup",
+      "city": "Warsaw",
+      "country": "Poland",
+      "link": "http://pylight.org",
+      "twitter": "PyLightMeetup",
+      "contacts": [
+        {
+          "name": "",
+          "phone": "",
+          "email": ""
+        },
+        {
+          "name": "",
+          "phone": "",
+          "email": ""
+        }
+      ]
+    },
   ]
 }
