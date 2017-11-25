@@ -442,6 +442,23 @@
           "email": "tcochran@thoughtworks.com"
         }
       ]
+    },
+    {
+      "name": "PyLight Meetup",
+      "city": "Warsaw",
+      "country": "Poland",
+      "link": "http://pylight.org/",
+      "twitter": "PyLightMeetup",
+      "contacts": [
+        {
+          "name": "Agata Grdal",
+          "email": "conduct@pylight.org"
+        },
+        {
+          "name": "Marcin Sedlak-Jakubowski",
+          "email": "fdmarcin@gmail.com"
+        }
+      ]
     }
   ],
   "conferences": [
@@ -1528,6 +1545,6 @@
           "email": "holger.blank@sinnerschrader.com"
         }
       ]
-    }      
+    }
   ]
 }
