@@ -1542,8 +1542,14 @@
       "twitter": "PyLightMeetup",
       "contacts": [
         {
-          "name": "Agata Grdal",
-          "email": "conduct@pylight.org"
+          "name": "",
+          "phone": "",
+          "email": ""
+        },
+        {
+          "name": "",
+          "phone": "",
+          "email": ""
         }
       ]
     },
