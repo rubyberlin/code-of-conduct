@@ -2,7 +2,7 @@ Cel
 ---
 
 Podstawowym celem wszelkich konferencji i grup użytkowników powołujących się na ten Kodeks postępowania jest otwartość na jak największą liczbę osób o jak najbardziej urozmaiconych i różnorodnych korzeniach. Z tego powodu zobowiązujemy się do zapewnienia życzliwej, bezpiecznej i przyjaznej atmosfery wszystkim, bez względu na płeć, orientację seksualną, sprawność, pochodzenie etniczne, status społeczno-ekonomiczny i religię (lub jej brak).
-https://creativecommons.org/licenses/by-sa/4.0/deed.pl
+
 Ten Kodeks postępowania nakreśla zarówno nasze oczekiwania wobec wszystkich, którzy uczestniczą w naszej społeczności, jak i konsekwencje niedopuszczalnych zachowań.
 
 Zapraszamy wszystkich uczestników i uczestniczki naszych wydarzeń do pomocy w kreowaniu doświadczeń, które będą bezpieczne i pozytywne dla każdego.
