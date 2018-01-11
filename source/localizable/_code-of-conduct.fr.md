@@ -1,7 +1,7 @@
 Objectif
 -------
 
-Un des objectifs principaux des groupes d'utilisateurs et des conférences se basant sur le code de conduite suivant est d'être accessible au plus grand nombre de contributeurs venant des milieux les plus divers et variés. Pour ce faire, nous nous engageons à fournir un environnement amical, sûr et accueillant pour tous, quel que soit le genre, l'orientation sexuelle, le handicap, l'ethnie, la nationalité, le milieu social et la religion (ou son absence) des participants.
+Un des objectifs principaux des groupes d'utilisateurs et des conférences se basant sur le code de conduite suivant est d'être accessible au plus grand nombre de contributeurs venant des milieux les plus divers et variés. Pour ce faire, nous nous engageons à fournir un environnement amical, sûr et accueillant pour tous, quel que soit le genre, l'orientation sexuelle, le handicap, l'ethnie, la nationalité, le milieu social et la religion ou son absence des participants.
 
 Ce code de conduite esquisse nos attentes pour tous les membres de la communauté, ainsi que les conséquences pour qui y contreviendrait.
 
@@ -66,4 +66,3 @@ Licence et attribution
 -----
 
 Le Code de conduite de Berlin est distribué sous la licence [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.fr)). Elle est basée sur le [code de conduite pdx.rb](http://pdxruby.org/codeofconduct).
-
