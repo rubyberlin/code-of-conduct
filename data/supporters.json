@@ -1569,6 +1569,27 @@
           "email": "holger.blank@sinnerschrader.com"
         }
       ]
+    },
+    {
+      "name": "Azure Meetup Munich",
+      "city": "Munich",
+      "country": "Germany",
+      "link": "https://www.meetup.com/de-DE/Azure-Munich",
+      "twitter": "azuremuc",
+      "contacts": [
+        {
+          "name": "Christian Waha",
+          "twitter": "cwaha"
+        },
+        {
+          "name": "Lennart Passig",
+          "twitter": "lennoert"
+        },
+        {
+          "name": "Astrit Dibrani",
+          "twitter": "astrit_dibrani"
+        }
+      ]
     }
   ]
 }
