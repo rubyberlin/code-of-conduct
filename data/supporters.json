@@ -483,6 +483,20 @@
           "email": "fdmarcin@gmail.com"
         }
       ]
+    },
+    {
+      "name": "Malmö.rb",
+      "city": "Malmö",
+      "country": "Sweden",
+      "link": "http://malmorb.se",
+      "twitter": "malmorb",
+      "contacts": [
+        {
+          "name": "Olle Jonsson",
+          "email": "olle.jonsson@gmail.com",
+          "twitter": "olleolleolle"
+        }
+      ]
     }
   ],
   "conferences": [
