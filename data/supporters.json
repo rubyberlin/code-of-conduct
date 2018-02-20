@@ -1609,6 +1609,20 @@
           "twitter": "astrit_dibrani"
         }
       ]
+    },
+    {
+      "name": "Filter Club HU",
+      "city": "Budapest",
+      "country": "Hungary",
+      "link": "https://filterclub.hu",
+      "twitter": "filterclub_hu",
+      "contacts": [
+        {
+          "name": "Ferenc Németh",
+          "twitter": "nemethfe",
+          "email": "ferenc.nemeth@specialty.hu"
+        }
+      ]
     }
   ]
 }
