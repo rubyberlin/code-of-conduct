@@ -1162,30 +1162,6 @@
       ]
     },
     {
-      "name": "<React.NotAConf />",
-      "city": "Sofia",
-      "country": "Bulgaria",
-      "link": "http://react-not-a-conf.com/",
-      "twitter": "reactnotaconf",
-      "contacts": [
-        {
-          "name": "Radoslav Stankov",
-          "twitter": "rstankov",
-          "email": "radoslavdstankov@gmail.com"
-        },
-        {
-          "name": "Vladimir Tassev",
-          "twitter": "TasevVladimir",
-          "email": "v.tasev@deltastock.com"
-        },
-        {
-          "name": "Janet Todorova",
-          "twitter": "janettodorova",
-          "email": "j.a.todorova@gmail.com"
-        }
-      ]
-    },
-    {
       "name": "partial :: Conf",
       "city": "Sofia",
       "country": "Bulgaria",
@@ -1640,6 +1616,30 @@
           "name": "Ferenc Németh",
           "twitter": "nemethfe",
           "email": "ferenc.nemeth@specialty.hu"
+        }
+      ]
+    },
+    {
+      "name": "<React.NotAConf />",
+      "city": "Sofia",
+      "country": "Bulgaria",
+      "link": "http://react-not-a-conf.com/",
+      "twitter": "reactnotaconf",
+      "contacts": [
+        {
+          "name": "Radoslav Stankov",
+          "twitter": "rstankov",
+          "email": "radoslavdstankov@gmail.com"
+        },
+        {
+          "name": "Vladimir Tassev",
+          "twitter": "TasevVladimir",
+          "email": "v.tasev@deltastock.com"
+        },
+        {
+          "name": "Janet Todorova",
+          "twitter": "janettodorova",
+          "email": "j.a.todorova@gmail.com"
         }
       ]
     }
