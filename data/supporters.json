@@ -1658,12 +1658,12 @@
         {
           "name": "Ekaterina Klykova",
           "email": "ekl@newthinking.de"
-          "phone":   "+493092105978"
+          "phone": "+493092105978"
         },
          {
           "name": "Paul Berschick",
           "email": "pbe@newthinking.de"
-          "phone":   "+493092105977"
+          "phone": "+493092105977"
         },
       ]
     },
@@ -1677,14 +1677,14 @@
         {
           "name": "Ekaterina Klykova",
           "email": "ekl@newthinking.de"
-          "phone":   "+493092105978"
+          "phone": "+493092105978"
         },
          {
           "name": "Paul Berschick",
           "email": "pbe@newthinking.de"
-          "phone":   "+493092105977"
+          "phone": "+493092105977"
         },
       ]
-    },
+    }
   ]
 }
