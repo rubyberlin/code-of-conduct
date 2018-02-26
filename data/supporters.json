@@ -1647,6 +1647,44 @@
           "email": "j.a.todorova@gmail.com"
         }
       ]
-    }
+    },
+    {
+      "name": "FOSS Backstage",
+      "city": "Berlin",
+      "country": "Germany",
+      "link": "https://foss-backstage.de",
+      "twitter": "fossbckstg",
+      "contacts": [
+        {
+          "name": "Ekaterina Klykova",
+          "email": "ekl@newthinking.de"
+          "phone":   "+493092105978"
+        },
+         {
+          "name": "Paul Berschick",
+          "email": "pbe@newthinking.de"
+          "phone":   "+493092105977"
+        },
+      ]
+    },
+        {
+      "name": "Berlin Buzzwords",
+      "city": "Berlin",
+      "country": "Germany",
+      "link": "https://berlinbuzzwords.de",
+      "twitter": "berlinbuzzwords",
+      "contacts": [
+        {
+          "name": "Ekaterina Klykova",
+          "email": "ekl@newthinking.de"
+          "phone":   "+493092105978"
+        },
+         {
+          "name": "Paul Berschick",
+          "email": "pbe@newthinking.de"
+          "phone":   "+493092105977"
+        },
+      ]
+    },
   ]
 }
