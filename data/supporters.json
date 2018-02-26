@@ -1625,7 +1625,7 @@
       ]
     },
     {
-      "name": "<React.NotAConf />",
+      "name": "&ltReact.NotAConf /&gt;",
       "city": "Sofia",
       "country": "Bulgaria",
       "link": "http://react-not-a-conf.com/",
