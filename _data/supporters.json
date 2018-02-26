@@ -2607,6 +2607,44 @@
           "twitter": "chick3nhawk01"
         }
       ]
+    },
+    {
+      "name": "FOSS Backstage",
+      "city": "Berlin",
+      "country": "Germany",
+      "link": "https://foss-backstage.de",
+      "twitter": "fossbckstg",
+      "contacts": [
+        {
+          "name": "Ekaterina Klykova",
+          "email": "ekl@newthinking.de",
+          "phone": "+49 3092105978"
+        },
+        {
+          "name": "Paul Berschick",
+          "email": "pbe@newthinking.de",
+          "phone": "+49 3092105977"
+        }
+      ]
+    },
+    {
+      "name": "Berlin Buzzwords",
+      "city": "Berlin",
+      "country": "Germany",
+      "link": "https://berlinbuzzwords.de",
+      "twitter": "berlinbuzzwords",
+      "contacts": [
+        {
+          "name": "Ekaterina Klykova",
+          "email": "ekl@newthinking.de",
+          "phone": "+49 3092105978"
+        },
+        {
+          "name": "Paul Berschick",
+          "email": "pbe@newthinking.de",
+          "phone": "+49 3092105977"
+        }
+      ]
     }
   ]
 }
