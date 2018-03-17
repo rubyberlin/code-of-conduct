@@ -68,4 +68,4 @@ Se espera que todos los participantes de la comunidad (colaboradores/as —pagos
 Licencia y atribución
 ---------------------
 
-El Berlin Code of Conduct se encuentra distribuido bajo una licencia Creative Commons Attribution-ShareAlike. Está basado en el [pdx.rb code of conduct](http://pdxruby.org/codeofconduct), que también es distribuido bajo la misma licencia.
+El Berlin Code of Conduct se encuentra distribuido bajo una licencia [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Está basado en el [pdx.rb code of conduct](http://pdxruby.org/codeofconduct), que también es distribuido bajo la misma licencia.

@@ -193,10 +193,34 @@
       "twitter": "hamburgsync",
       "contacts": [
         {
-          "name": "Kerstin Puschke",
-          "phone": "",
-          "email": "rug@kpuschke.eu"
+          "name": "Peter Schröder",
+          "phone": "+49 178 1391035",
+          "email": "ps@nofail.de"
         },
+        {
+          "name": "Jan Krutisch",
+          "phone": "+49 1752935345",
+          "email": "jan@krutisch.de"
+        },
+        {
+          "name": "Irina Lindt",
+           "phone": "+49 176 62761433",
+           "email": "lindtdev@gmail.com"
+        },
+        {
+          "name": "Jan Zaydowicz",
+           "phone": "+49 176 52857961",
+           "email": "jan.zaydowicz@gmail.com"
+        }
+      ]
+    },
+    {
+      "name": "Ruby Unconference Hamburg",
+      "city": "Hamburg",
+      "country": "Germany",
+      "link": "http://rubyunconf.eu/",
+      "twitter": "RubyUnConfHH",
+      "contacts": [
         {
           "name": "Peter Schröder",
           "phone": "+49 178 1391035",
@@ -440,6 +464,37 @@
           "name": "Timothy Cochran",
           "twitter": "timcochran",
           "email": "tcochran@thoughtworks.com"
+        }
+      ]
+    },
+    {
+      "name": "PyLight Meetup",
+      "city": "Warsaw",
+      "country": "Poland",
+      "link": "http://pylight.org/",
+      "twitter": "PyLightMeetup",
+      "contacts": [
+        {
+          "name": "Agata Grdal",
+          "email": "conduct@pylight.org"
+        },
+        {
+          "name": "Marcin Sedlak-Jakubowski",
+          "email": "fdmarcin@gmail.com"
+        }
+      ]
+    },
+    {
+      "name": "Malmö.rb",
+      "city": "Malmö",
+      "country": "Sweden",
+      "link": "http://malmorb.se",
+      "twitter": "malmorb",
+      "contacts": [
+        {
+          "name": "Olle Jonsson",
+          "email": "olle.jonsson@gmail.com",
+          "twitter": "olleolleolle"
         }
       ]
     }
@@ -1533,6 +1588,65 @@
           "email": "holger.blank@sinnerschrader.com"
         }
       ]
-    }      
+    },
+    {
+      "name": "Azure Meetup Munich",
+      "city": "Munich",
+      "country": "Germany",
+      "link": "https://www.meetup.com/de-DE/Azure-Munich",
+      "twitter": "azuremuc",
+      "contacts": [
+        {
+          "name": "Christian Waha",
+          "twitter": "cwaha"
+        },
+        {
+          "name": "Lennart Passig",
+          "twitter": "lennoert"
+        },
+        {
+          "name": "Astrit Dibrani",
+          "twitter": "astrit_dibrani"
+        }
+      ]
+    },
+    {
+      "name": "Filter Club HU",
+      "city": "Budapest",
+      "country": "Hungary",
+      "link": "https://filterclub.hu",
+      "twitter": "filterclub_hu",
+      "contacts": [
+        {
+          "name": "Ferenc Németh",
+          "twitter": "nemethfe",
+          "email": "ferenc.nemeth@specialty.hu"
+        }
+      ]
+    },
+    {
+      "name": "<React.NotAConf />",
+      "city": "Sofia",
+      "country": "Bulgaria",
+      "link": "http://react-not-a-conf.com/",
+      "twitter": "reactnotaconf",
+      "contacts": [
+        {
+          "name": "Radoslav Stankov",
+          "twitter": "rstankov",
+          "email": "radoslavdstankov@gmail.com"
+        },
+        {
+          "name": "Vladimir Tassev",
+          "twitter": "TasevVladimir",
+          "email": "v.tasev@deltastock.com"
+        },
+        {
+          "name": "Janet Todorova",
+          "twitter": "janettodorova",
+          "email": "j.a.todorova@gmail.com"
+        }
+      ]
+    }
   ]
 }
