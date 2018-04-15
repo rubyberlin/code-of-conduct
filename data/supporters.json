@@ -1652,7 +1652,9 @@
       "contacts": [
         {
           "name": "Adi Shavit",
-          "twitter": "adishavit"
+          "twitter": "adishavit",
+          "email": "adishavit@gmail.com",
+          "phone": "+972 50 7637223"
         },
         {
           "name": "Michael Gopshtein",
