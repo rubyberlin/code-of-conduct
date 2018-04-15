@@ -1642,6 +1642,23 @@
           "email": "j.a.todorova@gmail.com"
         }
       ]
+    },
+    {
+      "name": "Core C++ Users Group",
+      "city": "Mevasseret Ziyyon",
+      "country": "Israel",
+      "link": "https://corecppil.github.io/Meetups/",
+      "twitter": "corecpp",
+      "contacts": [
+        {
+          "name": "Adi Shavit",
+          "twitter": "adishavit"
+        },
+        {
+          "name": "Michael Gopshtein",
+          "twitter": "michael_gop"
+        }
+      ]
     }
   ]
 }
