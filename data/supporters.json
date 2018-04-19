@@ -1688,6 +1688,19 @@
           "email": "arletta.jasonek@nokia.com"
         }
       ]
+    },
+    {
+      "name": "London Rust User Group",
+      "city": "London",
+      "country": "United Kingdom",
+      "link": "http://meetup.com/Rust-London-User-Group/",
+      "contacts": [
+        {
+          "name": "Mark Sta Ana",
+          "twitter": "booyaa",
+          "email": "booyaabooyaabooyaa+lrug@gmail.com"
+        }
+      ]
     }
   ]
 }
