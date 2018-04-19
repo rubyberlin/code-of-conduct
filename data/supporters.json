@@ -1661,6 +1661,28 @@
           "twitter": "michael_gop"
         }
       ]
+    },
+    {
+      "name": "code::dive",
+      "city": "Wrocław",
+      "country": "Poland",
+      "link": "http://codedive.pl/",
+      "twitter": "code_dive_pl",
+      "contacts": [
+        {
+          "name": "Mateusz Dymiński",
+          "twitter": "m_dyminski",
+          "email": "mateusz.dyminski@nokia.com"
+        },
+        {
+          "name": "Adam Badura",
+          "email": "adam.badura@nokia.com"
+        },
+        {
+          "name": "Arletta Jasonek",
+          "email": "arletta.jasonek@nokia.com"
+        }
+      ]
     }
   ]
 }
