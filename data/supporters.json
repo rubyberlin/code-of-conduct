@@ -618,9 +618,9 @@
       ]
     },
     {
-      "name": "Lambda World Cádiz 2015",
-      "city": "Cádiz",
-      "country": "Spain",
+      "name": "Lambda World",
+      "city": "Cádiz & Seattle",
+      "country": "Spain & USA",
       "link": "http://www.lambda.world",
       "twitter": "Lambda_World",
       "contacts": [
@@ -629,12 +629,8 @@
           "twitter": "jorge__galindo"
         },
         {
-          "name": "Susana Marló",
-          "twitter": "carabuu_u"
-        },
-        {
-          "name": "Inés Arroyo",
-          "twitter": "toda1dama"
+          "name": "Maureen Elsberry",
+          "twitter": "MRElsberry"
         }
       ]
     },
