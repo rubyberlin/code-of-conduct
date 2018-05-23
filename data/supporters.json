@@ -1696,6 +1696,19 @@
           "email": "booyaabooyaabooyaa+lrug@gmail.com"
         }
       ]
+    },
+    {
+      "name": "St.Petersburg C++ User Group",
+      "city": "Saint-Petersburg",
+      "country": "Russia",
+      "link": "https://www.meetup.com/St-Petersburg-CPP-User-Group",
+      "contacts": [
+        {
+          "name": "Anastasia Kazakova",
+          "twitter": "anastasiak2512",
+          "email": "anastasia.kazakova2512@gmail.com"
+        }
+      ]
     }
   ]
 }
