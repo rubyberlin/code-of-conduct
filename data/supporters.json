@@ -1707,6 +1707,17 @@
           "name": "Anastasia Kazakova",
           "twitter": "anastasiak2512",
           "email": "anastasia.kazakova2512@gmail.com"
+        },
+        {
+      "name": "Edinburgh Napier Security Society (ENUSEC)",
+      "city": "Edinburgh",
+      "country": "Scotland",
+      "link": "https://enusec.org",
+      "contacts": [
+        {
+          "name": "Acting President",
+          "twitter": "_enusec_",
+          "email": "enusec@gmail.com"
         }
       ]
     }
