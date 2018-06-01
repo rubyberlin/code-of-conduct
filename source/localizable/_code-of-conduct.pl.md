@@ -18,16 +18,6 @@ Społeczności odzwierciedlają społeczeństwa w ramach których istnieją, dla
 Jeśli widzisz kogoś wkładającego dodatkowy wysiłek by zapewnić, że nasza społeczność jest przyjazna, życzliwa i zachęcająca wszystkich uczestników do wnoszenia w nią jak największego wkładu – chcielibyśmy o tym wiedzieć.
 
 
-Zachowania oczekiwane
----------------------
-
-*	Uczestnicz w sposób autentyczny i aktywny. Robiąc to przyczyniasz się do zdrowia i żywotności tej społeczności.
-*	Zachowuj rozwagę i szacunek w swoich słowach i czynach.
-*	Spróbuj współpracy przed konfliktem.
-*	Powstrzymuj się przed poniżającymi, dyskryminującymi lub niepokojącymi zachowaniami i słowami.
-*	Zwracaj uwagę na swoje otoczenie i innych uczestników. Ostrzeż społeczność jeśli zauważysz niebezpieczną sytuację, kogoś potrzebującego pomocy lub naruszenie tego Kodeksu postępowania, nawet jeśli wydają się nieistotne.
-
-
 Zachowania niedopuszczalne
 --------------------------
 

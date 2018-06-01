@@ -18,20 +18,6 @@ Communities spiegeln die Gesellschaften wider, in denen sie existieren. Positive
 Wenn du Personen begegnest, die sich viel Mühe geben, unsere Community einladend und freundlich zu gestalten und alle Teilnehmenden dazu anregt, sich voll einzubringen, würden wir gerne davon hören.
 
 
-Erwartetes Verhalten
---------------------
-
-* Beteilige dich authentisch und aktiv. Dadurch trägst du zur Gesundheit und Langlebigkeit dieser Community bei.
-
-* Verhalte dich rücksichts- und respektvoll in Wort und Tat.
-
-* Bemühe dich um Zusammenarbeit, damit du Konflikte von Anfang an vermeiden kannst.
-
-* Nimm Abstand von erniedrigender, diskriminierender oder belästigender Sprache und Verhalten.
-
-* Achte auf deine Umgebung und die anderen Teilnehmenden. Mache die Veranstaltenden oder andere Anwesende darauf aufmerksam, wenn du eine gefährliche Situation, jemanden in Bedrängnis oder Verletzungen dieses Verhaltenskodexes bemerkst, selbst wenn sie zunächst belanglos erscheinen.
-
-
 Inakzeptables Verhalten
 -----------------------
 

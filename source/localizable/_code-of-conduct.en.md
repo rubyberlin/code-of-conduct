@@ -17,17 +17,6 @@ Communities mirror the societies in which they exist and positive action is esse
 
 If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know.
 
-
-Expected Behavior
------------------
-
-*	Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
-*	Exercise consideration and respect in your speech and actions.
-*	Attempt collaboration before conflict.
-*	Refrain from demeaning, discriminatory, or harassing behavior and speech.
-*	Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
-
-
 Unacceptable Behavior
 ---------------------
 
