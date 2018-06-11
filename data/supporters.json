@@ -1727,6 +1727,26 @@
           "email": "enusec@gmail.com"
         }
       ]
-    }
+    },
+    {
+      "name": "WarsawJS",
+      "city": "Warsaw",
+      "country": "Poland",
+      "link": "https://warsawjs.com",
+      "contacts": [
+        {
+          "name": "Piotr Zientara",
+          "twitter": "Piotr_Zientara",
+        },
+        {
+          "name": "Piotr Kowalski",
+          "twitter": "piecioshka",
+        },
+        {
+          "name": "Katarzyna Grabowska",
+          "twitter": "kasiarzyna25"
+        }
+      ]
+    },
   ]
 }
