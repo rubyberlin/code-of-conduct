@@ -1731,17 +1731,17 @@
       "contacts": [
         {
           "name": "Piotr Zientara",
-          "twitter": "Piotr_Zientara",
+          "twitter": "Piotr_Zientara"
         },
         {
           "name": "Piotr Kowalski",
-          "twitter": "piecioshka",
+          "twitter": "piecioshka"
         },
         {
           "name": "Katarzyna Grabowska",
           "twitter": "kasiarzyna25"
         }
       ]
-    },
+    }
   ]
 }
