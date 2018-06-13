@@ -1747,6 +1747,26 @@
           "twitter": "kasiarzyna25"
         }
       ]
+    },
+    {
+      "name": "PiterPy Meetup",
+      "city": "St. Petersburg",
+      "country": "Russia",
+      "link": "http://meetup.piterpy.com",
+      "contacts": [
+        {
+          "name": "Dmitry Nazarov",
+          "twitter": "nazarov_tech"
+        },
+        {
+          "name": "Sergey Sokolov",
+          "twitter": "teners__"
+        },
+        {
+          "name": "Dmitry Boger",
+          "twitter": "b0g3r"
+        }
+      ]
     }
   ]
 }
