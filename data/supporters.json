@@ -1767,6 +1767,19 @@
           "twitter": "b0g3r"
         }
       ]
+    },
+    {
+      "name": "ng-de",
+      "city": "Berlin",
+      "country": "Germany",
+      "link": "https://ng-de.org/",
+      "contacts": [
+        {
+          "name": "Martin Sonnenholzer",
+          "twitter": "chaos_monster",
+          "email": "martin@ng-de.org"
+        }
+      ]
     }
   ]
 }
