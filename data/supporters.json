@@ -497,6 +497,20 @@
           "twitter": "olleolleolle"
         }
       ]
+    },
+    {
+      "name": "Angular Heidelberg",
+      "city": "Heidelberg",
+      "country": "Germany",
+      "link": "https://angular-heidelberg.de/",
+      "twitter": "ngHeidelberg",
+      "contacts": [
+        {
+          "name": "Johannes Hoppe",
+          "email": "johannes.hoppe@haushoppe-its.de",
+          "twitter": "JohannesHoppe"
+        }
+      ]
     }
   ],
   "conferences": [
