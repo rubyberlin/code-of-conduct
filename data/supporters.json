@@ -1794,6 +1794,19 @@
           "email": "martin@ng-de.org"
         }
       ]
+    },
+    {
+      "name": "meet.js Summit",
+      "city": "Poznań",
+      "country": "Poland",
+      "link": "https://summit.meetjs.pl/",
+      "contacts": [
+        {
+          "name": "Michał Miszczyszyn",
+          "twitter": "meetjs",
+          "email": "contact@meetjs.pl"
+        }
+      ]
     }
   ]
 }
