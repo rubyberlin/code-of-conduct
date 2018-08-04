@@ -1807,6 +1807,22 @@
           "email": "contact@meetjs.pl"
         }
       ]
+    },
+    {
+      "name": "Very Human Services",
+      "city": "Poznań",
+      "country": "Poland",
+      "link": "http://veryhuman.pl",
+      "contacts": [
+        {
+          "name": "Wojtek Ławniczak",
+          "email": "wojtek.lawniczak@veryhuman.pl"
+        },
+        {
+          "name": "Iza Bernau-Ławniczak",
+          "email": "iza.lawniczak@veryhuman.pl"
+        }
+        ]
     }
   ]
 }
