@@ -1819,6 +1819,18 @@
           "email": "georgekosmidis@outlook.com"
         }
       ]
-    }    
+    },
+    {
+      "name": "Very Human Services",
+      "city": "Poznań",
+      "country": "Poland",
+      "link": "http://veryhuman.pl",
+      "contacts": [
+        {
+          "name": "Iza Bernau-Ławniczak",
+          "email": "iza.lawniczak@veryhuman.pl"
+        }
+      ]
+    }
   ]
 }
