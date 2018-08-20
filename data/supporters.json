@@ -1809,6 +1809,18 @@
       ]
     },
     {
+      "name": "Munich .NET Meetup",
+      "city": "Munich",
+      "country": "Germany",
+      "link": "https://www.meetup.com/Munchen-NET-Meetup/",
+      "contacts": [
+        {
+          "name": "George Kosmidis",
+          "email": "georgekosmidis@outlook.com"
+        }
+      ]
+    },
+    {
       "name": "Very Human Services",
       "city": "Poznań",
       "country": "Poland",
