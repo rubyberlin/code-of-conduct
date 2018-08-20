@@ -1807,6 +1807,18 @@
           "email": "contact@meetjs.pl"
         }
       ]
-    }
+    },
+    {
+      "name": "Munich .NET Meetup",
+      "city": "Munich",
+      "country": "Germany",
+      "link": "https://www.meetup.com/Munchen-NET-Meetup/",
+      "contacts": [
+        {
+          "name": "George Kosmidis",
+          "email": "georgekosmidis@outlook.com"
+        }
+      ]
+    }    
   ]
 }
