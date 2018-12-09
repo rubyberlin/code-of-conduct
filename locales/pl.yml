@@ -1,11 +1,11 @@
 ---
 pl:
   header:
-    title: "Berliński kodeks postępowania"
+    title: "Berliński Kodeks Postępowania"
     sub-title: "Kodeks postępowania dla wszelkich grup użytkowników i konferencji"
   supporters:
     title: "Popierający"
-    sub-title: "Poniższe grupy użytkowników i konferencje wspierają berliński kodeks postępowania:"
+    sub-title: "Poniższe grupy użytkowników i konferencje wspierają Berliński Kodeks Postępowania:"
     add: "By dodać swoją grupę użytkowników/konferencję dopisz ją w pull requeście do %{link:naszego repozytorium}."
   footer:
     attribution: "Ten kodeks postępowania jest adaptacją %{link:kodeksu postępowania pdx.rb}."
