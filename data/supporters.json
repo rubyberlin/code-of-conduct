@@ -1829,6 +1829,17 @@
           "email": "stadolf@gmail.com"
         }
       ]
+    },{
+      "name": "Software Architecture Meetup Nuremberg",
+      "city": "Nuremberg",
+      "country": "Germany",
+      "link": "http://swa-nue.de",
+      "contacts": [
+        {
+          "name": "Johannes Seitz",
+          "email": "johannes.seitz@innoq.com"
+        }
+      ]
     }
   ]
 }
