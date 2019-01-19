@@ -31,7 +31,7 @@ Zachowania oczekiwane
 Zachowania niedopuszczalne
 --------------------------
 
-Zachowania niedopuszczalne to między innymi: zastraszające, nękające, obraźliwe, dyskryminujące, uwłaczające i poniżające słowa lub czyny dowolnego uczestnika naszej społeczności w internecie, na wszelkich powiązanych wydarzeniach oraz w komunikacji prywatnej dotyczącej spraw społeczności. Miejsca spotkań społeczności mogą być współdzielone z członkami społeczeństwa; szanuj wszystkich obecnych w danym miejscu.
+Zachowania niedopuszczalne to między innymi: zastraszające, nękające, obraźliwe, dyskryminujące, uwłaczające i poniżające słowa lub czyny dowolnego uczestnika naszej społeczności w Internecie, na wszelkich powiązanych wydarzeniach oraz w komunikacji prywatnej dotyczącej spraw społeczności. Miejsca spotkań społeczności mogą być współdzielone z członkami społeczeństwa; szanuj wszystkich obecnych w danym miejscu.
 
 Nękanie to między innymi: szkodliwe lub krzywdzące słowne lub pisemne komentarze dotyczące płci, orientacji seksualnej, pochodzenia, religii, niepełnosprawności; niewłaściwe użycie nagości lub ilustracji o podtekście seksualnym w przestrzeni publicznej (w tym w prezentacjach); celowe zastraszanie, prześladowanie (tzw. stalking) lub śledzenie; niepokojące fotografowanie lub nagrywanie; trwałe zaburzanie wystąpień i innych wydarzeń; niewłaściwy kontakt fizyczny i niemile widziane zainteresowanie seksualne.
 
@@ -65,4 +65,4 @@ Oczekujemy, że wszyscy uczestnicy społeczności (organizatorzy, zarówno opła
 Licencja i uznanie autorstwa
 ----------------------------
 
-Berliński kodeks postępowania jest rozpowszechniany na warunkach licencji [Creative Commons Uznanie autorstwa-Na tych samych warunkach (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.pl). Kodeks został stworzony na podstawie [pdx.rb code of conduct](http://pdxruby.org/codeofconduct).
+Berliński Kodeks Postępowania jest rozpowszechniany na warunkach licencji [Creative Commons Uznanie autorstwa-Na tych samych warunkach (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.pl). Kodeks został stworzony na podstawie [pdx.rb code of conduct](http://pdxruby.org/codeofconduct).
