@@ -1826,6 +1826,19 @@
           "email": "iza.lawniczak@veryhuman.pl"
         }
       ]
+    },
+    {
+      "name": "coding berlin",
+      "city": "Berlin",
+      "country": "Germany",
+      "link": "https://www.meetup.com/CODING-BERLIN/",
+      "contacts": [
+        {
+          "name": "Stefan Adolf",
+          "twitter": "stadolf",
+          "email": "stadolf@gmail.com"
+        }
+      ]
     }
   ]
 }
