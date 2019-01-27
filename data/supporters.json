@@ -1853,7 +1853,8 @@
           "email": "stadolf@gmail.com"
         }
       ]
-    },{
+    },
+    {
       "name": "Software Architecture Meetup Nuremberg",
       "city": "Nuremberg",
       "country": "Germany",
@@ -1862,6 +1863,22 @@
         {
           "name": "Johannes Seitz",
           "email": "johannes.seitz@innoq.com"
+        }
+      ]
+    },
+    {
+      "name": "SPb Reliability Meetup",
+      "city": "St. Petersburg",
+      "country": "Russia",
+      "link": "http://spb.reliability.tilda.ws",
+      "contacts": [
+        {
+          "name": "Dmitry Nazarov",
+          "twitter": "nazarov_tech"
+        },
+        {
+          "name": "Vitaliy Levchenko",
+          "email": "levtchenko@gmail.com"
         }
       ]
     }
