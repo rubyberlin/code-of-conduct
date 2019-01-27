@@ -1292,6 +1292,25 @@
       ]
     },
     {
+      "name": "C++ London Uni",
+      "city": "London",
+      "country": "United Kingdom",
+      "link": "https://www.cpplondonuni.com",
+      "twitter": "cpplondonuni",
+      "contacts": [
+        {
+          "name": "CPP London Uni C.I.C",
+          "twitter": "cpplondonuni",
+          "email": "admin@cpplondonuni.com"
+        },
+	{
+	  "name": "Tom Breza",
+	  "twitter": "xxvms",
+	  "email": "tom@cpplondonuni.com"
+	}
+      ]
+    },
+    {
       "name": "Auckland C++ Meetup",
       "city": "Auckland",
       "country": "New Zealand",
