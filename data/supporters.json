@@ -1881,6 +1881,22 @@
           "email": "levtchenko@gmail.com"
         }
       ]
+    },
+    {
+      "name": "girls.js",
+      "city": "Warsaw",
+      "country": "Poland",
+      "link": "https://girlsjs.pl",
+      "contacts": [
+        {
+          "name": "Paweł Pruszkowski",
+          "email": "pawel.pruszkowski@girlsjs.pl"
+        },
+        {
+          "name": "Magdalena Niedźwiecka",
+          "email": "magdalena.niedzwiecka@girlsjs.pl"
+        }
+      ]
     }
   ]
 }
