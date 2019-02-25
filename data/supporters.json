@@ -72,6 +72,20 @@
       ]
     },
     {
+      "name": "C++TO: The Toronto C++ User Group",
+      "city": "Toronto",
+      "country": "Canada",
+      "link": "https://www.meetup.com/CPPTORONTO",
+      "twitter": "@cpptoronto",
+      "contacts": [
+        {
+          "name": "Michael Daum",
+          "phone": "",
+          "email": "mike.daum@cpptoronto.org"
+        }
+      ]
+    },
+    {
       "name": "Elasticsearch UG Berlin",
       "city": "Berlin",
       "country": "Germany",
