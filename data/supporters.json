@@ -786,6 +786,20 @@
       ]
     },
     {
+      "name": "React Finland",
+      "city": "Helsinki",
+      "country": "Finland",
+      "link": "https://react-finland.fi/",
+      "twitter": "ReactFinland",
+      "contacts": [
+        {
+          "name":    "Juho Vepsäläinen",
+	  "email":   "info@react-finland.fi",
+          "twitter": "bebraw"
+        }
+      ]
+    },
+    {
       "name": "JavaScript and the Internet of Things",
       "city": "Portland, OR",
       "country": "USA",
