@@ -36,6 +36,8 @@ I comportamenti che riteniamo inaccettabili includono: comportamenti intimidator
 
 Comportamenti molesti includono: commenti scritti o verbali dannosi o pregiudizievoli in relazione al sesso, orientamento sessuale, razza, religione, disabilità fisiche e/o mentali; uso inappropriato di immagini di nudi e/o immagini a sfondo sessuale (comprese le slide per le presentazioni); intimidazioni, il seguire fisicamente o stalking; molestie sotto forma di fotografie e video non autorizzati; interruzione sostenuta di presentazioni o altri eventi; contatto fisico inappropriato e attenzione sessuale sgradita.
 
+L'analisi critica delle opinioni di un'altro individuo, inclusa l'argomentazione del loro punto di vista, non costituisce di per sè una molestia, nè puó essere considerata una condotta ostile. Uno dei principi alla base di questo Codice di Condotta è quello di promuovere il libero scambio di idee, non quello di inibirlo.
+
 
 Conseguenze per i comportamenti inaccettabili
 -------------------------------------

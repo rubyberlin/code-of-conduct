@@ -35,6 +35,8 @@ Unacceptable behaviors include: intimidating, harassing, abusive, discriminatory
 
 Harassment includes: harmful or prejudicial verbal or written comments related to gender, sexual orientation, race, religion, disability; inappropriate use of nudity and/or sexual images (including presentation slides); inappropriate depictions of violence (including presentation slides); deliberate intimidation, stalking or following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact, and unwelcome sexual attention.
 
+Critical examination of beliefs, including critical commentary on another person’s views, does not, by itself, constitute hostile conduct or harassment. One of the underlying rationales of this Code of Conduct is to promote the free exchange of ideas, not to inhibit it.
+
 
 Consequences of Unacceptable Behavior
 -------------------------------------
