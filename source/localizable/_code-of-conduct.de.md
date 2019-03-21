@@ -1,7 +1,7 @@
 Zielsetzung
 -----
 
-Alle Konferenzen und Gruppen, die sich auf diesen Verhaltenskodex beziehen, haben es sich als ein wichtiges Ziel gesetzt, die größtmögliche Anzahl an Beitragenden mit den vielfältigsten und unterschiedlichsten Hintergründen einzubeziehen. Wir sehen es als unsere Aufgabe, eine freundliche, sichere und einladende Umgebung zu schaffen, unabhängig von Geschlecht, sexueller Orientierung, Befähigung, Herkunft, Religion (oder deren Nichtvorhandensein) sowie gesellschaftlichem und wirtschaftlichem Status.
+Alle Konferenzen und Gruppen, die sich auf diesen Verhaltenskodex beziehen, haben es sich als ein wichtiges Ziel gesetzt, die größtmögliche Anzahl an Beitragenden mit den vielfältigsten und unterschiedlichsten Hintergründen einzubeziehen. Wir sehen es als unsere Aufgabe, eine freundliche, sichere und einladende Umgebung zu schaffen, unabhängig von Geschlecht, sexueller Orientierung, Befähigung, Herkunft, Religion oder deren Nichtvorhandensein, sowie gesellschaftlichem und wirtschaftlichem Status.
 
 Dieser Verhaltenskodex umreißt unsere Erwartungen an alle Beteiligten unserer Community, sowie die Konsequenzen für inakzeptables Verhalten.
 

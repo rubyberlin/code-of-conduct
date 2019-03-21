@@ -1,7 +1,7 @@
 Scopo
 -------
 
-Lo scopo principale di tutte le conferenze e gli user group che aderiscono a questo Codice di Condotta è di essere il più inclusivi possibile rispetto al maggior numero di partecipanti, provenienti dai più eterogenei e variegati backgrounds possibili. Per questo, ci impegniamo a fornire un ambiente amichevole, sicuro e accogliente, indipendentemente dal sesso, orientamento sessuale, disabilità fisiche e/o mentali, etnia, stato socio-economico e preferenze religiose (o mancanza di tali).
+Lo scopo principale di tutte le conferenze e gli user group che aderiscono a questo Codice di Condotta è di essere il più inclusivi possibile rispetto al maggior numero di partecipanti, provenienti dai più eterogenei e variegati backgrounds possibili. Per questo, ci impegniamo a fornire un ambiente amichevole, sicuro e accogliente, indipendentemente dal sesso, orientamento sessuale, disabilità fisiche e/o mentali, etnia, stato socio-economico e preferenze religiose o mancanza di tali.
 
 Questo Codice di Condotta delinea cosa ci aspettiamo da tutti/e i/le partecipanti delle nostre comunità, cosí come le conseguenze per eventuali comportamenti inaccettabili.
 
@@ -70,4 +70,3 @@ Licenza e attribuzione
 -----------------------
 
 Berlin Code of Conduct è distribuito sotto licenza [Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.it) e basato originariamente sul [pdx.rb code of conduct](http://pdxruby.org/codeofconduct).
-
