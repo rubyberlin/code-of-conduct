@@ -30,9 +30,9 @@
       "twitter": "rug_b",
       "contacts": [
         {
-          "name":    "Tobias Pfeiffer",
-          "phone":   "+49 160 205 0792",
-          "email":   "pragtob@gmail.com",
+          "name": "Tobias Pfeiffer",
+          "phone": "+49 160 205 0792",
+          "email": "pragtob@gmail.com",
           "twitter": "PragTob"
         },
         {
@@ -218,13 +218,13 @@
         },
         {
           "name": "Irina Lindt",
-           "phone": "+49 176 62761433",
-           "email": "lindtdev@gmail.com"
+          "phone": "+49 176 62761433",
+          "email": "lindtdev@gmail.com"
         },
         {
           "name": "Jan Zaydowicz",
-           "phone": "+49 176 52857961",
-           "email": "jan.zaydowicz@gmail.com"
+          "phone": "+49 176 52857961",
+          "email": "jan.zaydowicz@gmail.com"
         }
       ]
     },
@@ -247,13 +247,13 @@
         },
         {
           "name": "Irina Lindt",
-           "phone": "+49 176 62761433",
-           "email": "lindtdev@gmail.com"
+          "phone": "+49 176 62761433",
+          "email": "lindtdev@gmail.com"
         },
         {
           "name": "Jan Zaydowicz",
-           "phone": "+49 176 52857961",
-           "email": "jan.zaydowicz@gmail.com"
+          "phone": "+49 176 52857961",
+          "email": "jan.zaydowicz@gmail.com"
         }
       ]
     },
@@ -767,20 +767,20 @@
       "twitter": "reactberlin",
       "contacts": [
         {
-          "name":    "Tobias Pfeiffer",
-          "phone":   "+49 160 205 0792",
-          "email":   "pragtob@gmail.com",
+          "name": "Tobias Pfeiffer",
+          "phone": "+49 160 205 0792",
+          "email": "pragtob@gmail.com",
           "twitter": "PragTob"
         },
         {
-          "name":    "Bodo Tasche",
-          "phone":   "+49 1512 7533048",
-          "email":   "bodo@tasche.me",
+          "name": "Bodo Tasche",
+          "phone": "+49 1512 7533048",
+          "email": "bodo@tasche.me",
           "twitter": "bitboxer"
         },
         {
-          "name":    "Christoph Beck",
-          "email":   "aqualung@crapmap.de",
+          "name": "Christoph Beck",
+          "email": "aqualung@crapmap.de",
           "twitter": "chris_bitcrowd"
         }
       ]
@@ -793,8 +793,8 @@
       "twitter": "ReactFinland",
       "contacts": [
         {
-          "name":    "Juho Vepsäläinen",
-	  "email":   "info@react-finland.fi",
+          "name": "Juho Vepsäläinen",
+          "email": "info@react-finland.fi",
           "twitter": "bebraw"
         }
       ]
@@ -806,12 +806,12 @@
       "link": "http://www.meetup.com/JavaScript-and-the-Internet-of-Things/",
       "contacts": [
         {
-          "name":    "Andrew Chalkley",
-          "email":   "andrew@chalkley.org",
+          "name": "Andrew Chalkley",
+          "email": "andrew@chalkley.org",
           "twitter": "chalkers"
         },
         {
-          "name":    "Craig Dennis",
+          "name": "Craig Dennis",
           "twitter": "craigsdennis"
         }
       ]
@@ -902,7 +902,7 @@
       "twitter": "berlinjs",
       "contacts": [
         {
-          "name":    "Michele Guido",
+          "name": "Michele Guido",
           "twitter": "sheley"
         },
         {
@@ -947,45 +947,45 @@
       ]
     },
     {
-        "name": "React.HH",
-        "city": "Hamburg",
-        "country": "Germany",
-        "link": "http://www.meetup.com/de-DE/Hamburg-React-js-Meetup/",
-        "twitter": "reacthh",
-        "contacts": [
-          {
-            "name": "Dave Brotherstone",
-            "phone": "+49 177 5548569",
-            "email": "davegb@pobox.com",
-            "twitter": "bruderstein"
-          },
-          {
-            "name": "Rebecca Spindler",
-            "phone": "+49 170 9322635",
-            "email": "spindler.rebecca@gmail.com",
-            "twitter": "beccspin"
-          },
-          {
-            "name": "Leonard Koch",
-            "email": "leonard@leonardkoch.com",
-            "twitter": "LeonardKoch_"
-          }
-        ]
+      "name": "React.HH",
+      "city": "Hamburg",
+      "country": "Germany",
+      "link": "http://www.meetup.com/de-DE/Hamburg-React-js-Meetup/",
+      "twitter": "reacthh",
+      "contacts": [
+        {
+          "name": "Dave Brotherstone",
+          "phone": "+49 177 5548569",
+          "email": "davegb@pobox.com",
+          "twitter": "bruderstein"
+        },
+        {
+          "name": "Rebecca Spindler",
+          "phone": "+49 170 9322635",
+          "email": "spindler.rebecca@gmail.com",
+          "twitter": "beccspin"
+        },
+        {
+          "name": "Leonard Koch",
+          "email": "leonard@leonardkoch.com",
+          "twitter": "LeonardKoch_"
+        }
+      ]
     },
     {
-        "name": "node.HH",
-        "city": "Hamburg",
-        "country": "Germany",
-        "link": "http://www.meetup.com/de-DE/node-HH/",
-        "twitter": "NodeHamburg",
-        "contacts": [
-          {
-            "name": "Gregor Elke",
-            "phone": "+49 174 2100996",
-            "email": "greelgorke@gmail.com",
-            "twitter": "greelgorke"
-          }
-        ]
+      "name": "node.HH",
+      "city": "Hamburg",
+      "country": "Germany",
+      "link": "http://www.meetup.com/de-DE/node-HH/",
+      "twitter": "NodeHamburg",
+      "contacts": [
+        {
+          "name": "Gregor Elke",
+          "phone": "+49 174 2100996",
+          "email": "greelgorke@gmail.com",
+          "twitter": "greelgorke"
+        }
+      ]
     },
     {
       "name": "decode hamburg",
@@ -1062,8 +1062,8 @@
       "twitter": "dohack_io",
       "contacts": [
         {
-          "name":    "Christoph Weinzierl",
-          "email":   "team@dohack.io",
+          "name": "Christoph Weinzierl",
+          "email": "team@dohack.io",
           "twitter": "wir3bug"
         }
       ]
@@ -1075,9 +1075,9 @@
       "link": "http://www.meetup.com/berlincplusplus/",
       "contacts": [
         {
-          "name":    "Fabio Fracassi",
-          "phone":   "+49 172 97 28 955",
-          "email":   "f.fracassi@gmx.net"
+          "name": "Fabio Fracassi",
+          "phone": "+49 172 97 28 955",
+          "email": "f.fracassi@gmx.net"
         },
         {
           "name": "Céline Dedaj",
@@ -1284,7 +1284,7 @@
           "name": "Julien Deswaef",
           "twitter": "xuv",
           "email": "julien.deswaef@thoughtworks.com",
-          "phone":   "+1 646 427 4897"
+          "phone": "+1 646 427 4897"
         },
         {
           "name": "Andrew McWilliams",
@@ -1294,7 +1294,7 @@
         {
           "name": "Kent Rahman",
           "email": "krahman@thoughtworks.com",
-          "phone":   "+1 917 734 7635"
+          "phone": "+1 917 734 7635"
         }
       ]
     },
@@ -1309,7 +1309,7 @@
           "name": "Phil Nash",
           "twitter": "phil_nash",
           "email": "cpplondon@philnash.me",
-          "phone":   "+44 7793 515336"
+          "phone": "+44 7793 515336"
         }
       ]
     },
@@ -1325,11 +1325,11 @@
           "twitter": "cpplondonuni",
           "email": "admin@cpplondonuni.com"
         },
-	{
-	  "name": "Tom Breza",
-	  "twitter": "xxvms",
-	  "email": "tom@cpplondonuni.com"
-	}
+        {
+          "name": "Tom Breza",
+          "twitter": "xxvms",
+          "email": "tom@cpplondonuni.com"
+        }
       ]
     },
     {
@@ -1342,7 +1342,7 @@
           "name": "Toby Allsopp",
           "twitter": "toby_allsopp",
           "email": "toby@mi6.gen.nz",
-          "phone":   "+64 21 0233 3914"
+          "phone": "+64 21 0233 3914"
         }
       ]
     },
@@ -1357,7 +1357,7 @@
           "name": "Gorazd Kozmus",
           "twitter": "c05m1x",
           "email": "gorazd@scala-swarm.org",
-          "phone":   "+386 41 676 697"
+          "phone": "+386 41 676 697"
         }
       ]
     },
@@ -1606,7 +1606,7 @@
           "name": "Gorazd Kozmus",
           "twitter": "c05m1x",
           "email": "gorazd@bee-scala.org",
-          "phone":   "+386 41 676 697"
+          "phone": "+386 41 676 697"
         }
       ]
     },
@@ -1621,7 +1621,7 @@
           "name": "Felicitas Kugland",
           "twitter": "kotzendekrabbe",
           "email": "felicitas.kugland@gmail.com",
-          "phone":   "+491717700404"
+          "phone": "+491717700404"
         },
         {
           "name": "Holger Blank",
