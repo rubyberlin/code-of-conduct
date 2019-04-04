@@ -203,8 +203,8 @@
       "name": "Ruby Usergroup Hamburg",
       "city": "Hamburg",
       "country": "Germany",
-      "link": "http://hamburg.onruby.de/",
-      "twitter": "hamburgsync",
+      "link": "https://hamburg.onruby.de/",
+      "twitter": "HamburgOnRuby",
       "contacts": [
         {
           "name": "Peter Schröder",
@@ -232,14 +232,9 @@
       "name": "Ruby Unconference Hamburg",
       "city": "Hamburg",
       "country": "Germany",
-      "link": "http://rubyunconf.eu/",
+      "link": "https://rubyunconf.eu/",
       "twitter": "RubyUnConfHH",
       "contacts": [
-        {
-          "name": "Peter Schröder",
-          "phone": "+49 178 1391035",
-          "email": "ps@nofail.de"
-        },
         {
           "name": "Jan Krutisch",
           "phone": "+49 1752935345",
