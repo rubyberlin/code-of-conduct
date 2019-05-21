@@ -1914,6 +1914,18 @@
           "email": "magdalena.niedzwiecka@girlsjs.pl"
         }
       ]
+    },
+    {
+      "name": "mediaman GmbH",
+      "city": "Mainz/Stuttgart/Berlin",
+      "country": "Germany",
+      "link": "https://mediaman.de",
+      "contacts": [
+        {
+          "name": "Gerold Hinzen",
+          "email": "gerold.hinzen@mediaman.de"
+        }
+      ]
     }
   ]
 }
