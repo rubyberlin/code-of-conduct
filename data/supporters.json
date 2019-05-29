@@ -1294,6 +1294,26 @@
       ]
     },
     {
+      "name": "Hardware Hack Lab BCN",
+      "city": "Barcelona",
+      "country": "Spain",
+      "link": "https://hardwarehacklab.io/",
+      "twitter": "hardwarehacklab",
+      "contacts": [
+        {
+          "name": "Luca Nioi",
+          "phone": "+34 666 903 085",
+          "email": "lnioi@thoughtworks.com"
+        },
+        {
+          "name": "Julien Deswaef",
+          "twitter": "xuv",
+          "email": "julien.deswaef@thoughtworks.com",
+          "phone": "+1 646 427 4897"
+        }
+      ]
+    },
+    {
       "name": "C++::London",
       "city": "London",
       "country": "United Kingdom",
