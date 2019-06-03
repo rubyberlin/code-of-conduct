@@ -515,6 +515,20 @@
           "twitter": "JohannesHoppe"
         }
       ]
+    },
+    {
+      "name": "Angular Berlin",
+      "city": "Berlin",
+      "country": "Germany",
+      "link": "https://www.meetup.com/de-DE/AngularJS-Meetup-Berlin/",
+      "twitter": "angular_berlin",
+      "contacts": [
+        {
+          "name": "Martin Sonnenholzer",
+          "email": "martin@angular.berlin",
+          "twitter": "chaos_monster"
+        }
+      ]
     }
   ],
   "conferences": [
