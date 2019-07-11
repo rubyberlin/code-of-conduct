@@ -1959,6 +1959,22 @@
           "email": "gerold.hinzen@mediaman.de"
         }
       ]
+    },
+    {
+      "name": "FrOSCon",
+      "city": "Sankt Augustin",
+      "country": "Germany",
+      "link": "https://www.froscon.org",
+      "contacts": [
+        {
+          "name": "Naomi Rübel",
+          "phone": "+491626135855"
+        },
+        {
+          "name": "Sayeed Klewitz-Hommelsen",
+          "phone": "+4915253736456"
+        }
+      ]
     }
   ]
 }
