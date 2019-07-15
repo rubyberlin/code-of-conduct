@@ -65,4 +65,4 @@ Oczekujemy, że wszyscy uczestnicy społeczności (organizatorzy, zarówno opła
 Licencja i uznanie autorstwa
 ----------------------------
 
-Berliński Kodeks Postępowania jest rozpowszechniany na warunkach licencji [Creative Commons Uznanie autorstwa-Na tych samych warunkach (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.pl). Kodeks został stworzony na podstawie [pdx.rb code of conduct](http://pdxruby.org/codeofconduct).
+Berliński Kodeks Postępowania jest rozpowszechniany na warunkach licencji [Creative Commons Uznanie autorstwa-Na tych samych warunkach (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.pl). Kodeks został stworzony na podstawie [pdx.rb Code of Conduct](https://pdxruby.org/CONDUCT).
