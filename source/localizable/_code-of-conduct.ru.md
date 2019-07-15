@@ -65,4 +65,4 @@
 Лицензия и авторство
 -----------------------
 
-Данный Кодекс Поведения распространяется под лицензией [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Он основан на [pdx.rb code of conduct](http://pdxruby.org/codeofconduct).
+Данный Кодекс Поведения распространяется под лицензией [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Он основан на [Портленд Кодекс Поведения](https://pdxruby.org/CONDUCT).
