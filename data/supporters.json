@@ -1987,6 +1987,32 @@
           "email": "darko.supe@pwnconf.com"
         }
       ]
+    },
+    {
+      "name": "Gamedev.js Warsaw",
+      "city": "Warsaw",
+      "country": "Poland",
+      "link": "https://gamedevjs.pl",
+      "twitter": "gamedevjs",
+      "contacts": [
+        {
+          "name": "Andrzej Mazur",
+          "email": "andrzej.mazur@end3r.com"
+        }
+      ]
+    },
+    {
+      "name": "js13kGames",
+      "city": "Warsaw",
+      "country": "Poland",
+      "link": "https://js13kgames.com",
+      "twitter": "js13kgames",
+      "contacts": [
+        {
+          "name": "Andrzej Mazur",
+          "email": "contact@js13kgames.com"
+        }
+      ]
     }
   ]
 }
