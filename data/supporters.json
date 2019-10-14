@@ -2013,6 +2013,20 @@
           "email": "contact@js13kgames.com"
         }
       ]
+    },
+    {
+      "name": "WUELUG - Würzburg LabVIEW User Group",
+      "city": "Würzburg",
+      "country": "Germany",
+      "link": "http://bit.ly/WUELUG",
+      "contacts": [
+        {
+          "name": "Hampel Software Engineering",
+          "phone": "+49 931 78023687",
+          "email": "wuelug@hampel-soft.com",
+          "twitter": "hampel_software"
+        }
+      ]
     }
   ]
 }
