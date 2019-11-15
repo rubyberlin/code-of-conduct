@@ -2027,6 +2027,25 @@
           "twitter": "hampel_software"
         }
       ]
+    },
+    {
+      "name": "Clojure Day",
+      "city": "Kyiv",
+      "country": "Ukraine",
+      "link": "https://clojureday.in.ua/",
+      "contacts": [
+        {
+          "name": "Roman Liutikov",
+          "email": "roman01la@romanliutikov.com",
+          "twitter": "roman01la"
+        },
+        {
+          "name": "Ivan Tytarenko",
+          "email": "ititarenko@live.com",
+          "twitter": "zonzujiro"
+        }
+      ]
+
     }
   ]
 }
