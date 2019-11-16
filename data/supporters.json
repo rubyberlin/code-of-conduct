@@ -2027,6 +2027,19 @@
           "twitter": "hampel_software"
         }
       ]
+    },
+    {
+      "name": "Papi Berlin - die Community für aktive Väter*",
+      "city": "Berlin",
+      "country": "Germany",
+      "link": "http://papiberlin.de",
+      "contacts": [
+        {
+          "name": "Bodo Tasche",
+          "email": "bodo@tasche.me",
+          "twitter": "papiberlin"
+        }
+      ]
     }
   ]
 }
