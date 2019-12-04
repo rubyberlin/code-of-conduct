@@ -2058,6 +2058,32 @@
           "twitter": "papiberlin"
         }
       ]
+    },
+    {
+      "name": "Docker Rosenheim Meetup",
+      "city": "Rosenheim",
+      "country": "Germany",
+      "link": "https://www.meetup.com/Rosenheim-Docker-Meetup",
+      "contacts": [
+        {
+          "name": "Nico Meisenzahl",
+          "email": "nico.meisenzahl@whiteduck.de",
+          "twitter": "DockerRosenheim"
+        }
+      ]
+    },
+    {
+      "name": "Azure Meetup Rosenheim",
+      "city": "Rosenheim",
+      "country": "Germany",
+      "link": "https://www.meetup.com/Azure-Meetup-Rosenheim/",
+      "contacts": [
+        {
+          "name": "Nico Meisenzahl",
+          "email": "nico.meisenzahl@whiteduck.de",
+          "twitter": "AzureMeetup"
+        }
+      ]
     }
   ]
 }
