@@ -2027,6 +2027,19 @@
           "twitter": "hampel_software"
         }
       ]
+    },
+    {
+      "name": "Clojure 道場",
+      "city": "福岡",
+      "country": "日本",
+      "link": "https://florian-ishida.com/clj-dojo.html",
+      "contacts": [
+        {
+          "name": "石田 フローリアン",
+          "phone": "+81 80 2971 5232",
+          "email": "florian.ishida@mailbox.org"
+        }
+      ]
     }
   ]
 }

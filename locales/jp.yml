@@ -1,0 +1,11 @@
+---
+jp:
+  header:
+    title: "ベルリン行動規範は"
+    sub-title: "任意のユーザグループと会議で使用できる行動規範："
+  supporters:
+    title: "本行動規範の支持者"
+    sub-title: "ベルリン行行動規範の支持ユーザグループと会議："
+    add: "自分のユーザグループ又は会議をこのリストに追加するため、項目してから%{link:our repository}にプルリクエストして下さい。"
+  footer:
+    attribution: "本行動規範は%{link:pdx.rb code of conduct}.の行動規範に基づいています。"
