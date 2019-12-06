@@ -1,6 +1,20 @@
 {
   "usergroups": [
     {
+      "name": "Hamburg Coding School",
+      "city": "Hamburg",
+      "country": "Germany",
+      "link": "https://hamburgcodingschool.com/",
+      "twitter": "hhcodingschool",
+      "contacts": [
+        {
+          "name": "Teresa Holfeld",
+          "twitter": "TeresaHolfeld",
+          "email": "teresa@hamburgcodingschool.com"
+        }
+      ]
+    },
+    {
       "name": "EuRuKo 2017",
       "city": "Budapest",
       "country": "Hungary",
