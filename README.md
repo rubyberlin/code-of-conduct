@@ -7,7 +7,7 @@ Add Your User Group/Conference to the List
 ------------------------------------------
 
 1. Fork repository.
-2. Open *data/supporters.json* and add your name, location, 
+2. Open *data/supporters.json* and add your name, location,
 link and contact data.
   - Note that contact data is optional and public, but we recommend adding some.
 3. Check if site is working locally if possible (see [setup](#setup)).
@@ -36,7 +36,8 @@ Do you want to translate to another language? Great! If you want to translate fr
 1. Fork repository.
 2. Copy [*source/localizable/_code-of-conduct.en.md*](https://github.com/rubyberlin/code-of-conduct/blob/master/source/localizable/_code-of-conduct.en.md) to *source/localizable/_code-of-conduct.la.md* and edit it.
 2. Copy [*locales/en.md*](https://github.com/rubyberlin/code-of-conduct/blob/master/locales/en.yml) to *locales/la.md* and edit it.
-3. Open a pull request. We will try to find other native speakers and discuss it there. The discussion may look like [the one for the Spanish translation](https://github.com/rubyberlin/code-of-conduct/pull/23).
+3. Edit [*config.rb*](https://github.com/rubyberlin/code-of-conduct/blob/master/config.rb) and add 'la' to 'displayed_languages' like '%i(en de es pl fr it ru jp *la*)'
+4. Open a pull request. We will try to find other native speakers and discuss it there. The discussion may look like [the one for the Spanish translation](https://github.com/rubyberlin/code-of-conduct/pull/23).
 
 
 Setup
