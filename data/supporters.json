@@ -1,6 +1,20 @@
 {
   "usergroups": [
     {
+      "name": "Hamburg Coding School",
+      "city": "Hamburg",
+      "country": "Germany",
+      "link": "https://hamburgcodingschool.com/",
+      "twitter": "hhcodingschool",
+      "contacts": [
+        {
+          "name": "Teresa Holfeld",
+          "twitter": "TeresaHolfeld",
+          "email": "teresa@hamburgcodingschool.com"
+        }
+      ]
+    },
+    {
       "name": "EuRuKo 2017",
       "city": "Budapest",
       "country": "Hungary",
@@ -2025,6 +2039,63 @@
           "phone": "+49 931 78023687",
           "email": "wuelug@hampel-soft.com",
           "twitter": "hampel_software"
+        }
+      ]
+    },
+    {
+      "name": "Clojure Day",
+      "city": "Kyiv",
+      "country": "Ukraine",
+      "link": "https://clojureday.in.ua/",
+      "contacts": [
+        {
+          "name": "Roman Liutikov",
+          "email": "roman01la@romanliutikov.com",
+          "twitter": "roman01la"
+        },
+        {
+          "name": "Ivan Tytarenko",
+          "email": "ititarenko@live.com",
+          "twitter": "zonzujiro"
+        }
+      ]
+    },
+    {
+      "name": "Papi Berlin - die Community für aktive Väter*",
+      "city": "Berlin",
+      "country": "Germany",
+      "link": "http://papiberlin.de",
+      "contacts": [
+        {
+          "name": "Bodo Tasche",
+          "email": "bodo@tasche.me",
+          "twitter": "papiberlin"
+        }
+      ]
+    },
+    {
+      "name": "Docker Rosenheim Meetup",
+      "city": "Rosenheim",
+      "country": "Germany",
+      "link": "https://www.meetup.com/Rosenheim-Docker-Meetup",
+      "contacts": [
+        {
+          "name": "Nico Meisenzahl",
+          "email": "nico.meisenzahl@whiteduck.de",
+          "twitter": "DockerRosenheim"
+        }
+      ]
+    },
+    {
+      "name": "Azure Meetup Rosenheim",
+      "city": "Rosenheim",
+      "country": "Germany",
+      "link": "https://www.meetup.com/Azure-Meetup-Rosenheim/",
+      "contacts": [
+        {
+          "name": "Nico Meisenzahl",
+          "email": "nico.meisenzahl@whiteduck.de",
+          "twitter": "AzureMeetup"
         }
       ]
     },
