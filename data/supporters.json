@@ -2100,6 +2100,24 @@
       ]
     },
     {
+      "name": "AWS Beirut User Group",
+      "city": "Beirut",
+      "country": "Lebanon",
+      "link": "https://www.meetup.com/AWS-Lebanon/",
+      "contacts": [
+        {
+          "name": "Anas Khattar",
+          "email": "anas@digico.me",
+          "twitter": "anaskhattar"
+        },
+        {
+          "name": "Rakan Nimer",
+          "email": "rakannimer@gmail.com",
+          "twitter": "rakannimer"
+        }
+      ]
+    },
+    {
       "name": "Clojure 道場",
       "city": "福岡市",
       "country": "日本",
@@ -2108,7 +2126,7 @@
         {
           "name": "石田 フローリアン",
           "phone": "+81 80 2971 5232"
-        }
+	}
       ]
     }
   ]
