@@ -2098,6 +2098,24 @@
           "twitter": "AzureMeetup"
         }
       ]
+    },
+    {
+      "name": "AWS Beirut User Group",
+      "city": "Beirut",
+      "country": "Lebanon",
+      "link": "https://www.meetup.com/AWS-Lebanon/",
+      "contacts": [
+        {
+          "name": "Anas Khattar",
+          "email": "anas@digico.me",
+          "twitter": "anaskhattar"
+        },
+        {
+          "name": "Rakan Nimer",
+          "email": "rakannimer@gmail.com",
+          "twitter": "rakannimer"
+        }
+      ]
     }
   ]
 }
