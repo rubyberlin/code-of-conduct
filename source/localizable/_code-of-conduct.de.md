@@ -13,7 +13,7 @@ Open [Source/Culture/Tech] Citizenship
 
 Ein zusätzliches Ziel dieses Verhaltenskodexes ist es, die Open [Source/Culture/Tech] Citizenship zu stärken. Insofern ermutigen wir unsere Teilnehmenden, die Beziehungen zwischen Handlungen und deren Auswirkungen auf unsere Community zu erkennen und zu stärken.
 
-Communities spiegeln die Gesellschaften wider, in denen sie existieren. Positive Handlungen sind unerlässlich, um den vielen Formen von Ungleichheit und Machtmissbrauch in der Gesellschaft entgegenzuwirken.
+Communities spiegeln die Gesellschaften wider, in denen sie existieren. Positive Handlungen sind unerlässlich, um den vielen Formen von Ungerechtigkeit und Machtmissbrauch in der Gesellschaft entgegenzuwirken.
 
 Wenn du Personen begegnest, die sich viel Mühe geben, unsere Community einladend und freundlich zu gestalten und alle Teilnehmenden dazu anregt, sich voll einzubringen, würden wir gerne davon hören.
 
