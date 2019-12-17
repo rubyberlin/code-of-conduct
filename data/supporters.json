@@ -1,6 +1,21 @@
 {
   "usergroups": [
     {
+      "name": "UpLeveled Coding Bootcamp",
+      "city": "Vienna",
+      "country": "Austria",
+      "link": "https://upleveled.io",
+      "twitter": "getupleveled",
+      "contacts": [
+        {
+          "name": "Antje Enzi",
+          "phone": "+43 670 407 0928",
+          "email": "antje@upleveled.io",
+          "twitter": "Anjilo16"
+        }
+      ]
+    },
+    {
       "name": "Hamburg Coding School",
       "city": "Hamburg",
       "country": "Germany",
