@@ -2141,7 +2141,20 @@
         {
           "name": "石田 フローリアン",
           "phone": "+81 80 2971 5232"
-	}
+	       }
+      ]
+    },
+    {
+      "name": "FOSS4G Europe 2020",
+      "city": "Valmiera",
+      "country": "Latvia",
+      "link": "https://2020.europe.foss4g.org/",
+      "contacts": [
+        {
+          "name": "Peteris Bruns",
+          "email": "peteris.bruns@gmail.com",
+          "twitter": "foss4ge"
+        },
       ]
     }
   ]
