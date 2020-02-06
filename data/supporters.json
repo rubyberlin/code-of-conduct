@@ -2154,7 +2154,20 @@
           "name": "Peteris Bruns",
           "email": "peteris.bruns@gmail.com",
           "twitter": "foss4ge"
-        },
+        }
+      ]
+    },
+    {
+      "name": "Functional Fest 2020",
+      "city": "Bologna",
+      "country": "Italy",
+      "link": "https://www.functionalfest.com/",
+      "twitter": "functionalfest",
+      "contacts": [
+        {
+          "name": "Functional Fest",
+          "email": "functionalfest@gmail.com"
+        }
       ]
     }
   ]
