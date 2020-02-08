@@ -2167,6 +2167,25 @@
         {
           "name": "Functional Fest",
           "email": "functionalfest@gmail.com"
+      }]
+    },
+    {
+      "name": "DevOps Berlin Meetup",
+      "city": "Berlin",
+      "country": "Germany",
+      "link": "https://www.meetup.com/blndevops/",
+      "twitter": "blndevops",
+      "contacts": [{
+          "name": "Sebastian Striebig"
+        },
+        {
+          "name": "Yair Etziony"
+        },
+        {
+          "name": "Timo Sand",
+          "email": "timo.sand@iki.fi",
+          "twitter": "deiga",
+          "phone": "+49 176 856 17539"
         }
       ]
     }
