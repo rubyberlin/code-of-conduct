@@ -2194,6 +2194,30 @@
           "phone": "+49 176 856 17539"
         }
       ]
+    },
+    {
+      "name": "Azure Meetup Berlin",
+      "city": "Berlin",
+      "country": "Germany",
+      "link": "https://www.meetup.com/Berlin-Microsoft-Azure-Meetup/",
+      "twitter": "Azure_Berlin",
+      "contacts": [
+        {
+          "name": "Azure Meetup Berlin",
+          "email": "orga@azure-berlin.de"
+        },
+        {
+          "name": "Tyrone Guiamo"
+        },
+        {
+          "name": "Mia Chang",
+          "twitter": "bymiachang"
+        },
+        {
+          "name": "Sebastian Schütze",
+          "twitter": "RazorSPoint"
+        }     
+      ]
     }
   ]
 }
