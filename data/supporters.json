@@ -2218,6 +2218,19 @@
           "twitter": "RazorSPoint"
         }     
       ]
+    },
+    {
+      "name": "Titanium Slack Community",
+      "city": "Slack",
+      "country": "Worldwide",
+      "link": "https://tislack.org",
+      "contacts": [
+        {
+          "name": "Rene Pot",
+          "email": "rene@topener.nl",
+          "twitter": "ti_slack"
+        }
+      ]
     }
   ]
 }
