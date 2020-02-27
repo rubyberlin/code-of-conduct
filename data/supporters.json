@@ -2231,6 +2231,23 @@
           "twitter": "ti_slack"
         }
       ]
+    },
+    {
+      "name": "WMN",
+      "city": "Berlin",
+      "country": "Germany",
+      "link": "https://wmn.digital",
+      "contacts": [
+        {
+          "name": "Sarah Hoidn",
+          "email": "sarah.hoidn@turbinekreuzberg.com"
+        },
+        {
+          "name": "Lena Lidl",
+          "email": "lena.lidl@turbinekreuzberg.com",
+          "twitter": "lenalidl"
+        }
+      ]
     }
   ]
 }
