@@ -2246,6 +2246,24 @@
           "name": "Lena Lidl",
           "email": "lena.lidl@turbinekreuzberg.com",
           "twitter": "lenalidl"
+        },
+    {
+      "name": "ADEF",
+      "city": "Cairo",
+      "country": "Egypt",
+      "link": "https://adef.xyz",
+      "contacts": [
+        {
+          "name": "Ranwa Yahia",
+          "email": "ranwayehia@arabdigitalexpression.org"
+        },
+        {
+          "name": "Raafat Elbayoumi",
+          "email": "raafat@arabdigitalexpression.org"
+        },
+        {
+          "name": "Aya Hesham",
+          "email": "ayahesham@arabdigitalexpression.org"
         }
       ]
     }
