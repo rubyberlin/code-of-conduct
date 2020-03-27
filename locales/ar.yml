@@ -1,0 +1,11 @@
+---
+ar:
+  header:
+    title: "مدوّنة برلين للسلوك"
+    sub-title: "مدوّنة سلوك لكل المجموعات و الفعاليات"
+  supporters:
+    title: "المتبنّون"
+    sub-title: "المجموعات و الفعاليات التالية تتبنّى مدونة برلين للسلوك:"
+    add: "لإدراج مجموعة أو فعالية هنا أضفها في طلب سحب في %{link:our repository}."
+  footer:
+    attribution: "مدوّنة السلوك هذه مقتبسة من %{link:pdx.rb code of conduct}."
