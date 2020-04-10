@@ -2268,6 +2268,25 @@
           "email": "ayahesham@arabdigitalexpression.org"
         }
       ]
-    }
+    },
+    {
+      "name": "Barcamp Hannover e.V.",
+      "city": "Hannover",
+      "country": "Germany",
+      "link": "https://barcamphannover.de",
+      "twitter": "barcamphannover",
+      "contacts": [
+        {
+          "name": "Rene Christian Glembotzky",
+          "twitter": "glembotzky",
+          "email": "rene@barcamphannover.de"
+        },
+        {
+          "name": "Theresa Röhrle",
+          "twitter": "theresaroehrle",
+          "email": "theresa@barcamphannover.de"
+        }
+      ]
+    },
   ]
 }
