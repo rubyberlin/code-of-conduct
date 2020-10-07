@@ -1,73 +1,69 @@
-Purpose
+Účel
 -------
 
-A primary goal of all the conferences and user groups that refer to this Code of Conduct is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status and religion (or lack thereof).
+Hlavním cílem všech konferencí a kommunit, které odkazují na tento kodex chování, je zahrnout co největší počet přispěvatelů s co nejrůznějším a nejrůznorodějším §zázemím§. Zavazujeme se zajistit/poskytnout přátelské, bezpečné a přívětivé prostředí pro všechny bez ohledu na jejich pohlaví, sexuální orientaci, §schopnosti/handicap§, etnickou příslušnost, socioekonomický status a náboženství (nebo jeho nevyznávání).
 
-This Code of Conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
+Tento kodex chování nastiňuje očekávání od účastníků našich komunitních setkání, a vyjmenovává důsledky v případě nepřijatelného chování.
 
-We invite all those who participate in our events to help us create safe and positive experiences for everyone.
+Žádáme všechny, kteří se účastní našich akcí, aby nám pomohli vytvořit bezpečné prostředí a pozitivní zážitky pro všechny.
 
 
 Open [Source/Culture/Tech] Citizenship
 --------------------------------------
 
-A supplemental goal of this Code of Conduct is to increase open [source/culture/tech] citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
+Dodatečným cílem tohoto kodexu chování je zvýšit otevřené [zdrojové / kulturní / technologické] občanství povzbuzováním účastníků k uznávání a posilování vztahů mezi našimi akcemi a jejich dopady na naši komunitu.
 
-Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society.
+Komunity odrážejí společnosti, ve kterých existují, a pozitivní akce je nezbytná k vyrovnání se s mnoha formami nerovnosti a zneužívání moci, které ve společnosti existují.
 
-If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know.
+Pokud uvidíte někoho, kdo vynakládá větší úsilí, aby zajistil, že naše komunita je vstřícná, přátelská a povzbuzuje všechny účastníky, aby přispěli v plném rozsahu, chceme to vědět.
 
 
-Expected Behavior
+Očekávané chování
 -----------------
 
-*	Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
-*	Exercise consideration and respect in your speech and actions.
-*	Attempt collaboration before conflict.
-*	Refrain from demeaning, discriminatory, or harassing behavior and speech.
-*	Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
+* Účastněte se akce autentickým a aktivním způsobem. Tím přispějete ke zdraví této komunity.
+* Při projevu a jednání buďte ohleduplní a respektujte ostatní i jejich názory a postoje.
+* Snažte se o diskuzi, nevyvolávejte konflikt.
+* Zdržujte se ponižujícího, diskriminačního nebo obtěžujícího chování a mluvě.
+* Dbejte na své okolí a na ostatní účastnice a účastníky. Upozorněte organizátory setkání nebo konference, pokud si všimnete nebezpečné situace, někoho v nouzi nebo porušení tohoto Kodexu chování, i když se zdá, že je to bezvýznamné.
 
 
-Unacceptable Behavior
+Nepřijatelné chování
 ---------------------
 
-Unacceptable behaviors include: intimidating, harassing, abusive, discriminatory, derogatory or demeaning speech or actions by any participant in our community online, at all related events and in one-on-one communications carried out in the context of community business. Community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
+Mezi nepřijatelné chování patří: zastrašující, obtěžující, urážlivé, diskriminační, hanlivé nebo ponižující projevy nebo činy kterékoliv účastnice a kteréhokoli účastníka v komunitě online, offline, při všech souvisejících událostech a při individuální komunikaci prováděné v souvislosti s komunitou. Setkání komunity mohou být uskutečňována na místech, kde je přítomna veřejnost; respektujte všechny přítomné na těchto místech.
 
-Harassment includes: harmful or prejudicial verbal or written comments related to gender, sexual orientation, race, religion, disability; inappropriate use of nudity and/or sexual images (including presentation slides); inappropriate depictions of violence (including presentation slides); deliberate intimidation, stalking or following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact, and unwelcome sexual attention.
+Mezi obtěžování patří: škodlivé nebo předpojaté slovní nebo písemné komentáře týkající se pohlaví, sexuální orientace, rasy, náboženství, zdravotního postižení; nevhodné použití nahoty a / nebo sexuálních obrázků (včetně prezentačních snímků); nevhodné vyobrazení násilí (včetně prezentačních snímků); úmyslné zastrašování, pronásledování nebo následování; obtěžující fotografování nebo nahrávání; trvalé narušování rozhovorů nebo jiných událostí; nevhodný fyzický kontakt a nevítaná sexuální pozornost.
 
 
-Consequences of Unacceptable Behavior
+Důsledky nepřijatelného chování
 -------------------------------------
 
-Unacceptable behavior from any community member, including sponsors and those with decision-making authority, will not be tolerated.
-Anyone asked to stop unacceptable behavior is expected to comply immediately.
+Nepřijatelné chování členky/člena komunity, včetně sponzorů a osob s rozhodovací pravomocí, nebude tolerováno.
+Očekává se, že kdokoli, kdo bude požádán o zastavení nepřijatelného chování, tak učiní okamžitě.
 
-If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event).
+Pokud se členka/člen komunity zapojí do nepřijatelného chování, mohou organizátoři komunity podniknout jakékoli kroky, které uznají za vhodné, a to včetně dočasného zákazu nebo trvalého vyloučení z komunity bez varování (a v případě placené akce bez náhrady).
 
 
-If You Witness or Are Subject to Unacceptable Behavior
+Pokud jste svědkyní/svědkem nebo jste obětí nepřijatelného chování
 ------------------------------------------------------
 
-If you are subject to or witness unacceptable behavior,
-or have any other concerns, please notify a community organizer as soon as
-possible. You can find a list of organizers to contact for each of the
-supporters of this code of conduct at the bottom of this page. Additionally,
-community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
+Pokud jste vystaveni nebo jste svědkyní/svědkem nepřijatelného chování, nebo máte jakékoli další obavy, oznamte to prosím co nejdříve organizátorce/organizátorovi komunity. Seznam organizátorek/organizátorů, se kterými se můžete spojit, naleznete na konci tohoto kodexu chování. Organizátorky/Organizátoři komunity jsou k dispozici, aby pomohli členkám/členům komunity, které/kteří jsou obětí nepřijatelného chování. Organizátorky a organizátoři jsou také k dispozci, aby pomohli obětem spolupracovat s místními donucovacími orgány. Pokud si osoba, která byla obětí nepřijetelného chování, přeje doprovod, bude jí doprovod poskytnut organizátory. 
 
 
-Addressing Grievances
+Řešení stížností
 ---------------------
 
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify one of the event organizers with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies.
+Pokud máte pocit, že jste byli falešně nebo nespravedlivě obviněni z porušení tohoto Kodexu chování, informujte jednoho z organizátorů akce se stručným popisem vaší stížnosti. Vaše stížnost bude vyřízena v souladu s našimi stávajícími zásadami.
 
 
-Scope
+Rozsah
 -----
 
-We expect all community participants (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues—online and in-person—as well as in all one-on-one communications pertaining to community business.
+Očekáváme, že všichni členové komunity (přispěvatelé, placení či jiní; sponzoři a další hosté) budou dodržovat tento Kodex chování na všech místech, kde se komunita setkává - online i osobně - a také ve všech individuálních komunikacích týkajících se komunity.
 
 
-License and attribution
+Licence a uvedení zdroje
 -----------------------
 
-Berlin Code of Conduct is distributed under a [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) license. It is based on the [pdx.rb Code of Conduct](https://pdxruby.org/CONDUCT).
+Berlínský kodex chování je distribuován s licení [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Tento kodex chování je založen na [pdx.rb Code of Conduct](https://pdxruby.org/CONDUCT).
