@@ -1,0 +1,12 @@
+---
+en:
+  header:
+    title: "Berlínsky kodex chování"
+    sub-title: "Kodex chování pro setkání komunit a konference"
+  supporters:
+    title: "Podporovatelé"
+    sub-title: "Tyto komunity a konference podporují dodržování Berlínského kodexu chování:"
+    add: "Chcete-li zde uvést název své konference nebo komunity, vytvořte pull request do %{link:our repository}."
+  footer:
+    attribution: "Tento kodex chování je převzat z %{link:pdx.rb code of conduct}."
+
