@@ -2275,6 +2275,25 @@
           "email": "theresa@barcamphannover.de"
         }
       ]
+    },
+    {
+      "name": "OxidizeConf",
+      "city": "Berlin, online",
+      "country": "Germany",
+      "link": "https://oxidizeconf.com",
+      "twitter": "oxidizeconf",
+      "contacts": [
+        {
+          "name": "Florian Gilcher",
+          "twitter": "argorak",
+          "email": "florian.gilcher@ferrous-systems.com"
+        },
+        {
+          "name": "James Munns",
+          "twitter": "bitshiftmask",
+          "email": "james.munns@ferrous-systems.com"
+        }
+      ]
     }
   ]
 }
