@@ -2179,8 +2179,8 @@
         {
           "name": "Sebastian Schütze",
           "twitter": "RazorSPoint",
-	  "email": "sebastian.schuetze@razorspoint.com",
-        }     
+          "email": "sebastian.schuetze@razorspoint.com"
+        }
       ]
     },
     {
@@ -2212,7 +2212,7 @@
           "twitter": "lenalidl"
         }
       ]
-	},
+    },
     {
       "name": "ADEF",
       "city": "Cairo",
