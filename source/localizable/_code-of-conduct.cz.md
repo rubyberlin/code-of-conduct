@@ -1,39 +1,39 @@
 Účel
 -------
 
-Hlavním cílem všech konferencí a kommunit, které odkazují na tento kodex chování, je zahrnout co největší počet přispěvatelů s co nejrůznějším a nejrůznorodějším §zázemím§. Zavazujeme se zajistit/poskytnout přátelské, bezpečné a přívětivé prostředí pro všechny bez ohledu na jejich pohlaví, sexuální orientaci, §schopnosti/handicap§, etnickou příslušnost, socioekonomický status a náboženství (nebo jeho nevyznávání).
+Hlavním cílem všech konferencí a kommunit, které odkazují na tento Kodex chování, je zahrnout co největší počet osob s co nejrůznějším a nejrůznorodějším původem. Z toho důvodu se zavazujeme zajistit přátelské, bezpečné a přívětivé prostředí pro všechny bez ohledu na jejich pohlaví, sexuální orientaci, mentální nebo fyzický handicap, etnickou příslušnost, socioekonomický status a postoj k náboženství.
 
-Tento kodex chování nastiňuje očekávání od účastníků našich komunitních setkání, a vyjmenovává důsledky v případě nepřijatelného chování.
+Tento Kodex chování nastavuje očekávání od účastníků našich komunitních setkání a konferencí, a vyjmenovává důsledky v případě nepřijatelného chování.
 
 Žádáme všechny, kteří se účastní našich akcí, aby nám pomohli vytvořit bezpečné prostředí a pozitivní zážitky pro všechny.
 
 
-Open [Source/Culture/Tech] Citizenship
+Pocit otevřeného občanství = Open [Source/Culture/Tech] Citizenship
 --------------------------------------
 
-Dodatečným cílem tohoto kodexu chování je zvýšit otevřené [zdrojové / kulturní / technologické] občanství povzbuzováním účastníků k uznávání a posilování vztahů mezi našimi akcemi a jejich dopady na naši komunitu.
+Dodatečným cílem tohoto Kodexu chování je zvýšit pocit otevřeného občanství povzbuzováním účastníků k uznávání a posilování vazeb mezi jejich chováním a jeho dopady na naši komunitu.
 
-Komunity odrážejí společnosti, ve kterých existují, a pozitivní akce je nezbytná k vyrovnání se s mnoha formami nerovnosti a zneužívání moci, které ve společnosti existují.
+Komunity odrážejí společnost, ve které se nacházejí. Proto je nezbytný pozitivní vliv, aby došlo k vyrovnání se s mnoha formami nerovnosti a zneužívání moci, které ve společnosti existují.
 
-Pokud uvidíte někoho, kdo vynakládá větší úsilí, aby zajistil, že naše komunita je vstřícná, přátelská a povzbuzuje všechny účastníky, aby přispěli v plném rozsahu, chceme to vědět.
+Prosím dejte nám vědět, pokud uvidíte někoho, kdo vynakládá větší úsilí, aby zajistil, že naše komunita je vstřícná, přátelská a povzbuzuje všechny účastníky.
 
 
 Očekávané chování
 -----------------
 
-* Účastněte se akce autentickým a aktivním způsobem. Tím přispějete ke zdraví této komunity.
-* Při projevu a jednání buďte ohleduplní a respektujte ostatní i jejich názory a postoje.
+* Účastněte se autentickým a aktivním způsobem. Tím přispějete ke zdraví a dlouhověkosti této komunity.
+* Při projevu a jednání s ostatními buďte ohleduplní a respektujte je včetně jejich názorů a postojů.
 * Snažte se o diskuzi, nevyvolávejte konflikt.
-* Zdržujte se ponižujícího, diskriminačního nebo obtěžujícího chování a mluvě.
-* Dbejte na své okolí a na ostatní účastnice a účastníky. Upozorněte organizátory setkání nebo konference, pokud si všimnete nebezpečné situace, někoho v nouzi nebo porušení tohoto Kodexu chování, i když se zdá, že je to bezvýznamné.
+* Zdržte se ponižujícího, diskriminačního nebo obtěžujícího chování a řeči.
+* Dbejte na své okolí a na ostatní účastnice a účastníky. Upozorněte organizátorky a organizátory setkání nebo konference, pokud si všimnete nebezpečné situace, někoho v nouzi nebo porušení tohoto Kodexu chování, i když se zdá, že jde o maličkost.
 
 
 Nepřijatelné chování
 ---------------------
 
-Mezi nepřijatelné chování patří: zastrašující, obtěžující, urážlivé, diskriminační, hanlivé nebo ponižující projevy nebo činy kterékoliv účastnice a kteréhokoli účastníka v komunitě online, offline, při všech souvisejících událostech a při individuální komunikaci prováděné v souvislosti s komunitou. Setkání komunity mohou být uskutečňována na místech, kde je přítomna veřejnost; respektujte všechny přítomné na těchto místech.
+Mezi nepřijatelné chování patří: zastrašující, obtěžující, urážlivé, diskriminační, hanlivé nebo ponižující projevy nebo činy kterékoliv účastnice a kteréhokoliv účastníka v komunitě online, offline, při všech souvisejících událostech a při individuální komunikaci prováděné v souvislosti s komunitou. Setkání komunity mohou být uskutečňována na místech, kde je přítomna veřejnost; respektujte všechny přítomné, i když nejsou součástí komunity.
 
-Mezi obtěžování patří: škodlivé nebo předpojaté slovní nebo písemné komentáře týkající se pohlaví, sexuální orientace, rasy, náboženství, zdravotního postižení; nevhodné použití nahoty a / nebo sexuálních obrázků (včetně prezentačních snímků); nevhodné vyobrazení násilí (včetně prezentačních snímků); úmyslné zastrašování, pronásledování nebo následování; obtěžující fotografování nebo nahrávání; trvalé narušování rozhovorů nebo jiných událostí; nevhodný fyzický kontakt a nevítaná sexuální pozornost.
+Mezi obtěžování patří: škodlivé nebo předpojaté slovní nebo písemné komentáře týkající se pohlaví, sexuální orientace, rasy, náboženství, zdravotního handicapu; nevhodné použití nahoty a / nebo sexuálních obrázků (včetně prezentačních snímků); nevhodné vyobrazení násilí (včetně prezentačních snímků); úmyslné zastrašování, pronásledování nebo následování; obtěžující fotografování nebo nahrávání; trvalé narušování rozhovorů nebo jiných událostí; nevhodný fyzický kontakt a nevítaná sexuální pozornost.
 
 
 Důsledky nepřijatelného chování
@@ -42,13 +42,13 @@ Důsledky nepřijatelného chování
 Nepřijatelné chování členky/člena komunity, včetně sponzorů a osob s rozhodovací pravomocí, nebude tolerováno.
 Očekává se, že kdokoli, kdo bude požádán o zastavení nepřijatelného chování, tak učiní okamžitě.
 
-Pokud se členka/člen komunity zapojí do nepřijatelného chování, mohou organizátoři komunity podniknout jakékoli kroky, které uznají za vhodné, a to včetně dočasného zákazu nebo trvalého vyloučení z komunity bez varování (a v případě placené akce bez náhrady).
+Pokud se členka/člen komunity chová nepřijatelně, mohou organizátoři komunity podniknout jakékoli kroky, které uznají za vhodné, a to včetně dočasného zákazu nebo trvalého vyloučení z komunity bez varování (a v případě placené akce bez náhrady).
 
 
 Pokud jste svědkyní/svědkem nebo jste obětí nepřijatelného chování
 ------------------------------------------------------
 
-Pokud jste vystaveni nebo jste svědkyní/svědkem nepřijatelného chování, nebo máte jakékoli další obavy, oznamte to prosím co nejdříve organizátorce/organizátorovi komunity. Seznam organizátorek/organizátorů, se kterými se můžete spojit, naleznete na konci tohoto kodexu chování. Organizátorky/Organizátoři komunity jsou k dispozici, aby pomohli členkám/členům komunity, které/kteří jsou obětí nepřijatelného chování. Organizátorky a organizátoři jsou také k dispozci, aby pomohli obětem spolupracovat s místními donucovacími orgány. Pokud si osoba, která byla obětí nepřijetelného chování, přeje doprovod, bude jí doprovod poskytnut organizátory. 
+Pokud jste vystaveni nebo jste svědkyní/svědkem nepřijatelného chování, nebo máte jakékoli další obavy, oznamte to prosím co nejdříve organizátorce/organizátorovi komunity nebo konference. Seznam organizátorek/organizátorů, se kterými se můžete spojit, naleznete na konci tohoto Kodexu chování. Organizátorky/Organizátoři komunity jsou k dispozici, aby pomohli členkám/členům komunity, které/kteří jsou obětí nepřijatelného chování. Organizátorky a organizátoři jsou také k dispozici, aby pomohli obětem spolupracovat s místními orgány veřejné moci. Pokud si osoba, která byla obětí nepřijetelného chování, přeje doprovod, bude jí doprovod poskytnut organizátory. 
 
 
 Řešení stížností
@@ -60,10 +60,10 @@ Pokud máte pocit, že jste byli falešně nebo nespravedlivě obviněni z poru�
 Rozsah
 -----
 
-Očekáváme, že všichni členové komunity (přispěvatelé, placení či jiní; sponzoři a další hosté) budou dodržovat tento Kodex chování na všech místech, kde se komunita setkává - online i osobně - a také ve všech individuálních komunikacích týkajících se komunity.
+Očekáváme, že všechny členky a všichni členové komunity (přispěvatelé, placení či jiní; sponzoři a další hosté) budou dodržovat tento Kodex chování na všech místech, kde se komunita setkává - online i osobně - a také ve všech individuálních komunikacích týkajících se komunity.
 
 
 Licence a uvedení zdroje
 -----------------------
 
-Berlínský kodex chování je distribuován s licení [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Tento kodex chování je založen na [pdx.rb Code of Conduct](https://pdxruby.org/CONDUCT).
+Berlínský kodex chování je distribuován s licencí [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). Tento kodex chování je založen na [pdx.rb Code of Conduct](https://pdxruby.org/CONDUCT).
