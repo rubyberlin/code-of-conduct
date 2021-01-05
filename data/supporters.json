@@ -558,6 +558,43 @@
           "twitter": "chaos_monster"
         }
       ]
+    },
+    {
+      "name": "Elm Berlin Meetup",
+      "city": "Berlin, online",
+      "country": "Germany",
+      "link": "https://www.meetup.com/Elm-Berlin/",
+      "contacts": [
+        {
+          "name": "Andrey Kuzmin",
+          "twitter": "unsoundscapes",
+          "email": "unsoundscapes@gmail.com"
+        },
+        {
+          "name": "Michael Glass",
+          "twitter": "michaelglass",
+          "email": "me@mike.is"
+        }
+      ]
+    },
+    {
+      "name": "ElmBridge Berlin",
+      "city": "Berlin, online",
+      "country": "Germany",
+      "link": "https://www.bridgetroll.org",
+      "twitter": "elmlangbridge",
+      "contacts": [
+        {
+          "name": "Michael Glass",
+          "twitter": "michaelglass",
+          "email": "me@mike.is"
+        },
+        {
+          "name": "Andrey Kuzmin",
+          "twitter": "unsoundscapes",
+          "email": "unsoundscapes@gmail.com"
+        }
+      ]
     }
   ],
   "conferences": [
