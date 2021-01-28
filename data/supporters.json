@@ -2307,6 +2307,24 @@
           "email": "james.munns@ferrous-systems.com"
         }
       ]
+    },
+    {
+      "name": "Graphics Programming Virtual Meetup",
+      "city": "online",
+      "country": "Worldwide",
+      "link": "https://www.meetup.com/Graphics-Programming-Virtual-Meetup/",
+      "twitter": "GraphicMeetup",
+      "contacts": [
+        {
+          "name": "Lesley Lai",
+          "twitter": "LesleyLai6",
+          "email": "lesley@lesleylai.info"
+        },
+        {
+          "name": "Charles Giessen",
+          "twitter": "charlesgiessen"
+        }
+      ]
     }
   ]
 }
