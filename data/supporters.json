@@ -1857,15 +1857,17 @@
       "contacts": [
         {
           "name": "Piotr Zientara",
-          "twitter": "Piotr_Zientara"
+          "twitter": "Piotr_Zientara",
+          "email": "tuhaj@warsawjs.com"
         },
         {
-          "name": "Piotr Kowalski",
-          "twitter": "piecioshka"
+          "name": "Anna Dławichowska",
+          "twitter": "AnDlawich",
+          "email": "anna.dlawichowska@warsawjs.com"
         },
         {
-          "name": "Katarzyna Grabowska",
-          "twitter": "kasiarzyna25"
+          "name": "Mirosław Stasiak", 
+          "email": "mirek@warsawjs.com"
         }
       ]
     },
