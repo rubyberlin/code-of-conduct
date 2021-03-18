@@ -33,7 +33,7 @@ Nepřijatelné chování
 
 Mezi nepřijatelné chování patří: zastrašující, obtěžující, urážlivé, diskriminační, hanlivé nebo ponižující projevy nebo činy kterékoliv účastnice a kteréhokoliv účastníka v komunitě online, offline, při všech souvisejících událostech a při individuální komunikaci prováděné v souvislosti s komunitou. Setkání komunity mohou být uskutečňována na místech, kde je přítomna veřejnost; respektujte všechny přítomné, i když nejsou součástí komunity.
 
-Mezi obtěžování patří: škodlivé nebo předpojaté slovní nebo písemné komentáře týkající se pohlaví, sexuální orientace, rasy, náboženství, zdravotního handicapu; nevhodné použití nahoty a / nebo sexuálních obrázků (včetně prezentačních snímků); nevhodné vyobrazení násilí (včetně prezentačních snímků); úmyslné zastrašování, pronásledování nebo následování; obtěžující fotografování nebo nahrávání; trvalé narušování rozhovorů nebo jiných událostí; nevhodný fyzický kontakt a nevítaná sexuální pozornost.
+Mezi obtěžování patří: škodlivé nebo předpojaté slovní nebo písemné komentáře týkající se pohlaví, sexuální orientace, rasy, náboženství, zdravotního handicapu; nevhodné použití nahoty a / nebo sexuálních obrázků (včetně prezentačních snímků); nevhodné vyobrazení násilí (včetně prezentačních snímků); úmyslné zastrašování, pronásledování nebo sledování; obtěžující fotografování nebo nahrávání; trvalé narušování rozhovorů nebo jiných událostí; nevhodný fyzický kontakt a nevítaná sexuální pozornost.
 
 
 Důsledky nepřijatelného chování
