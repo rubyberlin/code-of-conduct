@@ -1,6 +1,25 @@
 {
   "usergroups": [
     {
+      "name": "Scalabase",
+      "city": "online",
+      "country": "Worldwide",
+      "link": "http://www.scalabaseconf.com",
+      "twitter": "scala_base",
+      "contacts": [
+        {
+          "name": "Amina Adewusi",
+          "email": "amina.adewusi@guardian.co.uk",
+          "twitter": "a_adewusi"
+        },
+        {
+          "name": "Jorge Galindo",
+          "email": "jorge@47deg.com",
+          "twitter": "Jorge__Galindo"
+        }
+      ]
+    },
+    {
       "name": "UpLeveled Coding Bootcamp",
       "city": "Vienna",
       "country": "Austria",
