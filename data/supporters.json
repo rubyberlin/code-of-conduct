@@ -1,6 +1,19 @@
 {
   "usergroups": [
     {
+      "name": "dotfmp.berlin",
+      "city": "Berlin",
+      "country": "Germany",
+      "link": "https://dotfmp.berlin",
+      "twitter": "dotfmp",
+      "contacts": [
+        {
+          "name": "pixi",
+          "email": "coc@dotfmp.berlin",
+        }
+      ]
+    },
+    {
       "name": "Scalabase",
       "city": "online",
       "country": "Worldwide",
