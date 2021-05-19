@@ -2358,6 +2358,21 @@
           "twitter": "charlesgiessen"
         }
       ]
+    },
+    {
+      "name": "OpenValue Meetup",
+      "city": "Utrecht, Dusseldorf, Munich, Vienna, Zurich",
+      "country": "Netherlands, Germany, Austria, Switzerland",
+      "link": "https://meetup.com/pro/openvalue",
+      "twitter": "OpenValue",
+      "contacts": [
+        {
+          "name": "Bert Jan Schrijver",
+          "email": "bertjan@openvalue.eu",
+          "twitter": "bjschrijver"
+        }
+      ]
     }
+
   ]
 }
