@@ -2372,6 +2372,18 @@
           "twitter": "bjschrijver"
         }
       ]
+    },
+    {
+      "name": "SwissDevJobs Community",
+      "city": "Zurich",
+      "country": "Switzerland",
+      "link": "https://swissdevjobs.ch/community",
+      "contacts": [
+        {
+          "name": "Greg Tomasik",
+          "email": "gregory@swissdevjobs.ch"
+        }
+      ]
     }
   ]
 }
