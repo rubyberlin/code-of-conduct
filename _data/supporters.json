@@ -2593,6 +2593,20 @@
           "email": "info@opensouthcode.org"
         }
       ]
+    },
+    {
+      "name": "Bsides Newcastle",
+      "city": "Newcastle Upon Tyne",
+      "country": "United Kingdom",
+      "link": "https://bsidesnewcastle.org",
+      "twitter": "bsidesncl",
+      "contacts": [
+        {
+          "name": "Ryan",
+          "email": "ryan@bsidesnewcastle.org, info@bsidesnewcastle.org",
+          "twitter": "chick3nhawk01"
+        }
+      ]
     }
   ]
 }
