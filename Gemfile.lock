@@ -120,7 +120,7 @@ GEM
     thread_safe (0.3.6)
     tilt (1.4.1)
     timers (1.1.0)
-    tzinfo (1.2.5)
+    tzinfo (1.2.10)
       thread_safe (~> 0.1)
     uber (0.0.8)
     uglifier (2.5.3)
