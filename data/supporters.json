@@ -1887,7 +1887,7 @@
           "email": "anna.dlawichowska@warsawjs.com"
         },
         {
-          "name": "Mirosław Stasiak", 
+          "name": "Mirosław Stasiak",
           "email": "mirek@warsawjs.com"
         }
       ]
@@ -2375,6 +2375,18 @@
           "phone": "+49 163 9198 211",
           "email": "dominic.letz@berlin.de",
           "twitter": "DominicLetz"
+        }
+      ]
+    },
+    {
+      "name": "Lakeside Code Talks FN",
+      "city": "Friedrichshafen",
+      "country": "Germany",
+      "link": "https://www.meetup.com/lakesidecodetalksfn/",
+      "contacts": [
+        {
+          "name": "Michael Goldschmidt",
+          "email": "hmgoldschmidt+lctfn@gmail.com"
         }
       ]
     }
