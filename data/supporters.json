@@ -2368,6 +2368,21 @@
           "twitter": "bjschrijver"
         }
       ]
+    },
+    {
+      "name": "Elixir Berlin",
+      "city": "Berlin",
+      "country": "Germany",
+      "link": "http://elixir.berlin",
+      "twitter": "ElixirBerlin",
+      "contacts": [
+        {
+          "name": "Dominic Letz",
+          "phone": "+49 163 9198",
+          "email": "dominic.letz@berlin.de",
+          "twitter": "DominicLetz"
+        }
+      ]
     }
   ]
 }
