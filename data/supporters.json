@@ -32,6 +32,19 @@
       ]
     },
     {
+      "name": "IT Land Education",
+      "city": "online",
+      "country": "Russia",
+      "link": "https://www.itland.space/",
+      "contacts": [
+        {
+          "name": "Olga Kad",
+          "instagram": "o.kad",
+          "email": "kadochnikova@bk.ru"
+        }
+      ]
+    },
+    {
       "name": "UpLeveled Coding Bootcamp",
       "city": "Vienna",
       "country": "Austria",
