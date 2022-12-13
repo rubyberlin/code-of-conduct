@@ -2379,6 +2379,25 @@
       ]
     },
     {
+      "name": "NØ School Nevers",
+      "city": "Nevers",
+      "country": "France",
+      "link": "http://noschoolnevers.com/",
+      "twitter": "noschoolnevers",
+      "contacts": [
+        {
+          "name": "Dasha Ilina",
+          "email": "dasha@noschoolnevers.com",
+          "twitter": "PublicDasha"
+        },
+        {
+          "name": "Ben Gaulon",
+          "email": "ben@noschoolnevers.com",
+          "twitter": "recyclism"
+        }
+      ]
+    },
+    {
       "name": "Lakeside Code Talks FN",
       "city": "Friedrichshafen",
       "country": "Germany",
