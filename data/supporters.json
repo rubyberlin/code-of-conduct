@@ -2389,6 +2389,20 @@
           "email": "hmgoldschmidt+lctfn@gmail.com"
         }
       ]
+    },
+    {
+      "name": "Open South Code",
+      "city": "Málaga",
+      "country": "Spain",
+      "link": "https://www.opensouthcode.org/",
+      "twitter": "opensouthcode",
+      "contacts": [
+        {
+          "name": "David Sedeño",
+          "twitter": "david_sedeno",
+          "email": "info@opensouthcode.org"
+        }
+      ]
     }
   ]
 }
