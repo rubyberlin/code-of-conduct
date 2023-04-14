@@ -1,0 +1,11 @@
+---
+pt-BR:
+  header:
+    title: "Código de Conduta de Berlim"
+    sub-title: "Um Código de Conduta para Todos os Grupos de Usuários e Conferências"
+  supporters:
+    title: "Apoiadores"
+    sub-title: "Esses grupos de usuários e conferências apoiam o Código de Conduta de Berlim:"
+    add: "Para incluir seu grupo de usuários/conferência aqui, basta adicioná-lo em um pull request para %{link:o nosso repositório}."
+  footer:
+    attribution: "Este código de conduta é adaptado do %{link:código de conduta da pdx.rb}."
