@@ -1,0 +1,12 @@
+---
+kr:
+  header:
+    title: "베를린 행동 강령"
+    sub-title: "모든 사용자 그룹 및 컨퍼런스를 위한 행동 강령"
+  supporters:
+    title: "서포터즈"
+    sub-title: "이 사용자 그룹과 컨퍼런스는 베를린 행동 강령을 지지합니다:"
+    add: "여기에 사용자 그룹/컨퍼런스를 나열하려면 %{link:our repository}에 풀 리퀘스트를 추가하세요."
+  footer:
+    attribution: "이 행동 강령은 %{link:pdx.rb code of conduct}에서 기원되었습니다."
+
