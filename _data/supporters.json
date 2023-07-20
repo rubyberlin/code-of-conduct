@@ -1639,6 +1639,11 @@
         {
           "name": "ReactDay.berlin",
           "twitter": "reactdayberlin",
+          "email": "hi@reactday.berlin"
+        },
+        {
+          "name": "GitNation",
+          "twitter": "gitnationorg",
           "email": "events@gitnation.org"
         }
       ]
