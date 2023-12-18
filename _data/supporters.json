@@ -2566,6 +2566,18 @@
           "email": "cprada87@me.com"
         }
       ]
+    },
+    {
+      "name": "Kongres Next.js",
+      "city": "Warsaw",
+      "country": "Poland",
+      "link": "https://kongresjs.pl",
+      "contacts": [
+        {
+          "name": "Michał Miszczyszyn",
+          "email": "hi@kongresjs.pl"
+        }
+      ]
     }
   ]
 }
