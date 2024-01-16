@@ -2554,6 +2554,18 @@
           "email": "simon.dueckert@cogneon.de"
         }
       ]
+    },
+    {
+      "name": "GranadaJUG",
+      "city": "Granada",
+      "country": "Spain",
+      "link": "https://www.meetup.com/granadajug/",
+      "contacts": [
+        {
+          "name": "Christian Prada",
+          "email": "cprada87@me.com"
+        }
+      ]
     }
   ]
 }
