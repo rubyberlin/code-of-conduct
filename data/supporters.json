@@ -2389,6 +2389,34 @@
           "email": "hmgoldschmidt+lctfn@gmail.com"
         }
       ]
+    },
+    {
+      "name": "Hack Thursday",
+      "city": "Glasgow",
+      "country": "United Kingdom",
+      "link": "https://hackthurs.day",
+      "contacts": [
+        {
+          "name": "Alice McGready",
+          "email": "scott@hackthurs.day"
+        },
+        {
+          "name": "David Carson",
+          "email": "carson@hackthurs.day"
+        },
+        {
+          "name": "Dave McKenzie",
+          "email": "dave@hackthurs.day"
+        },
+        {
+          "name": "Ger Barrett",
+          "email": "ger@hackthurs.day"
+        },
+        {
+          "name": "Scott McGready",
+          "email": "scott@hackthurs.day"
+        },
+      ]
     }
   ]
 }
