@@ -2389,6 +2389,18 @@
           "email": "hmgoldschmidt+lctfn@gmail.com"
         }
       ]
+    },
+    {
+      "name": "HackFest",
+      "city": "Enschede",
+      "country": "Netherlands",
+      "link": "https://hackfest.nl",
+      "contacts": [
+        {
+          "name": "Dave Borghuis",
+          "email": "contact@hackfest.nl"
+        }
+      ]
     }
   ]
 }
