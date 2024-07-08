@@ -1,14 +1,13 @@
 Berlin Code of Conduct
 ======================
 
-This code of conduct is online at: http://rubyberlin.github.io/code-of-conduct/
+This code of conduct is online at https://rubyberlin.github.io/code-of-conduct/
 
 Add Your User Group/Conference to the List
 ------------------------------------------
 
 1. Fork repository.
-2. Open *data/supporters.json* and add your name, location, 
-link and contact data.
+2. Open *data/supporters.json* and add your name, location, link and contact data.
 3. Check if site is working locally if possible (see [setup](#setup)).
 4. Open a pull request.
 
@@ -32,24 +31,25 @@ Do you want to translate to another language? Great! If you want to translate fr
 3. Open a pull request. We will try to find other native speakers and disscuss it there. The discussion may look like [the one for the Spanish translation](https://github.com/rubyberlin/code-of-conduct/pull/23).
 
 
-
 Setup
 -----
 
-Ruby 2.x.y (1.9.x still OK) must be [installed](http://www.ruby-lang
-.org/de/downloads/).
+Ruby 2.x.y (1.9.x still OK) must be [installed](http://www.ruby-lang.org/de/downloads/).
 
-    git clone git@github.com:rubyberlin/code-of-conduct.git
-    cd code-of-conduct
-    gem install bundler
-    bundle
-
+```bash
+git clone git@github.com:rubyberlin/code-of-conduct.git
+cd code-of-conduct
+gem install bundler
+bundle
+```
 
 Development
 -----------
 
-    cd code-of-conduct
-    bundle exec middleman
+```bash
+cd code-of-conduct
+bundle exec middleman
+```
 
 You can access the website at <http://localhost:4567/>.
 
@@ -59,10 +59,14 @@ Deployment
 
 Building the website:
 
-    cd code-of-conduct
-    bundle exec middleman build
+```bash
+cd code-of-conduct
+bundle exec middleman build
+```
 
 Deploying to github pages (needs push access to this repository):
 
-    cd code-of-conduct
-    bundle exec middleman deploy
+```bash
+cd code-of-conduct
+bundle exec middleman deploy
+```
