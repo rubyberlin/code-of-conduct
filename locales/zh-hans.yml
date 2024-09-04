@@ -1,0 +1,12 @@
+---
+zh-hans:
+  header:
+    title: "柏林行为准则"
+    sub-title: "一个适用于所有用户组和会议的行为准则"
+  supporters:
+    title: "支持者"
+    sub-title: "这些用户组和会议支持柏林行为准则："
+    add: "要将您的用户组/会议列在此处，只需在 %{link:our repository} 发起 Pull Request."
+  footer:
+    attribution: "本行为准则改编自 %{link:pdx.rb code of conduct}."
+
