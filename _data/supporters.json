@@ -2490,6 +2490,18 @@
           "email": "icma@umich.edu"
         }
       ]
+    },
+    {
+      "name": "Digital Craftsmanship Nordoberpfalz (DCN)",
+      "city": "Weiden",
+      "country": "Germany",
+      "link": "https://dc-nordoberpfalz.de/",
+      "contacts": [
+        {
+          "name": "Roland König",
+          "email": "team@dc-nordoberpfalz.de"
+        }
+      ]
     }
   ]
 }
