@@ -2389,6 +2389,20 @@
           "email": "hmgoldschmidt+lctfn@gmail.com"
         }
       ]
+    },
+    {
+      "name": "merge IT",
+      "city": "Katowice",
+      "country": "Poland",
+      "link": "https://merge-it.pl/",
+      "contacts": [
+        {
+          "name": "Marek Chrapek"
+        },
+        {
+          "name": "Anka Wolańska"
+        }
+      ]
     }
   ]
 }
