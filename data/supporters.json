@@ -2385,6 +2385,18 @@
           "email": "hmgoldschmidt+lctfn@gmail.com"
         }
       ]
+    },
+    {
+      "name": "Kongres Next.js",
+      "city": "Warsaw",
+      "country": "Poland",
+      "link": "https://kongresnextjs.pl",
+      "contacts": [
+        {
+          "name": "Michał Miszczyszyn",
+          "email": "hi@kongresnextjs.pl"
+        }
+      ]
     }
   ]
 }
