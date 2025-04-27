@@ -1,6 +1,6 @@
 {
   "usergroups": [
-     {
+    {
       "name": "NØ SCHOOL NEVERS",
       "city": "Nevers",
       "country": "France",
@@ -2464,19 +2464,17 @@
           "name": "Anka Wolańska"
         }
       ]
-    }
-  ]
-},
-{
+    },
+    {
       "name": "Creación y Exploración Visual Performativa",
       "city": "Buenos Aires",
       "country": "Argentina",
-      "link":"https://www.vjchoque.com", "https://www.cic.edu.ar/cursovideomapping",
+      "link": "https://www.cic.edu.ar/cursovideomapping",
       "contacts": [
         {
           "name": "Euge Choque",
-          "link":"https://www.vjchoque.com", 
-          "email": "eugeniagonzalezchoque@gmail.com",
+          "link": "https://www.vjchoque.com",
+          "email": "eugeniagonzalezchoque@gmail.com"
         }
       ]
     }
