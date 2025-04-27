@@ -1,5 +1,18 @@
 {
   "usergroups": [
+     {
+      "name": "NØ SCHOOL NEVERS",
+      "city": "Nevers",
+      "country": "France",
+      "link": "https://noschoolnevers.com/",
+      "twitter": "noschoolnevers",
+      "contacts": [
+        {
+          "name": "ben",
+          "email": "ben@noschoolnevers.com"
+        }
+      ]
+    },
     {
       "name": "Code Labs Academy",
       "city": "Berlin",
