@@ -2385,6 +2385,18 @@
           "email": "hmgoldschmidt+lctfn@gmail.com"
         }
       ]
+    },
+    {
+      "name": "lernOS Community",
+      "city": "Nuremberg",
+      "country": "Germany",
+      "link": "https://lernos.org",
+      "contacts": [
+        {
+          "name": "Simon Dückert",
+          "email": "simon.dueckert@cogneon.de"
+        }
+      ]
     }
   ]
 }
