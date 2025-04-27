@@ -1,6 +1,19 @@
 {
   "usergroups": [
     {
+      "name": "Code Labs Academy",
+      "city": "Berlin",
+      "country": "Germany",
+      "link": "https://codelabsacademy.com",
+      "twitter": "clabsacademy",
+      "contacts": [
+        {
+          "name": "contact",
+          "email": "hello@codelabsacademy.com"
+        }
+      ]
+    },
+    {
       "name": "dotfmp.berlin",
       "city": "Berlin",
       "country": "Germany",
