@@ -626,6 +626,18 @@
           "email": "unsoundscapes@gmail.com"
         }
       ]
+    },
+    {
+      "name": "Berlin Lean Coffee",
+      "city": "Berlin",
+      "country": "Germany",
+      "link": "https://www.meetup.com/berlin-lean-coffee/",
+      "contacts": [
+        {
+          "name": "Jonathan Hansen",
+          "email": "jonathansen@gmail.com"
+        }
+      ]
     }
   ],
   "conferences": [
