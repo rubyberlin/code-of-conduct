@@ -26,12 +26,13 @@ Expected Behavior
 *	Attempt collaboration before conflict.
 *	Refrain from demeaning, discriminatory, or harassing behavior and speech.
 *	Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
+*	Protect the integrity of research and ideas within the community. Acknowledge original sources/inspiration when pursuing related work or presenting related content.
 
 
 Unacceptable Behavior
 ---------------------
 
-Unacceptable behaviors include: intimidating, harassing, abusive, discriminatory, derogatory or demeaning speech or actions by any participant in our community online, at all related events and in one-on-one communications carried out in the context of community business. Community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
+Unacceptable behaviors include: intimidating, harassing, abusive, discriminatory, derogatory or demeaning speech or actions by any participant in our community online, at all related events and in one-on-one communications carried out in the context of community business. Community event venues may be shared with members of the public; please be respectful to all patrons of these locations. In addition, actions such as plagiarism and/or intellectual property theft also fall under the category of unacceptable behaviour.
 
 Harassment includes: harmful or prejudicial verbal or written comments related to gender, sexual orientation, race, religion, disability; inappropriate use of nudity and/or sexual images (including presentation slides); inappropriate depictions of violence (including presentation slides); deliberate intimidation, stalking or following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact, and unwelcome sexual attention.
 
