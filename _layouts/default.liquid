@@ -1,0 +1,138 @@
+{%- assign lang = page.name | replace: '.md', '' -%}
+<!doctype html>
+<html lang="{{ lang }}">
+  <head>
+    {%- if page.name == 'index.md' -%}
+      <link rel="canonical" href="/en" />
+      <meta content="0; url=/en" http-equiv="refresh" />
+    {% endif %}
+    <meta charset="UTF-8" />
+    <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible" />
+    <meta
+      content="initial-scale=1.0, maximum-scale=1.0, user-scalable=1, width=device-width"
+      name="viewport"
+    />
+    <meta content="{{ page.header.sub-title }}" name="description" />
+    <link
+      href="/assets/css/style.css" media="screen"
+      rel="stylesheet" type="text/css"
+    />
+    <title>{{ page.header.title }}</title>
+  </head>
+  <body class="layout">
+    <div class="layout--container">
+      <header class="layout--header">
+        <nav class="locales">
+          {%- assign pages = site.pages | sort: 'name' -%}
+          {%- for a_page in pages -%}
+            {%- assign a_page_ext = a_page.name | split: '.' | last -%}
+            {%- if a_page.name == 'index.md' or a_page_ext != 'md' -%}
+              {%- continue -%}
+            {%- endif -%}
+            {%- assign a_page_lang = a_page.name | replace: '.md', '' -%}
+            {%- if a_page_lang == lang -%}
+              <a class="locales--link -selected" href="/{{ a_page_lang }}">
+                {{- a_page_lang | upcase -}}
+              </a>
+            {%- else -%}
+              <a class="locales--link" href="/{{ a_page_lang }}">
+                {{- a_page_lang | upcase -}}
+              </a>
+            {%- endif -%}
+          {%- endfor -%}
+        </nav>
+        <h1 class="layout--title">{{ page.header.title }}</h1>
+        <p class="layout--sub-title">{{ page.header.sub-title }}</p>
+      </header>
+      <section id="code-of-conduct" class="text">
+        {{ content }}
+      </section>
+      <section id="supporters" class="supporters">
+        <h2 class="supporters--title">{{ page.supporters.title }}</h2>
+        <p class="supporters--sub-title">{{ page.supporters.sub-title }}</p>
+        <ul class="supporters--list">
+          {%- assign supporters =
+              site.data.supporters.usergroups |
+              concat: site.data.supporters.conferences
+          -%}
+          {%- for supporter in supporters -%}
+            <li
+                class="supporters--item"
+                id="supporters--{{
+                  supporter.name | downcase | replace: ' ', '-'
+                }}"
+            >
+              <h3 class="supporters--item-name">
+                {{ supporter.name | strip_html }}
+              </h3>
+              <div class="user group">
+                <span class="supporters--item-location">
+                  {{ supporter.city | strip_html }}
+                  |
+                  {{ supporter.country | strip_html }}
+                </span>
+                <a class="supporters--item-link" href="{{ supporter.link }}">
+                  {{
+                    supporter.link |
+                      replace: 'http://', '' | replace: 'https://', ''
+                  }}
+                </a>
+                {%- if supporter.twitter -%}
+                  <a
+                    class="supporters--item-link"
+                    href="https://twitter.com/{{ supporter.twitter }}"
+                  >
+                    @{{ supporter.twitter }}
+                  </a>
+                {%- endif -%}
+              </div>
+              <ul class="supporters--contacts">
+                {%- for contact in supporter.contacts -%}
+                  <li class="supporters--contacts-item">
+                    {{ contact.name | strip_html }}
+                    {%- if contact.email -%}
+                      <span class="supporters--contacts-item-email">
+                        {{ contact.email | strip_html }}
+                      </span>
+                    {%- endif -%}
+                    {%- if contact.phone -%}
+                      <span class="supporters--contacts-item-phone">
+                        {{ contact.phone | strip_html }}
+                      </span>
+                    {%- endif -%}
+                    {%- if contact.twitter -%}
+                      <a
+                        class="supporters--contacts-item-twitter"
+                        href="https://twitter.com/{{ contact.twitter }}"
+                      >
+                        @{{ contact.twitter }}
+                      </a>
+                    {%- endif -%}
+                  </li>
+                {%- endfor -%}
+              </ul>
+            </li>
+          {%- endfor -%}
+        </ul>
+        <p class="supporters--add">
+          {%- assign add =
+            page.supporters.add |
+            replace: '%{link:', '<a class="supporters--add-link" href="https://github.com/rubyberlin/code-of-conduct#readme">' |
+            replace: '}', '</a>'
+          -%}
+          {{ add }}
+        </p>
+      </section>
+      <footer class="footer">
+        <p class="footer--text">
+          {%- assign attribution =
+            page.footer.attribution |
+            replace: '%{link:', '<a class="footer--link" href="https://pdxruby.org/CONDUCT">' |
+            replace: '}', '</a>'
+          -%}
+          {{ attribution }}
+        </p>
+      </footer>
+    </div>
+  </body>
+</html>

@@ -1,7 +1,7 @@
 Berlin Code of Conduct
 ======================
 
-This code of conduct is online at: http://rubyberlin.github.io/code-of-conduct/
+This code of conduct is online at: https://berlincodeofconduct.org
 
 Add Your User Group/Conference to the List
 ------------------------------------------
@@ -24,7 +24,7 @@ Additions or Changes to the Code of Conduct?
 --------------------------------------------
 
 1. Fork repository.
-2. Open *source/localizable/_code-of-conduct.{locale}.md* and edit it.
+2. Open *{locale}.md* and edit it.
 3. Open a pull request and add some lines why you want it to be changed.
 
 
@@ -34,16 +34,14 @@ Translations
 Do you want to translate to another language? Great! If you want to translate from English (en) to Latin (la):
 
 1. Fork repository.
-2. Copy [*source/localizable/_code-of-conduct.en.md*](https://github.com/rubyberlin/code-of-conduct/blob/master/source/localizable/_code-of-conduct.en.md) to *source/localizable/_code-of-conduct.la.md* and edit it.
-2. Copy [*locales/en.yml*](https://github.com/rubyberlin/code-of-conduct/blob/master/locales/en.yml) to *locales/la.yml* and edit it.
-3. Edit [*config.rb*](https://github.com/rubyberlin/code-of-conduct/blob/master/config.rb) and add 'la' to 'displayed_languages' like '%i(en de es pl fr it ru ja ar *la*)'
-4. Open a pull request. We will try to find other native speakers and discuss it there. The discussion may look like [the one for the Spanish translation](https://github.com/rubyberlin/code-of-conduct/pull/23).
+2. Copy [*en.md*](https://github.com/rubyberlin/code-of-conduct/blob/main/en.md) to *la.md* and edit it.
+3. Open a pull request. We will try to find other native speakers and discuss it there. The discussion may look like [the one for the Spanish translation](https://github.com/rubyberlin/code-of-conduct/pull/23).
 
 
 Setup
 -----
 
-Ruby 2.x.y (1.9.x still OK) must be [installed](http://www.ruby-lang.org/de/downloads/).
+Ruby 3.3 must be [installed](https://www.ruby-lang.org/en/downloads/) (the `github-pages` gem as of version 232 doesn’t work with Ruby 3.4).
 
     git clone git@github.com:rubyberlin/code-of-conduct.git
     cd code-of-conduct
@@ -55,20 +53,12 @@ Development
 -----------
 
     cd code-of-conduct
-    bundle exec middleman
+    bundle exec jekyll serve
 
-You can access the website at <http://localhost:4567/>.
+You can access the website at <http://127.0.0.1:4000/>.
 
 
 Deployment
 ----------
 
-Building the website:
-
-    cd code-of-conduct
-    bundle exec middleman build
-
-Deploying to github pages (needs push access to this repository):
-
-    cd code-of-conduct
-    bundle exec middleman deploy
+Deploying to GitHub Pages should happen automatically on merges to the `main` branch. 🤞

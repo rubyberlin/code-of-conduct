@@ -1,3 +1,14 @@
+---
+header:
+  title: Berlin Code of Conduct
+  sub-title: Un Codice di Condotta per tutti gli user group e le conferenze
+supporters:
+  title: Aderenti
+  sub-title: Gli user group e le conferenze che supportano il Berlin Code of Conduct
+  add: Se vuoi aggiungere alla lista il tuo user group o la tua conferenza, semplicemente crea una pull request su %{link:our repository}.
+footer:
+  attribution: Questo Codice di Condotta è adattato dal %{link:pdx.rb code of conduct}.
+---
 Scopo
 -------
 
@@ -70,4 +81,3 @@ Licenza e attribuzione
 -----------------------
 
 Berlin Code of Conduct è distribuito sotto licenza [Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.it) e basato originariamente sul [pdx.rb Code of Conduct](https://pdxruby.org/CONDUCT).
-
