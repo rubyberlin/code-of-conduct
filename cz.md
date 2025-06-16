@@ -1,3 +1,14 @@
+---
+header:
+  title: Berlínský kodex chování
+  sub-title: Kodex chování pro setkání komunit a konference
+supporters:
+  title: Podporovatelé
+  sub-title: "Tyto komunity a konference podporují dodržování Berlínského kodexu chování:"
+  add: Chcete-li zde uvést název své konference nebo komunity, vytvořte pull request do %{link:our repository}.
+footer:
+  attribution: Tento kodex chování je převzat z %{link:pdx.rb code of conduct}.
+---
 Účel
 -------
 
@@ -48,7 +59,7 @@ Pokud se členka/člen komunity chová nepřijatelně, mohou organizátoři komu
 Pokud jste svědkyní/svědkem nebo jste obětí nepřijatelného chování
 ------------------------------------------------------
 
-Pokud jste vystaveni nebo jste svědkyní/svědkem nepřijatelného chování, nebo máte jakékoli další obavy, oznamte to prosím co nejdříve organizátorce/organizátorovi komunity nebo konference. Seznam organizátorek/organizátorů, se kterými se můžete spojit, naleznete na konci tohoto Kodexu chování. Organizátorky/Organizátoři komunity jsou k dispozici, aby pomohli členkám/členům komunity, které/kteří jsou obětí nepřijatelného chování. Organizátorky a organizátoři jsou také k dispozici, aby pomohli obětem spolupracovat s místními orgány veřejné moci. Pokud si osoba, která byla obětí nepřijetelného chování, přeje doprovod, bude jí doprovod poskytnut organizátory. 
+Pokud jste vystaveni nebo jste svědkyní/svědkem nepřijatelného chování, nebo máte jakékoli další obavy, oznamte to prosím co nejdříve organizátorce/organizátorovi komunity nebo konference. Seznam organizátorek/organizátorů, se kterými se můžete spojit, naleznete na konci tohoto Kodexu chování. Organizátorky/Organizátoři komunity jsou k dispozici, aby pomohli členkám/členům komunity, které/kteří jsou obětí nepřijatelného chování. Organizátorky a organizátoři jsou také k dispozici, aby pomohli obětem spolupracovat s místními orgány veřejné moci. Pokud si osoba, která byla obětí nepřijetelného chování, přeje doprovod, bude jí doprovod poskytnut organizátory.
 
 
 Řešení stížností
