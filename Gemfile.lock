@@ -121,7 +121,6 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (~> 4.4)
-  kramdown-parser-gfm (~> 1.1)
 
 BUNDLED WITH
    2.6.9
