@@ -32,14 +32,13 @@
             {%- endif -%}
             {%- assign a_page_lang = a_page.name | replace: '.md', '' -%}
             {%- if a_page_lang == lang -%}
-              <a class="locales--link -selected" href="/{{ a_page_lang }}">
-                {{- a_page_lang | upcase -}}
-              </a>
+              {%- assign selected = '-selected' -%}
             {%- else -%}
-              <a class="locales--link" href="/{{ a_page_lang }}">
-                {{- a_page_lang | upcase -}}
-              </a>
+              {%- assign selected = '' -%}
             {%- endif -%}
+            <a class="locales--link {{ selected }}" href="/{{ a_page_lang }}">
+              {{- a_page_lang | upcase -}}
+            </a>
           {%- endfor -%}
         </nav>
         <h1 class="layout--title">{{ page.header.title }}</h1>
