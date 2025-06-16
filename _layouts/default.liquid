@@ -26,7 +26,8 @@
           {%- assign pages = site.pages | sort: 'name' -%}
           {%- for a_page in pages -%}
             {%- assign a_page_ext = a_page.name | split: '.' | last -%}
-            {%- if a_page.name == 'index.md' or a_page_ext != 'md' -%}
+            {%- assign a_page_size = a_page.name | size -%}
+            {%- if a_page_ext != 'md' or a_page_size != 5 -%}
               {%- continue -%}
             {%- endif -%}
             {%- assign a_page_lang = a_page.name | replace: '.md', '' -%}
