@@ -41,7 +41,7 @@ Do you want to translate to another language? Great! If you want to translate fr
 Setup
 -----
 
-Ruby 3.3 must be [installed](https://www.ruby-lang.org/en/downloads/) (the `github-pages` gem as of version 232 doesn’t work with Ruby 3.4).
+Ruby 2.7 or newer must be [installed](https://www.ruby-lang.org/en/downloads/).
 
     git clone git@github.com:rubyberlin/code-of-conduct.git
     cd code-of-conduct
