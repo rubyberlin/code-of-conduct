@@ -2477,6 +2477,19 @@
           "email": "eugeniagonzalezchoque@gmail.com"
         }
       ]
+    },
+    {
+      "name": "International Computer Music Association",
+      "city": "San Francisco",
+      "country": "United States of America",
+      "link": "https://www.computermusic.org",
+      "contacts": [
+        {
+          "name": "ICMA Board",
+          "link": "https://www.computermusic.org",
+          "email": "icma@umich.edu"
+        }
+      ]
     }
   ]
 }
