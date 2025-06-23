@@ -24,7 +24,7 @@ jobs:
         # https://github.com/ruby/setup-ruby/releases/tag/v1.245.0
         uses: ruby/setup-ruby@a4effe49ee8ee5b8b5091268c473a4628afb5651
         with:
-          ruby-version: "3.3"
+          ruby-version: "3.4"
           bundler-cache: true
           cache-version: 0
       - name: Setup Pages
