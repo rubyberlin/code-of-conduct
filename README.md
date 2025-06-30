@@ -7,7 +7,7 @@ Add Your User Group/Conference to the List
 ------------------------------------------
 
 1. Fork repository.
-2. Open *data/supporters.json* and add your name, location,
+2. Open *_data/supporters.yml* and add your name, location,
 link and contact data.
   - Note that contact data is optional and public, but we recommend adding some.
 3. Check if site is working locally if possible (see [setup](#setup)).
