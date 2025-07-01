@@ -2645,6 +2645,23 @@
           "phone": "+49 3092105977"
         }
       ]
+    },
+    {
+      "name": "Feminist AI London",
+      "city": "London",
+      "country": "UK",
+      "link": "https://lu.ma/feministai-london",
+      "contacts": [
+        {
+          "name": "Cheuk Ting Ho",
+          "email": "me@cheuk.dev",
+          "link": "https://cheuk.dev"
+        },
+        {
+          "name": "Rachel-Lee Nabors",
+          "email": "rachelnabors@gmail.com"
+        }
+      ]
     }
   ]
 }
