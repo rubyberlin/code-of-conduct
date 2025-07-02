@@ -2613,17 +2613,11 @@
       "city": "Berlin",
       "country": "Germany",
       "link": "https://foss-backstage.de",
-      "twitter": "fossbckstg",
       "contacts": [
         {
-          "name": "Ekaterina Klykova",
-          "email": "ekl@newthinking.de",
-          "phone": "+49 3092105978"
-        },
-        {
           "name": "Paul Berschick",
-          "email": "pbe@newthinking.de",
-          "phone": "+49 3092105977"
+          "email": "paul@plainschwarz.com",
+          "phone": "+49 30 202371 438"
         }
       ]
     },
@@ -2632,17 +2626,24 @@
       "city": "Berlin",
       "country": "Germany",
       "link": "https://berlinbuzzwords.de",
-      "twitter": "berlinbuzzwords",
       "contacts": [
         {
-          "name": "Ekaterina Klykova",
-          "email": "ekl@newthinking.de",
-          "phone": "+49 3092105978"
-        },
+          "name": "Paul Berschick",
+          "email": "paul@plainschwarz.com",
+          "phone": "+49 30 202371 438"
+        }
+      ]
+    },
+    {
+      "name": "FOSS Backstage Design",
+      "city": "Berlin",
+      "country": "Germany",
+      "link": "https://foss-backstage.design",
+      "contacts": [
         {
           "name": "Paul Berschick",
-          "email": "pbe@newthinking.de",
-          "phone": "+49 3092105977"
+          "email": "paul@plainschwarz.com",
+          "phone": "+49 30 202371 438"
         }
       ]
     }
