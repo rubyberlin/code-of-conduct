@@ -1746,6 +1746,21 @@
       ]
     },
     {
+      "name": "C++ Usergroup Vienna",
+      "city": "Vienna",
+      "country": "Austria",
+      "link": "https://cppusergroupvienna.org/",
+      "contacts": [
+        {
+          "name": "Robert Schimkowitsch",
+          "email": "conduct@cppusergroupvienna.org"
+        },
+        {
+          "name": "René Paris"
+        }
+      ]
+    },
+    {
       "name": "BeeScala Conference",
       "city": "Ljubljana",
       "country": "Slovenia",
