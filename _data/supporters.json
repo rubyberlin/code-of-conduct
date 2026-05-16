@@ -2645,6 +2645,18 @@
           "phone": "+49 3092105977"
         }
       ]
+    },
+    {
+      "name": "P.I.W.O. Poznań Free Software Fest",
+      "city": "Poznań",
+      "country": "Poland",
+      "link": "https://piwo.sh/",
+      "contacts": [
+        {
+          "name": "contact",
+          "email": "kontakt@piwo.sh"
+        }
+      ]
     }
   ]
 }
