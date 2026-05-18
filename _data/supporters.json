@@ -790,27 +790,20 @@
           "name": "Sergio Tudela",
           "twitter": "sergiotudela"
         },
-        {
-          "name": "Carmel Hassan",
-          "twitter": "karmel"
-        }
       ]
     },
     {
       "name": "Lambda World",
-      "city": "Cádiz & Seattle",
-      "country": "Spain & USA",
+      "city": "Torremolinos",
+      "country": "Spain",
       "link": "http://www.lambda.world",
       "twitter": "Lambda_World",
       "contacts": [
         {
-          "name": "Jorge Galindo",
-          "twitter": "jorge__galindo"
+          "name": "Luis_Sánchez_de_Ybargüen",
+          "twitter": "chiefblagger"
+          "email": "lambda@yayyay.events"
         },
-        {
-          "name": "Maureen Elsberry",
-          "twitter": "MRElsberry"
-        }
       ]
     },
     {
@@ -854,11 +847,11 @@
       "link": "http://www.jonthebeach.com/",
       "twitter": "J_OnTheBeach",
       "contacts": [
-        {
-          "name": "Sergio Tudela",
-          "twitter": "sergiotudela",
-          "email": "info@jonthebeach.com"
-        }
+       {
+          "name": "Luis_Sánchez_de_Ybargüen",
+          "twitter": "chiefblagger"
+         "email": "luis@jonthebeach.com"
+        },
       ]
     },
     {
