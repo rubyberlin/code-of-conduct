@@ -1,6 +1,20 @@
 {
   "usergroups": [
     {
+      "name": "VJ CHOQUE",
+      "city": "Buenos Aires",
+      "country": "Argentina",
+      "link": "http://vjchoque.com",
+      "twitter": "",
+      "contacts": [
+        {
+          "name": "Euge Choque",
+          "twitter": "",
+          "email": "eugeniagonzalezchoque@gmail.com"
+        } 
+      ]
+    },
+    {
       "name": "EuRuKo 2017",
       "city": "Budapest",
       "country": "Hungary",
