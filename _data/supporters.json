@@ -2646,5 +2646,23 @@
         }
       ]
     }
+    {
+      "name": "KUBU",
+      "city": "Björkboda, Kimitoön",
+      "country": "Finland",
+      "link": "https://kubu.fi/",
+      "contacts": [
+        {
+          "name": "Tuomo Tammenpää",
+          "email": "tuomo@kubu.fi",
+          "phone": "+358 405254636"
+        },
+        {
+          "name": "Sari Kippilä",
+          "email": "sari@kubu.fi",
+          "phone": "+358 418064766"
+        }
+      ]
+    }
   ]
 }
